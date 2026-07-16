@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "deployment_scope": "separate GitHub Pages user-site subdirectory",
+  "not_for_current_project_pages": true,
+  "source_sitemap_sha256": "71b8e782904fa09c4b4232a27830166910ab7d54f4b78397965820b35e8509e7",
+  "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
+  "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
+  "route_count": 49,
+  "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
+  "redirects": [
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/",
+      "output_file": "antigravity-awesome-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/plugins/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/plugins/",
+      "output_file": "antigravity-awesome-skills/plugins/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ad-campaign-analyzer/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ad-campaign-analyzer/",
+      "output_file": "antigravity-awesome-skills/skill/ad-campaign-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-self-scheduling/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-self-scheduling/",
+      "output_file": "antigravity-awesome-skills/skill/agent-self-scheduling/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-sleep/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anti-sleep/",
+      "output_file": "antigravity-awesome-skills/skill/anti-sleep/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anywrite/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anywrite/",
+      "output_file": "antigravity-awesome-skills/skill/anywrite/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apple-container/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/apple-container/",
+      "output_file": "antigravity-awesome-skills/skill/apple-container/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-copilot/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ask-copilot/",
+      "output_file": "antigravity-awesome-skills/skill/ask-copilot/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/auto-research/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/auto-research/",
+      "output_file": "antigravity-awesome-skills/skill/auto-research/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brain-to-docs/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/brain-to-docs/",
+      "output_file": "antigravity-awesome-skills/skill/brain-to-docs/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-harness/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/browser-harness/",
+      "output_file": "antigravity-awesome-skills/skill/browser-harness/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/clean-code-guard/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/clean-code-guard/",
+      "output_file": "antigravity-awesome-skills/skill/clean-code-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-security-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudflare-security-audit/",
+      "output_file": "antigravity-awesome-skills/skill/cloudflare-security-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cmux/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cmux/",
+      "output_file": "antigravity-awesome-skills/skill/cmux/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/codex-profiles/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/codex-profiles/",
+      "output_file": "antigravity-awesome-skills/skill/codex-profiles/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/codex-subagent/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/codex-subagent/",
+      "output_file": "antigravity-awesome-skills/skill/codex-subagent/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/competitor-ad-intelligence/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/competitor-ad-intelligence/",
+      "output_file": "antigravity-awesome-skills/skill/competitor-ad-intelligence/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cyber-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cyber-audit/",
+      "output_file": "antigravity-awesome-skills/skill/cyber-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deepapi/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/deepapi/",
+      "output_file": "antigravity-awesome-skills/skill/deepapi/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/delegating-to-agents/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/delegating-to-agents/",
+      "output_file": "antigravity-awesome-skills/skill/delegating-to-agents/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/diagnose-android-overheating/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/diagnose-android-overheating/",
+      "output_file": "antigravity-awesome-skills/skill/diagnose-android-overheating/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/distribute-skill-to-all-agents/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/distribute-skill-to-all-agents/",
+      "output_file": "antigravity-awesome-skills/skill/distribute-skill-to-all-agents/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ditto/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ditto/",
+      "output_file": "antigravity-awesome-skills/skill/ditto/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docs-guard/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/docs-guard/",
+      "output_file": "antigravity-awesome-skills/skill/docs-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/effective-agent-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/effective-agent-skills/",
+      "output_file": "antigravity-awesome-skills/skill/effective-agent-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/feature-tracking/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/feature-tracking/",
+      "output_file": "antigravity-awesome-skills/skill/feature-tracking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gemini-deep-research/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gemini-deep-research/",
+      "output_file": "antigravity-awesome-skills/skill/gemini-deep-research/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/grok-build/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/grok-build/",
+      "output_file": "antigravity-awesome-skills/skill/grok-build/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-autopsy/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-autopsy/",
+      "output_file": "antigravity-awesome-skills/skill/idea-autopsy/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lore/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/lore/",
+      "output_file": "antigravity-awesome-skills/skill/lore/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ontoly-software-graph/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ontoly-software-graph/",
+      "output_file": "antigravity-awesome-skills/skill/ontoly-software-graph/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/optim-agent/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/optim-agent/",
+      "output_file": "antigravity-awesome-skills/skill/optim-agent/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/postgres-readonly-queries/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/postgres-readonly-queries/",
+      "output_file": "antigravity-awesome-skills/skill/postgres-readonly-queries/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pptx-deck-creation/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/pptx-deck-creation/",
+      "output_file": "antigravity-awesome-skills/skill/pptx-deck-creation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/product-decision-agent/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/product-decision-agent/",
+      "output_file": "antigravity-awesome-skills/skill/product-decision-agent/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/quit-sponsor/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/quit-sponsor/",
+      "output_file": "antigravity-awesome-skills/skill/quit-sponsor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sshepherd/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sshepherd/",
+      "output_file": "antigravity-awesome-skills/skill/sshepherd/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/telegram-bot-messaging/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/telegram-bot-messaging/",
+      "output_file": "antigravity-awesome-skills/skill/telegram-bot-messaging/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/test-guard/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/test-guard/",
+      "output_file": "antigravity-awesome-skills/skill/test-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tree-ring-memory/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/tree-ring-memory/",
+      "output_file": "antigravity-awesome-skills/skill/tree-ring-memory/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uizze-ui-research/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/uizze-ui-research/",
+      "output_file": "antigravity-awesome-skills/skill/uizze-ui-research/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/warehouse/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/warehouse/",
+      "output_file": "antigravity-awesome-skills/skill/warehouse/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/woo-guard/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/woo-guard/",
+      "output_file": "antigravity-awesome-skills/skill/woo-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wp-guard/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/wp-guard/",
+      "output_file": "antigravity-awesome-skills/skill/wp-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/topics/antigravity-cli-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/topics/antigravity-cli-skills/",
+      "output_file": "antigravity-awesome-skills/topics/antigravity-cli-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/topics/antigravity-plugins/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/topics/antigravity-plugins/",
+      "output_file": "antigravity-awesome-skills/topics/antigravity-plugins/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/topics/github-ai-skills-repository/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/topics/github-ai-skills-repository/",
+      "output_file": "antigravity-awesome-skills/topics/github-ai-skills-repository/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/topics/skills-para-antigravity/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/topics/skills-para-antigravity/",
+      "output_file": "antigravity-awesome-skills/topics/skills-para-antigravity/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/workbench/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/workbench/",
+      "output_file": "antigravity-awesome-skills/workbench/index.html"
+    }
+  ]
+}
