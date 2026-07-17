@@ -1,0 +1,227 @@
+name: Legacy Redirect Bridge Sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      live_mode:
+        description: "Live verification depth"
+        required: true
+        default: sample
+        type: choice
+        options:
+          - sample
+          - all
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  actions: write
+  contents: write
+  pages: write
+  pull-requests: write
+
+concurrency:
+  group: legacy-redirect-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - name: Check out the protected deployment
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
+        with:
+          path: legacy
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check out the canonical redirect generator
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
+        with:
+          repository: sickn33/agentic-awesome-skills
+          ref: main
+          path: source
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 24
+
+      - name: Capture the immutable source head
+        id: source
+        run: echo "sha=$(git -C source rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Capture the immutable target base
+        id: target
+        run: echo "base_sha=$(git -C legacy rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Generate the expected managed deployment
+        run: node source/tools/scripts/generate-pages-redirect-bridge.js --output "$RUNNER_TEMP/redirect-bridge"
+
+      - name: Ensure source main did not move during generation
+        env:
+          SOURCE_SHA: ${{ steps.source.outputs.sha }}
+        run: |
+          remote_sha="$(git ls-remote https://github.com/sickn33/agentic-awesome-skills.git refs/heads/main | cut -f1)"
+          test "$remote_sha" = "$SOURCE_SHA"
+
+      - name: Detect managed drift
+        id: drift
+        continue-on-error: true
+        run: node source/tools/scripts/verify-pages-redirect-bridge.js --deployment-root legacy
+
+      - name: Replace only the managed deployment surface
+        if: ${{ steps.drift.outcome == 'failure' }}
+        run: |
+          rm -rf legacy/antigravity-awesome-skills
+          cp -R "$RUNNER_TEMP/redirect-bridge/antigravity-awesome-skills" legacy/antigravity-awesome-skills
+          cp "$RUNNER_TEMP/redirect-bridge/redirect-manifest.json" legacy/redirect-manifest.json
+          cp "$RUNNER_TEMP/redirect-bridge/.nojekyll" legacy/.nojekyll
+
+      - name: Fail closed on an unmanaged diff
+        if: ${{ steps.drift.outcome == 'failure' }}
+        run: |
+          while IFS= read -r status_line; do
+            file="${status_line:3}"
+            case "$file" in
+              .nojekyll|redirect-manifest.json|antigravity-awesome-skills/*) ;;
+              *) echo "Unmanaged sync diff: $file" >&2; exit 1 ;;
+            esac
+          done < <(git -C legacy status --porcelain=v1)
+
+      - name: Create or update the protected sync PR
+        if: ${{ steps.drift.outcome == 'failure' }}
+        id: sync_pr
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8
+        with:
+          path: legacy
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automation/legacy-redirect-sync
+          base: main
+          delete-branch: true
+          commit-message: "chore: sync legacy redirect bridge"
+          title: "chore: sync legacy redirect bridge"
+          body: |
+            Automated protected synchronization from `sickn33/agentic-awesome-skills@${{ steps.source.outputs.sha }}`.
+
+            Managed paths only: `.nojekyll`, `redirect-manifest.json`, and `antigravity-awesome-skills/**`.
+
+      - name: Dispatch and bind a fresh exact-head verification
+        if: ${{ steps.sync_pr.outputs.pull-request-number != '' }}
+        id: verification
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HEAD_SHA: ${{ steps.sync_pr.outputs.pull-request-head-sha }}
+          PR_BRANCH: ${{ steps.sync_pr.outputs.pull-request-branch }}
+        run: |
+          gh run list --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
+            --jq ".[] | select(.headSha == \"$HEAD_SHA\") | .databaseId" > "$RUNNER_TEMP/preexisting-verification-runs"
+          gh workflow run legacy-redirect-verify.yml --ref "$PR_BRANCH" -f expected_head_sha="$HEAD_SHA"
+          run_id=""
+          for attempt in {1..60}; do
+            while IFS= read -r candidate; do
+              if ! grep -Fxq "$candidate" "$RUNNER_TEMP/preexisting-verification-runs"; then
+                run_id="$candidate"
+                break
+              fi
+            done < <(gh run list --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
+              --jq ".[] | select(.headSha == \"$HEAD_SHA\") | .databaseId")
+            if test -n "$run_id"; then break; fi
+            sleep 10
+          done
+          test -n "$run_id"
+          run="$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}")"
+          test "$(jq -r .event <<<"$run")" = "workflow_dispatch"
+          test "$(jq -r .head_sha <<<"$run")" = "$HEAD_SHA"
+          test "$(jq -r .head_branch <<<"$run")" = "$PR_BRANCH"
+          test "$(jq -r .path <<<"$run")" = ".github/workflows/legacy-redirect-verify.yml"
+          test "$(jq -r .actor.login <<<"$run")" = "github-actions[bot]"
+          gh run watch "$run_id" --exit-status
+          test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}" --jq .conclusion)" = "success"
+          test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/jobs" --jq '[.jobs[] | select(.name == "legacy-bridge-verify" and .conclusion == "success")] | length')" = "1"
+          echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
+
+      - name: Validate and merge the exact protected PR head
+        if: ${{ steps.sync_pr.outputs.pull-request-number != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_SHA: ${{ steps.target.outputs.base_sha }}
+          HEAD_SHA: ${{ steps.sync_pr.outputs.pull-request-head-sha }}
+          PR_NUMBER: ${{ steps.sync_pr.outputs.pull-request-number }}
+          RUN_ID: ${{ steps.verification.outputs.run_id }}
+        run: |
+          protection="$(gh api "repos/${GITHUB_REPOSITORY}/branches/main/protection")"
+          test "$(jq -r .required_status_checks.strict <<<"$protection")" = "true"
+          test "$(jq -r '[.required_status_checks.checks[] | select(.context == "legacy-bridge-verify" and .app_id == 15368)] | length' <<<"$protection")" = "1"
+          test "$(jq -r .enforce_admins.enabled <<<"$protection")" = "true"
+          test "$(jq -r '.required_pull_request_reviews != null' <<<"$protection")" = "true"
+          test "$(jq -r .required_pull_request_reviews.required_approving_review_count <<<"$protection")" = "0"
+          test "$(jq -r .allow_force_pushes.enabled <<<"$protection")" = "false"
+          test "$(jq -r .allow_deletions.enabled <<<"$protection")" = "false"
+          test "$(gh api "repos/${GITHUB_REPOSITORY}/commits/main" --jq .sha)" = "$BASE_SHA"
+          pr="$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}")"
+          test "$(jq -r .head.sha <<<"$pr")" = "$HEAD_SHA"
+          test "$(jq -r .head.ref <<<"$pr")" = "automation/legacy-redirect-sync"
+          test "$(jq -r .head.repo.full_name <<<"$pr")" = "$GITHUB_REPOSITORY"
+          test "$(jq -r .base.ref <<<"$pr")" = "main"
+          test "$(jq -r .base.sha <<<"$pr")" = "$BASE_SHA"
+          test "$(jq -r .user.login <<<"$pr")" = "github-actions[bot]"
+          test "$(jq -r .state <<<"$pr")" = "open"
+          verification="$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}")"
+          test "$(jq -r .head_sha <<<"$verification")" = "$HEAD_SHA"
+          test "$(jq -r .conclusion <<<"$verification")" = "success"
+          while IFS= read -r file; do
+            case "$file" in
+              .nojekyll|redirect-manifest.json|antigravity-awesome-skills/*) ;;
+              *) echo "Unmanaged PR file: $file" >&2; exit 1 ;;
+            esac
+          done < <(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/files" --paginate --jq '.[].filename')
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --match-head-commit "$HEAD_SHA" --delete-branch
+
+      - name: Ensure the current main commit is published by Pages
+        id: pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HAD_SYNC_PR: ${{ steps.sync_pr.outputs.pull-request-number }}
+        run: |
+          main_sha="$(gh api "repos/${GITHUB_REPOSITORY}/commits/main" --jq .sha)"
+          git -C legacy fetch --force origin main
+          git -C legacy checkout --detach --force "$main_sha"
+          test "$(git -C legacy rev-parse HEAD)" = "$main_sha"
+          latest_commit="$(gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest" --jq .commit 2>/dev/null || true)"
+          latest_status="$(gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest" --jq .status 2>/dev/null || true)"
+          if test -n "$HAD_SYNC_PR" || test "$latest_commit" != "$main_sha" || test "$latest_status" != "built"; then
+            gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds" >/dev/null
+          fi
+          for attempt in {1..90}; do
+            latest="$(gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest")"
+            latest_commit="$(jq -r .commit <<<"$latest")"
+            latest_status="$(jq -r .status <<<"$latest")"
+            if test "$latest_commit" = "$main_sha" && test "$latest_status" = "built"; then
+              echo "main_sha=$main_sha" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if test "$latest_commit" = "$main_sha" && test "$latest_status" = "errored"; then
+              jq -r '.error.message // "Pages build failed"' <<<"$latest" >&2
+              exit 1
+            fi
+            sleep 10
+          done
+          exit 1
+
+      - name: Verify protected files and live redirect surfaces
+        env:
+          REQUESTED_MODE: ${{ inputs.live_mode || 'sample' }}
+        run: |
+          mode="$REQUESTED_MODE"
+          if test "${{ github.event_name }}" = "schedule" && test "$(date -u +%u)" = "1" && test "$(date -u +%H)" = "00"; then mode="all"; fi
+          node source/tools/scripts/verify-pages-redirect-bridge.js --deployment-root legacy
+          for attempt in {1..25}; do
+            if node source/tools/scripts/verify-pages-redirect-bridge.js \
+              --deployment-root legacy \
+              --live-root https://sickn33.github.io/ \
+              --live-mode "$mode"; then exit 0; fi
+            sleep 30
+          done
+          exit 1
