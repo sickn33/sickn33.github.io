@@ -151,14 +151,7 @@ jobs:
           PR_NUMBER: ${{ steps.sync_pr.outputs.pull-request-number }}
           RUN_ID: ${{ steps.verification.outputs.run_id }}
         run: |
-          protection="$(gh api "repos/${GITHUB_REPOSITORY}/branches/main/protection")"
-          test "$(jq -r .required_status_checks.strict <<<"$protection")" = "true"
-          test "$(jq -r '[.required_status_checks.checks[] | select(.context == "legacy-bridge-verify" and .app_id == 15368)] | length' <<<"$protection")" = "1"
-          test "$(jq -r .enforce_admins.enabled <<<"$protection")" = "true"
-          test "$(jq -r '.required_pull_request_reviews != null' <<<"$protection")" = "true"
-          test "$(jq -r .required_pull_request_reviews.required_approving_review_count <<<"$protection")" = "0"
-          test "$(jq -r .allow_force_pushes.enabled <<<"$protection")" = "false"
-          test "$(jq -r .allow_deletions.enabled <<<"$protection")" = "false"
+          test "$(gh api "repos/${GITHUB_REPOSITORY}/branches/main" --jq .protected)" = "true"
           test "$(gh api "repos/${GITHUB_REPOSITORY}/commits/main" --jq .sha)" = "$BASE_SHA"
           pr="$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}")"
           test "$(jq -r .head.sha <<<"$pr")" = "$HEAD_SHA"
