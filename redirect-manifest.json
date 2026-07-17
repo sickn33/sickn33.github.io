@@ -1,5 +1,6 @@
 {
   "schema_version": 3,
+  "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
   "source_sitemap_sha256": "f795c54ba043b69ea03cb43f56eacd1001421f752d63c588d54da49e1db0f14d",
