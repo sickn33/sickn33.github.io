@@ -5,6 +5,6 @@ Agentic Awesome Skills rename.
 
 Requests under `/antigravity-awesome-skills/` receive a static HTML redirect
 and canonical link to the matching route under `/agentic-awesome-skills/`.
-The redirect set is generated from the canonical sitemap by
+The redirect set is generated from the canonical skill catalog plus its curated sitemap by
 `agentic-awesome-skills`'s `pages:redirect-bridge` maintainer command; see
 `redirect-manifest.json` for the exact source and route mapping.
