@@ -115,9 +115,9 @@ jobs:
           HEAD_SHA: ${{ steps.sync_pr.outputs.pull-request-head-sha }}
           PR_BRANCH: ${{ steps.sync_pr.outputs.pull-request-branch }}
         run: |
-          gh run list --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
+          gh run list --repo "$GITHUB_REPOSITORY" --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
             --jq ".[] | select(.headSha == \"$HEAD_SHA\") | .databaseId" > "$RUNNER_TEMP/preexisting-verification-runs"
-          gh workflow run legacy-redirect-verify.yml --ref "$PR_BRANCH" -f expected_head_sha="$HEAD_SHA"
+          gh workflow run legacy-redirect-verify.yml --repo "$GITHUB_REPOSITORY" --ref "$PR_BRANCH" -f expected_head_sha="$HEAD_SHA"
           run_id=""
           for attempt in {1..60}; do
             while IFS= read -r candidate; do
@@ -125,7 +125,7 @@ jobs:
                 run_id="$candidate"
                 break
               fi
-            done < <(gh run list --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
+            done < <(gh run list --repo "$GITHUB_REPOSITORY" --workflow legacy-redirect-verify.yml --branch "$PR_BRANCH" --event workflow_dispatch --limit 100 --json databaseId,headSha \
               --jq ".[] | select(.headSha == \"$HEAD_SHA\") | .databaseId")
             if test -n "$run_id"; then break; fi
             sleep 10
@@ -137,7 +137,7 @@ jobs:
           test "$(jq -r .head_branch <<<"$run")" = "$PR_BRANCH"
           test "$(jq -r .path <<<"$run")" = ".github/workflows/legacy-redirect-verify.yml"
           test "$(jq -r .actor.login <<<"$run")" = "github-actions[bot]"
-          gh run watch "$run_id" --exit-status
+          gh run watch "$run_id" --repo "$GITHUB_REPOSITORY" --exit-status
           test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}" --jq .conclusion)" = "success"
           test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/jobs" --jq '[.jobs[] | select(.name == "legacy-bridge-verify" and .conclusion == "success")] | length')" = "1"
           echo "run_id=$run_id" >> "$GITHUB_OUTPUT"

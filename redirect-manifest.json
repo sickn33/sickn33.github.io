@@ -12,6 +12,17 @@
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
+  "webmaster_verification": {
+    "google": {
+      "legacy_file": "antigravity-awesome-skills/google5815fd8827d2319c.html",
+      "sha256": "461e8db95220ea12b4d250d039f5f4d6adb3ad4efa217fdca2f9af458d2659f1"
+    },
+    "bing": {
+      "legacy_page": "antigravity-awesome-skills/index.html",
+      "meta_name": "msvalidate.01",
+      "token": "CAC904EB0D2DD1B22B5F2BC540CAD654"
+    }
+  },
   "redirects": [
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/",
