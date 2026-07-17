@@ -19,6 +19,7 @@ permissions:
   contents: write
   pages: write
   pull-requests: write
+  statuses: write
 
 concurrency:
   group: legacy-redirect-sync
@@ -140,6 +141,11 @@ jobs:
           gh run watch "$run_id" --repo "$GITHUB_REPOSITORY" --exit-status
           test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}" --jq .conclusion)" = "success"
           test "$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/jobs" --jq '[.jobs[] | select(.name == "legacy-bridge-verify" and .conclusion == "success")] | length')" = "1"
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/statuses/${HEAD_SHA}" \
+            -f state=success \
+            -f context=legacy-bridge-verify \
+            -f description="Verified exact managed bridge tree" \
+            -f target_url="https://github.com/${GITHUB_REPOSITORY}/actions/runs/${run_id}" >/dev/null
           echo "run_id=$run_id" >> "$GITHUB_OUTPUT"
 
       - name: Validate and merge the exact protected PR head
@@ -150,6 +156,7 @@ jobs:
           HEAD_SHA: ${{ steps.sync_pr.outputs.pull-request-head-sha }}
           PR_NUMBER: ${{ steps.sync_pr.outputs.pull-request-number }}
           RUN_ID: ${{ steps.verification.outputs.run_id }}
+          SOURCE_SHA: ${{ steps.source.outputs.sha }}
         run: |
           test "$(gh api "repos/${GITHUB_REPOSITORY}/branches/main" --jq .protected)" = "true"
           test "$(gh api "repos/${GITHUB_REPOSITORY}/commits/main" --jq .sha)" = "$BASE_SHA"
@@ -164,13 +171,23 @@ jobs:
           verification="$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${RUN_ID}")"
           test "$(jq -r .head_sha <<<"$verification")" = "$HEAD_SHA"
           test "$(jq -r .conclusion <<<"$verification")" = "success"
+          test "$(git ls-remote https://github.com/sickn33/agentic-awesome-skills.git refs/heads/main | cut -f1)" = "$SOURCE_SHA"
           while IFS= read -r file; do
             case "$file" in
               .nojekyll|redirect-manifest.json|antigravity-awesome-skills/*) ;;
               *) echo "Unmanaged PR file: $file" >&2; exit 1 ;;
             esac
           done < <(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/files" --paginate --jq '.[].filename')
-          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --match-head-commit "$HEAD_SHA" --delete-branch
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --auto --match-head-commit "$HEAD_SHA" --delete-branch
+          for attempt in {1..60}; do
+            pr="$(gh api "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}")"
+            if test "$(jq -r .merged <<<"$pr")" = "true"; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Protected sync PR did not merge after auto-merge was enabled" >&2
+          exit 1
 
       - name: Ensure the current main commit is published by Pages
         id: pages
