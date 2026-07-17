@@ -1,0 +1,60 @@
+name: Legacy Redirect Bridge Verification
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+    paths:
+      - ".nojekyll"
+      - "redirect-manifest.json"
+      - "antigravity-awesome-skills/**"
+      - ".github/workflows/legacy-redirect-*.yml"
+  workflow_dispatch:
+    inputs:
+      expected_head_sha:
+        description: "Exact target head SHA expected by the sync workflow"
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: legacy-bridge-verify-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  legacy-bridge-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out protected deployment
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
+        with:
+          path: legacy
+          persist-credentials: false
+
+      - name: Bind a dispatched run to the expected head
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.expected_head_sha != '' }}
+        env:
+          EXPECTED_HEAD_SHA: ${{ inputs.expected_head_sha }}
+        run: |
+          actual_head_sha="$(git -C legacy rev-parse HEAD)"
+          test "$actual_head_sha" = "$EXPECTED_HEAD_SHA"
+
+      - name: Check out the canonical redirect generator
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
+        with:
+          repository: sickn33/agentic-awesome-skills
+          ref: main
+          path: source
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 24
+
+      - name: Verify the managed deployment byte-for-byte
+        run: node source/tools/scripts/verify-pages-redirect-bridge.js --deployment-root legacy
