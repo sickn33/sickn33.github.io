@@ -2,7 +2,7 @@
   "schema_version": 2,
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "793f730804a23605906f447d949de3951ae52a44b79ff66d033c3c2416e366cd",
+  "source_sitemap_sha256": "f795c54ba043b69ea03cb43f56eacd1001421f752d63c588d54da49e1db0f14d",
   "source_skills_index_sha256": "073d00a736d2b8dd252c719da760b7bb1d9fd232fa70bc9fe01bb48b1428a3f3",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
