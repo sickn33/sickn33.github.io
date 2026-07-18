@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "e2ac6b408c73e87cd07064b282659216c7eb10d65bb3ef8abfe997bbf28feb97",
-  "source_skills_index_sha256": "073d00a736d2b8dd252c719da760b7bb1d9fd232fa70bc9fe01bb48b1428a3f3",
+  "source_sitemap_sha256": "92df328c37a1d81a3d6317981cadd98e04f8474bc148802c84f51d79b1c360ef",
+  "source_skills_index_sha256": "e0ee4dad461b5beff6ad65f7feb0863342f170ae764012301925118d1bc0d5e6",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1965,
-  "route_count": 1972,
+  "current_skill_route_count": 1968,
+  "route_count": 1975,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -524,6 +524,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/antigravity-design-expert/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/antigravity-design-expert/",
       "output_file": "antigravity-awesome-skills/skill/antigravity-design-expert/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/antigravity-maintainer-batch-release/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/antigravity-maintainer-batch-release/",
+      "output_file": "antigravity-awesome-skills/skill/antigravity-maintainer-batch-release/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/antigravity-skill-orchestrator/",
@@ -3556,6 +3561,11 @@
       "output_file": "antigravity-awesome-skills/skill/energy-procurement/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/engine-selection/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/engine-selection/",
+      "output_file": "antigravity-awesome-skills/skill/engine-selection/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/enhance-prompt/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/enhance-prompt/",
       "output_file": "antigravity-awesome-skills/skill/enhance-prompt/index.html"
@@ -5924,6 +5934,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mock-hunter/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mock-hunter/",
       "output_file": "antigravity-awesome-skills/skill/mock-hunter/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modellix/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/modellix/",
+      "output_file": "antigravity-awesome-skills/skill/modellix/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modern-javascript-patterns/",
