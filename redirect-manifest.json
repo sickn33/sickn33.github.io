@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "f8a26f44939ed4ada14744b5bd6dc336b88a7901ce2103eefc765c48625f7f3f",
-  "source_skills_index_sha256": "07673e339e52ef01165fd45381283a17a3e7c9dd5ffb640b889929dd3d5a5582",
+  "source_sitemap_sha256": "f9c95eb770d69d9a422b5aafff256a2cee2ad997d82c3763894de699e48ff5c1",
+  "source_skills_index_sha256": "cf2c0d0eb5630c5ff6e52da656a7683ebee9b6b51e5f5d40a36837b56dcaa018",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1969,
-  "route_count": 1976,
+  "current_skill_route_count": 1987,
+  "route_count": 1994,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4566,6 +4566,11 @@
       "output_file": "antigravity-awesome-skills/skill/helpdesk-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hf-cloud-aws-context-discovery/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hf-cloud-aws-context-discovery/",
+      "output_file": "antigravity-awesome-skills/skill/hf-cloud-aws-context-discovery/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hf-mcp/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hf-mcp/",
       "output_file": "antigravity-awesome-skills/skill/hf-mcp/index.html"
@@ -5736,9 +5741,59 @@
       "output_file": "antigravity-awesome-skills/skill/marketing-psychology/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-angular/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-angular/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-angular/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-custom-components/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-custom-components/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-custom-components/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-install/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-install/",
       "output_file": "antigravity-awesome-skills/skill/markstream-install/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-migration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-migration/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-migration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-nuxt/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-nuxt/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-nuxt/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-react/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-react/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-react/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-svelte/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-svelte/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-svelte/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-vue/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-vue/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2-cli/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-vue2-cli/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-vue2-cli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2-vite/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-vue2-vite/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-vue2-vite/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-vue2/",
+      "output_file": "antigravity-awesome-skills/skill/markstream-vue2/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mason/",
@@ -6091,6 +6146,16 @@
       "output_file": "antigravity-awesome-skills/skill/multiplayer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-agents/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-agents/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-agents/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-binary-and-data/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-binary-and-data/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-binary-and-data/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-code-javascript/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-code-javascript/",
       "output_file": "antigravity-awesome-skills/skill/n8n-code-javascript/index.html"
@@ -6099,6 +6164,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-code-python/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-code-python/",
       "output_file": "antigravity-awesome-skills/skill/n8n-code-python/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-code-tool/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-code-tool/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-code-tool/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-error-handling/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-error-handling/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-error-handling/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-expression-syntax/",
@@ -6111,9 +6186,19 @@
       "output_file": "antigravity-awesome-skills/skill/n8n-mcp-tools-expert/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-multi-instance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-multi-instance/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-multi-instance/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-node-configuration/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-node-configuration/",
       "output_file": "antigravity-awesome-skills/skill/n8n-node-configuration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-subworkflows/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/n8n-subworkflows/",
+      "output_file": "antigravity-awesome-skills/skill/n8n-subworkflows/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-validation-expert/",
@@ -9239,6 +9324,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-git-worktrees/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/using-git-worktrees/",
       "output_file": "antigravity-awesome-skills/skill/using-git-worktrees/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-n8n-mcp-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/using-n8n-mcp-skills/",
+      "output_file": "antigravity-awesome-skills/skill/using-n8n-mcp-skills/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-neon/",
