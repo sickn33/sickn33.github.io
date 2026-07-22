@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "7aa455bb1bd822d0690e969a87e7d41e87d4f37312ffe41430b58ae6b2add9fc",
-  "source_skills_index_sha256": "e11181a29a36d45fe2bbafdce1933e93b3aefe31d227ba65e0cdccb19b2f0bc3",
+  "source_sitemap_sha256": "c72fdfeb22c532dafa666aefa8616c36bcb64a2fa6540dd4575f559e55b54ac6",
+  "source_skills_index_sha256": "a0e8a9fa759f07bc2cfcdc63534a2d95ec0f126e13bb3994e70c73e43d9a2729",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1987,
-  "route_count": 1994,
+  "current_skill_route_count": 1988,
+  "route_count": 1995,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7994,6 +7994,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-dataforseo/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/seo-dataforseo/",
       "output_file": "antigravity-awesome-skills/skill/seo-dataforseo/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-drift/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/seo-drift/",
+      "output_file": "antigravity-awesome-skills/skill/seo-drift/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-forensic-incident-response/",
