@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "e2634c11c0ecfb640ac6a8c6ada4f2b2a80baaa0ff163643275a86a3df15e490",
-  "source_skills_index_sha256": "a0e8a9fa759f07bc2cfcdc63534a2d95ec0f126e13bb3994e70c73e43d9a2729",
+  "source_sitemap_sha256": "ef39434a1e522c9869db12990d70e5b30c021a9b6fcf9c6a431c64fd9ce8da58",
+  "source_skills_index_sha256": "cf6080d3c76f9661d7998ce038e756097a30465d497a98660be2f78e2f756954",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1988,
-  "route_count": 1995,
+  "current_skill_route_count": 1989,
+  "route_count": 1996,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6644,6 +6644,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/orchestrate-batch-refactor/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/orchestrate-batch-refactor/",
       "output_file": "antigravity-awesome-skills/skill/orchestrate-batch-refactor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/orchestrate/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/orchestrate/",
+      "output_file": "antigravity-awesome-skills/skill/orchestrate/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/os-scripting/",
