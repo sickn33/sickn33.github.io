@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "ef39434a1e522c9869db12990d70e5b30c021a9b6fcf9c6a431c64fd9ce8da58",
-  "source_skills_index_sha256": "cf6080d3c76f9661d7998ce038e756097a30465d497a98660be2f78e2f756954",
+  "source_sitemap_sha256": "4be46df603e56d6a4a40ba5ae2c30a410033d664434020d40bcaa5a95aeef6af",
+  "source_skills_index_sha256": "143dd12a4d70e8cd4db0923558d0e8e50b06e2255b4b294bb8cdc37853817ab7",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1989,
-  "route_count": 1996,
+  "current_skill_route_count": 1991,
+  "route_count": 1998,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3826,6 +3826,11 @@
       "output_file": "antigravity-awesome-skills/skill/feature-tracking/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fedora-hyprland-installer/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fedora-hyprland-installer/",
+      "output_file": "antigravity-awesome-skills/skill/fedora-hyprland-installer/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ffuf-claude-skill/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ffuf-claude-skill/",
       "output_file": "antigravity-awesome-skills/skill/ffuf-claude-skill/index.html"
@@ -3864,6 +3869,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/find-bugs/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/find-bugs/",
       "output_file": "antigravity-awesome-skills/skill/find-bugs/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/find-complementary-founders/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/find-complementary-founders/",
+      "output_file": "antigravity-awesome-skills/skill/find-complementary-founders/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/finishing-a-development-branch/",
