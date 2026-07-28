@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "487c4bb8e764d39f7437e85913d6cd397014b33bdcc468424dac4858e1b0967d",
-  "source_skills_index_sha256": "143dd12a4d70e8cd4db0923558d0e8e50b06e2255b4b294bb8cdc37853817ab7",
+  "source_sitemap_sha256": "2b2d6db1778de8a9a64630caf1b3e510538192913a4a6a0b48befd8a12cc9f47",
+  "source_skills_index_sha256": "68544b2c487235e0ff9e83328b616f74dbdb9e626e7ef221f4afdd22be7a1ee0",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1991,
-  "route_count": 1998,
+  "current_skill_route_count": 1992,
+  "route_count": 1999,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1799,6 +1799,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brave-man/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/brave-man/",
       "output_file": "antigravity-awesome-skills/skill/brave-man/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brendangregg-use-tsa/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/brendangregg-use-tsa/",
+      "output_file": "antigravity-awesome-skills/skill/brendangregg-use-tsa/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brevo-automation/",
