@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "2b2d6db1778de8a9a64630caf1b3e510538192913a4a6a0b48befd8a12cc9f47",
-  "source_skills_index_sha256": "68544b2c487235e0ff9e83328b616f74dbdb9e626e7ef221f4afdd22be7a1ee0",
+  "source_sitemap_sha256": "99fc7b9c94eaf0dfd5fcecdaa4967f263f25b9b326f248e016c2b49b5226ffc8",
+  "source_skills_index_sha256": "08effc35bb514a1fc5c85137369521b0d4ae0da7070cf3399524a59cb480597d",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1992,
-  "route_count": 1999,
+  "current_skill_route_count": 1993,
+  "route_count": 2000,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1849,6 +1849,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-test/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/brooks-test/",
       "output_file": "antigravity-awesome-skills/skill/brooks-test/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-act/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/browser-act/",
+      "output_file": "antigravity-awesome-skills/skill/browser-act/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-automation/",
