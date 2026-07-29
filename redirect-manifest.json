@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "5002ee6cebc1b13610f6134009f671b22ad75d3ab19190e98f5320b20da83d10",
-  "source_skills_index_sha256": "4583d7d3c272230480d507c0fa35bb3f31e893532d38463ce75397b99700735c",
+  "source_sitemap_sha256": "ab8fc22180f978db7d29e4f8656fb0f170b7431ce2525bffe7728b82ec271193",
+  "source_skills_index_sha256": "91cd1a09065dd608502a0e1941e5073cc2ef0582a72e5eb53bffd682252fffa1",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1993,
-  "route_count": 2000,
+  "current_skill_route_count": 1994,
+  "route_count": 2001,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2409,6 +2409,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/codex-subagent/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/codex-subagent/",
       "output_file": "antigravity-awesome-skills/skill/codex-subagent/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cohesivity/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cohesivity/",
+      "output_file": "antigravity-awesome-skills/skill/cohesivity/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cold-email/",
