@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a8fc795b94733ab649eca0b4e1828a918bb4dc477d99abba86e61c7b2cf600ea",
-  "source_skills_index_sha256": "91cd1a09065dd608502a0e1941e5073cc2ef0582a72e5eb53bffd682252fffa1",
+  "source_sitemap_sha256": "df49f7ea3eac8df13b4a775f3b9c6470b6a6c542443f5e31f5d1dc96d1cdf3d2",
+  "source_skills_index_sha256": "47e32972b89673aba96ad0e28b04f0a5a93d4ffefc6497a997deb9d85d5ac50d",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1994,
-  "route_count": 2001,
+  "current_skill_route_count": 1997,
+  "route_count": 2004,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2691,6 +2691,11 @@
       "output_file": "antigravity-awesome-skills/skill/cost-optimization/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cowork-to-code-bridge/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cowork-to-code-bridge/",
+      "output_file": "antigravity-awesome-skills/skill/cowork-to-code-bridge/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cpp-pro/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cpp-pro/",
       "output_file": "antigravity-awesome-skills/skill/cpp-pro/index.html"
@@ -3749,6 +3754,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fable-safe-prompt/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fable-safe-prompt/",
       "output_file": "antigravity-awesome-skills/skill/fable-safe-prompt/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fact-check-x-complete/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fact-check-x-complete/",
+      "output_file": "antigravity-awesome-skills/skill/fact-check-x-complete/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/faf-context/",
@@ -5654,6 +5664,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mailtrap-testing-with-sandbox/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mailtrap-testing-with-sandbox/",
       "output_file": "antigravity-awesome-skills/skill/mailtrap-testing-with-sandbox/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/maintain-codex-wiki/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/maintain-codex-wiki/",
+      "output_file": "antigravity-awesome-skills/skill/maintain-codex-wiki/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/make-automation/",
