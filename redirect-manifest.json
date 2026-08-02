@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "df49f7ea3eac8df13b4a775f3b9c6470b6a6c542443f5e31f5d1dc96d1cdf3d2",
-  "source_skills_index_sha256": "47e32972b89673aba96ad0e28b04f0a5a93d4ffefc6497a997deb9d85d5ac50d",
+  "source_sitemap_sha256": "8887f1abc627dcc4879d23c6174ac6c30ea4619d0da1d5c671d7d959b3545da3",
+  "source_skills_index_sha256": "9c659023a63e48dfb00ad3a18b90bd7ee33d1a28c15be588266d79acbe90cd97",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1997,
-  "route_count": 2004,
+  "current_skill_route_count": 1998,
+  "route_count": 2005,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4284,6 +4284,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geoffrey-hinton/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geoffrey-hinton/",
       "output_file": "antigravity-awesome-skills/skill/geoffrey-hinton/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gh-attach/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gh-attach/",
+      "output_file": "antigravity-awesome-skills/skill/gh-attach/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gh-image/",
