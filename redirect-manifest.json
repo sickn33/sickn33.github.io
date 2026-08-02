@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "2fe4a07cc4e9e581a66ffe7a714bd5e48d280f4eec3298525de36a9a1f2ddb19",
-  "source_skills_index_sha256": "d49157a19288c65bcfb345da03c4166b50d485abcdc28591a48e0b1a62b58ddf",
+  "source_sitemap_sha256": "6a2707c5e13be6809c7aeeae00d1e3f0d4d8b4325a756b839a14acd28a085291",
+  "source_skills_index_sha256": "481242f8c10707e54dce69fb2e5d9e44edd4fb630630f29b76a718ec8132e492",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2000,
-  "route_count": 2007,
+  "current_skill_route_count": 2001,
+  "route_count": 2008,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8744,6 +8744,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/taisly-social-media-posting/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/taisly-social-media-posting/",
       "output_file": "antigravity-awesome-skills/skill/taisly-social-media-posting/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/talivia-agent-kit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/talivia-agent-kit/",
+      "output_file": "antigravity-awesome-skills/skill/talivia-agent-kit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tanstack-query-expert/",
