@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "8887f1abc627dcc4879d23c6174ac6c30ea4619d0da1d5c671d7d959b3545da3",
-  "source_skills_index_sha256": "9c659023a63e48dfb00ad3a18b90bd7ee33d1a28c15be588266d79acbe90cd97",
+  "source_sitemap_sha256": "2fe4a07cc4e9e581a66ffe7a714bd5e48d280f4eec3298525de36a9a1f2ddb19",
+  "source_skills_index_sha256": "d49157a19288c65bcfb345da03c4166b50d485abcdc28591a48e0b1a62b58ddf",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 1998,
-  "route_count": 2005,
+  "current_skill_route_count": 2000,
+  "route_count": 2007,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -274,6 +274,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agentphone/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agentphone/",
       "output_file": "antigravity-awesome-skills/skill/agentphone/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agents-generator/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agents-generator/",
+      "output_file": "antigravity-awesome-skills/skill/agents-generator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agents-md/",
@@ -9284,6 +9289,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uncle-bob-craft/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/uncle-bob-craft/",
       "output_file": "antigravity-awesome-skills/skill/uncle-bob-craft/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unified-ai-gateway/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/unified-ai-gateway/",
+      "output_file": "antigravity-awesome-skills/skill/unified-ai-gateway/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uniprot-database/",
