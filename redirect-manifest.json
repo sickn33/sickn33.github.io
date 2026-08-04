@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "7e4ded2dbe578a0d53005848630e591c01ba620e0f64cef9e492465155d63b38",
-  "source_skills_index_sha256": "d0437d854a514ab9829fa6fb7ebd64fbed28389b8cd14176d642a6c2d8d66943",
+  "source_sitemap_sha256": "45c2f04bd849d928ad52f3e8ae4fa72a1194258726bc4ca581b68ed435986150",
+  "source_skills_index_sha256": "d70ec9ed199fb4bbeb8795fa7f350a7c7716a4ad3e16b9ac2daa76c4becc962e",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2002,
-  "route_count": 2009,
+  "current_skill_route_count": 2003,
+  "route_count": 2010,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4279,6 +4279,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geminiignore-finops/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geminiignore-finops/",
       "output_file": "antigravity-awesome-skills/skill/geminiignore-finops/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/generate-nanobanana/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/generate-nanobanana/",
+      "output_file": "antigravity-awesome-skills/skill/generate-nanobanana/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-fundamentals/",
