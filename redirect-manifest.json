@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "7478c500f67ab747c9981e085cb540abdccda860ae8c6d8448f74138e172d93c",
-  "source_skills_index_sha256": "481242f8c10707e54dce69fb2e5d9e44edd4fb630630f29b76a718ec8132e492",
+  "source_sitemap_sha256": "7e4ded2dbe578a0d53005848630e591c01ba620e0f64cef9e492465155d63b38",
+  "source_skills_index_sha256": "d0437d854a514ab9829fa6fb7ebd64fbed28389b8cd14176d642a6c2d8d66943",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2001,
-  "route_count": 2008,
+  "current_skill_route_count": 2002,
+  "route_count": 2009,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8224,6 +8224,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-development/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/shopify-development/",
       "output_file": "antigravity-awesome-skills/skill/shopify-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-review-triage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/shopify-review-triage/",
+      "output_file": "antigravity-awesome-skills/skill/shopify-review-triage/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/short/",
