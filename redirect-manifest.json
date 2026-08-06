@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "ffcec2928d3ae6140039f0183ec8c703b20ca3b7ecaeae635544e438d985619a",
-  "source_skills_index_sha256": "67337a1ee01142d8bffba723c32f2fd824e3cb319003a0e99f4628f324521af7",
+  "source_sitemap_sha256": "d9b0202c3338b43cd12ca4dfd3321cd694c41a941abf13ada11a6d617e3290c3",
+  "source_skills_index_sha256": "3dea977a2e4ed069f5309f1cd779f1df7331802a3365c2a53e0bfeb78047c076",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2003,
-  "route_count": 2010,
+  "current_skill_route_count": 2004,
+  "route_count": 2011,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6729,6 +6729,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/outlook-calendar-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/outlook-calendar-automation/",
       "output_file": "antigravity-awesome-skills/skill/outlook-calendar-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/outreachagent/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/outreachagent/",
+      "output_file": "antigravity-awesome-skills/skill/outreachagent/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/page-cro/",
