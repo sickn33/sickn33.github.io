@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "d9b0202c3338b43cd12ca4dfd3321cd694c41a941abf13ada11a6d617e3290c3",
-  "source_skills_index_sha256": "3dea977a2e4ed069f5309f1cd779f1df7331802a3365c2a53e0bfeb78047c076",
+  "source_sitemap_sha256": "8916a1912d64b2cc409065c3717e3a0fa02dbad28171140745fdb8fe1ed1c827",
+  "source_skills_index_sha256": "643c46ce56d0004895fb418c083cd7657303b9b8a817fccadcdeda47e98ac7bb",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2004,
-  "route_count": 2011,
+  "current_skill_route_count": 2005,
+  "route_count": 2012,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -9569,6 +9569,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/video-content-extractor/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/video-content-extractor/",
       "output_file": "antigravity-awesome-skills/skill/video-content-extractor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/video-router/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/video-router/",
+      "output_file": "antigravity-awesome-skills/skill/video-router/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/videodb-skills/",
