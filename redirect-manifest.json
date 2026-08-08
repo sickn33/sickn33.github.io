@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "8916a1912d64b2cc409065c3717e3a0fa02dbad28171140745fdb8fe1ed1c827",
-  "source_skills_index_sha256": "643c46ce56d0004895fb418c083cd7657303b9b8a817fccadcdeda47e98ac7bb",
+  "source_sitemap_sha256": "20b23311b9460a0b0836cf14b34e57ea04e86380128671a710e1d8441efaa95f",
+  "source_skills_index_sha256": "3fee916ec8377bff1bacc8be49fd29317966d0cbff39460f9216aaecce28a96f",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2005,
-  "route_count": 2012,
+  "current_skill_route_count": 2007,
+  "route_count": 2014,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6821,6 +6821,11 @@
       "output_file": "antigravity-awesome-skills/skill/pentest-commands/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/people-data/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/people-data/",
+      "output_file": "antigravity-awesome-skills/skill/people-data/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/performance-engineer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/performance-engineer/",
       "output_file": "antigravity-awesome-skills/skill/performance-engineer/index.html"
@@ -9134,6 +9139,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/travel-health-analyzer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/travel-health-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/travel-health-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/travel-planner/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/travel-planner/",
+      "output_file": "antigravity-awesome-skills/skill/travel-planner/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tree-ring-memory/",
