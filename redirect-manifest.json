@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "113932af2d85c8d0ffc1c90ca8afc7ca4537d9a3d0bee20dd4505b613f92b22c",
-  "source_skills_index_sha256": "9163c32c5ef8e9ffc8e8f8bdd2beab66b233501ea1985bb78db30b72887e834f",
+  "source_sitemap_sha256": "d8202757563dd50efe8cabec4935d33b6b079ddeaa989155a0420a6e1f8b0807",
+  "source_skills_index_sha256": "43818d3bca989bb8b2a5efade47edf9526d36692623d70a51a75daac3787925b",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2007,
-  "route_count": 2014,
+  "current_skill_route_count": 2009,
+  "route_count": 2016,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -814,6 +814,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/async-python-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/async-python-patterns/",
       "output_file": "antigravity-awesome-skills/skill/async-python-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/atlas-cloud-media/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/atlas-cloud-media/",
+      "output_file": "antigravity-awesome-skills/skill/atlas-cloud-media/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/atlas-contract/",
@@ -9399,6 +9404,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/upstash-qstash/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/upstash-qstash/",
       "output_file": "antigravity-awesome-skills/skill/upstash-qstash/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/us-property-data/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/us-property-data/",
+      "output_file": "antigravity-awesome-skills/skill/us-property-data/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/usage-based-pricing/",
