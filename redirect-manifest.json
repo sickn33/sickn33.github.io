@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "73d7b6e2cfdf7bc8a229ba7201e697136ec801f767b72678515b4a102e31b239",
-  "source_skills_index_sha256": "43818d3bca989bb8b2a5efade47edf9526d36692623d70a51a75daac3787925b",
+  "source_sitemap_sha256": "6b55f9ac20ea1e088cf0c79c7707fb53455011746f26326dc1eecb04ba95e664",
+  "source_skills_index_sha256": "decfc52fe5e22ba6a5220a75e639346ecd47ce4c705077646b045fac5f3f29a9",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2009,
-  "route_count": 2016,
+  "current_skill_route_count": 2013,
+  "route_count": 2020,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -234,6 +234,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-orchestrator/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-orchestrator/",
       "output_file": "antigravity-awesome-skills/skill/agent-orchestrator/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-authoring/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-qa-authoring/",
+      "output_file": "antigravity-awesome-skills/skill/agent-qa-authoring/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-debug-fix/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-qa-debug-fix/",
+      "output_file": "antigravity-awesome-skills/skill/agent-qa-debug-fix/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-result-triage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-qa-result-triage/",
+      "output_file": "antigravity-awesome-skills/skill/agent-qa-result-triage/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-self-scheduling/",
@@ -2484,6 +2499,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/competitor-tracking/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/competitor-tracking/",
       "output_file": "antigravity-awesome-skills/skill/competitor-tracking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/compile-knowledge/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/compile-knowledge/",
+      "output_file": "antigravity-awesome-skills/skill/compile-knowledge/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/complexity-cuts/",
