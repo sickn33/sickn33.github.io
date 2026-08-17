@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "6b55f9ac20ea1e088cf0c79c7707fb53455011746f26326dc1eecb04ba95e664",
-  "source_skills_index_sha256": "decfc52fe5e22ba6a5220a75e639346ecd47ce4c705077646b045fac5f3f29a9",
+  "source_sitemap_sha256": "3a03ead08f365e38f631f53afcc646fbc6486970a2938bba63a775eb98258135",
+  "source_skills_index_sha256": "fdc2fcd415d55b933ec86c7c3cbbca756f1abb8ae2e393f3a99501a3d7816972",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2013,
-  "route_count": 2020,
+  "current_skill_route_count": 2016,
+  "route_count": 2023,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -534,6 +534,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-sycophancy/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anti-sycophancy/",
       "output_file": "antigravity-awesome-skills/skill/anti-sycophancy/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-ui-slop/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anti-ui-slop/",
+      "output_file": "antigravity-awesome-skills/skill/anti-ui-slop/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/antigravity-agent-manager/",
@@ -5481,6 +5486,11 @@
       "output_file": "antigravity-awesome-skills/skill/linux-troubleshooting/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/liuguang-banlan-ui/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/liuguang-banlan-ui/",
+      "output_file": "antigravity-awesome-skills/skill/liuguang-banlan-ui/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-app-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-app-patterns/",
       "output_file": "antigravity-awesome-skills/skill/llm-app-patterns/index.html"
@@ -9449,6 +9459,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-git-worktrees/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/using-git-worktrees/",
       "output_file": "antigravity-awesome-skills/skill/using-git-worktrees/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-lwc/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/using-lwc/",
+      "output_file": "antigravity-awesome-skills/skill/using-lwc/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-n8n-mcp-skills/",
