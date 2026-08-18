@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "3a03ead08f365e38f631f53afcc646fbc6486970a2938bba63a775eb98258135",
-  "source_skills_index_sha256": "fdc2fcd415d55b933ec86c7c3cbbca756f1abb8ae2e393f3a99501a3d7816972",
+  "source_sitemap_sha256": "c3645397522daff7dd21cea34082badfc07b8fec32290e233e0754634214bab8",
+  "source_skills_index_sha256": "695cb80dbaee1fa28c9721ad7b41012b8e68ff7384519ba4cce05d08524139db",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2016,
-  "route_count": 2023,
+  "current_skill_route_count": 2019,
+  "route_count": 2026,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -189,6 +189,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-creator/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-creator/",
       "output_file": "antigravity-awesome-skills/skill/agent-creator/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evaluation-reporting/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-evaluation-reporting/",
+      "output_file": "antigravity-awesome-skills/skill/agent-evaluation-reporting/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evaluation/",
@@ -2781,6 +2786,11 @@
       "output_file": "antigravity-awesome-skills/skill/cron-doctor/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cross-platform-contract-propagation-audit/",
+      "output_file": "antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/crossframe-casebook/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/crossframe-casebook/",
       "output_file": "antigravity-awesome-skills/skill/crossframe-casebook/index.html"
@@ -3489,6 +3499,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dropbox-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dropbox-automation/",
       "output_file": "antigravity-awesome-skills/skill/dropbox-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dsh-deepread/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dsh-deepread/",
+      "output_file": "antigravity-awesome-skills/skill/dsh-deepread/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/duotone-design/",
