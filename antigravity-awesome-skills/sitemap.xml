@@ -9,6 +9,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ad-campaign-analyzer/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/add-app-clip/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evaluation-reporting/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-harness-fault-injection/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-authoring/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-debug-fix/</loc></url>
@@ -33,6 +34,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/applicationinsights-web-ts/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ask-copilot/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/atlas-cloud-media/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/audit-agent-run-evidence/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/auto-research/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/automated-triage/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-agentic-ai/</loc></url>
@@ -46,6 +48,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/azure-storage-queue-rust/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/baseline-ui/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/before-you-build/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/boost-asio-pro/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brain-to-docs/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brendangregg-use-tsa/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-audit/</loc></url>
@@ -80,16 +83,10 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/competitor-profiling/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/competitor-tracking/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/compile-knowledge/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/context-engineering/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/context-kit/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cowork-to-code-bridge/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cro/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cucumber-skill/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/customer-research/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cyber-audit/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cypress-skill/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/debugging-and-error-recovery/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/deepapi/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/delegating-to-agents/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/diagnose-android-overheating/</loc></url>
@@ -131,6 +128,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2-vite/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/modellix/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/multi-source-search/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-agents/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-binary-and-data/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-code-tool/</loc></url>
@@ -153,6 +151,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/quit-sponsor/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/read-all-adrs/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/research-prompt/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/review-multi-agent-orchestration/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/routerbase-model-gateway/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/run-deep-swe/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/seo-drift/</loc></url>
@@ -168,6 +167,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/trading-ledger/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/travel-planner/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/tree-ring-memory/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ui-slop-score/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/uizze-ui-research/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/unified-ai-gateway/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/us-property-data/</loc></url>
