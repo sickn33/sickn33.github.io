@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c3645397522daff7dd21cea34082badfc07b8fec32290e233e0754634214bab8",
-  "source_skills_index_sha256": "695cb80dbaee1fa28c9721ad7b41012b8e68ff7384519ba4cce05d08524139db",
+  "source_sitemap_sha256": "c6c95d1fde17fa3cfb927cc28fe8890959269b7abecd43ec74d10ea4cb452887",
+  "source_skills_index_sha256": "633638aff69ff99424822b36b7f7b0424bec242bbe4481f8d4c924d11455d7e4",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2019,
-  "route_count": 2026,
+  "current_skill_route_count": 2025,
+  "route_count": 2032,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -204,6 +204,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-framework-azure-ai-py/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-framework-azure-ai-py/",
       "output_file": "antigravity-awesome-skills/skill/agent-framework-azure-ai-py/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-harness-fault-injection/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-harness-fault-injection/",
+      "output_file": "antigravity-awesome-skills/skill/agent-harness-fault-injection/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-manager-skill/",
@@ -864,6 +869,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audio-transcriber/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/audio-transcriber/",
       "output_file": "antigravity-awesome-skills/skill/audio-transcriber/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audit-agent-run-evidence/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/audit-agent-run-evidence/",
+      "output_file": "antigravity-awesome-skills/skill/audit-agent-run-evidence/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audit-context-building/",
@@ -1794,6 +1804,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/blueprint/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/blueprint/",
       "output_file": "antigravity-awesome-skills/skill/blueprint/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boost-asio-pro/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/boost-asio-pro/",
+      "output_file": "antigravity-awesome-skills/skill/boost-asio-pro/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/box-automation/",
@@ -6246,6 +6261,11 @@
       "output_file": "antigravity-awesome-skills/skill/multi-platform-apps-multi-platform/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/multi-source-search/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/multi-source-search/",
+      "output_file": "antigravity-awesome-skills/skill/multi-source-search/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/multiplayer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/multiplayer/",
       "output_file": "antigravity-awesome-skills/skill/multiplayer/index.html"
@@ -7644,6 +7664,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/review-animations/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/review-animations/",
       "output_file": "antigravity-awesome-skills/skill/review-animations/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/review-multi-agent-orchestration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/review-multi-agent-orchestration/",
+      "output_file": "antigravity-awesome-skills/skill/review-multi-agent-orchestration/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/review-swarm/",
@@ -9334,6 +9359,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-skills/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ui-skills/",
       "output_file": "antigravity-awesome-skills/skill/ui-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-slop-score/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ui-slop-score/",
+      "output_file": "antigravity-awesome-skills/skill/ui-slop-score/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-tokens/",
