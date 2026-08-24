@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c6c95d1fde17fa3cfb927cc28fe8890959269b7abecd43ec74d10ea4cb452887",
-  "source_skills_index_sha256": "633638aff69ff99424822b36b7f7b0424bec242bbe4481f8d4c924d11455d7e4",
+  "source_sitemap_sha256": "9956f3da1fd1ca3f65f1622d65cf88d9ebd5adbe4e7de9c288c6c8297df9dafb",
+  "source_skills_index_sha256": "7c0fb31e9768daefd3d20e9e8c94a2113d27b2b3c47bfb36d26a8bc83594de64",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2025,
-  "route_count": 2032,
+  "current_skill_route_count": 2026,
+  "route_count": 2033,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3881,6 +3881,11 @@
       "output_file": "antigravity-awesome-skills/skill/family-health-analyzer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/famulor-skill/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/famulor-skill/",
+      "output_file": "antigravity-awesome-skills/skill/famulor-skill/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fastapi-pro/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fastapi-pro/",
       "output_file": "antigravity-awesome-skills/skill/fastapi-pro/index.html"
@@ -7266,6 +7271,11 @@
       "output_file": "antigravity-awesome-skills/skill/project-skill-audit/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/project-state-governor/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/project-state-governor/",
+      "output_file": "antigravity-awesome-skills/skill/project-state-governor/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/projection-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/projection-patterns/",
       "output_file": "antigravity-awesome-skills/skill/projection-patterns/index.html"
@@ -9389,11 +9399,6 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-visual-validator/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ui-visual-validator/",
       "output_file": "antigravity-awesome-skills/skill/ui-visual-validator/index.html"
-    },
-    {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uizze-ui-research/",
-      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/uizze-ui-research/",
-      "output_file": "antigravity-awesome-skills/skill/uizze-ui-research/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uncle-bob-craft/",
