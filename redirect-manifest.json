@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "9956f3da1fd1ca3f65f1622d65cf88d9ebd5adbe4e7de9c288c6c8297df9dafb",
-  "source_skills_index_sha256": "7c0fb31e9768daefd3d20e9e8c94a2113d27b2b3c47bfb36d26a8bc83594de64",
+  "source_sitemap_sha256": "b1c40dbf3e20e475dbad512d6e6635526dbf01229e73518fcfe76909fcb3f4f8",
+  "source_skills_index_sha256": "3b1c7284a39b2588936a1f95b015229ca73a0fee79edee389cd69ce38f164e66",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2026,
-  "route_count": 2033,
+  "current_skill_route_count": 2028,
+  "route_count": 2035,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7031,6 +7031,11 @@
       "output_file": "antigravity-awesome-skills/skill/podcast-generation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/poka-yoke/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/poka-yoke/",
+      "output_file": "antigravity-awesome-skills/skill/poka-yoke/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/polars/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/polars/",
       "output_file": "antigravity-awesome-skills/skill/polars/index.html"
@@ -8564,6 +8569,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/spec-driven-development/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/spec-driven-development/",
       "output_file": "antigravity-awesome-skills/skill/spec-driven-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/spec-driven-loop/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/spec-driven-loop/",
+      "output_file": "antigravity-awesome-skills/skill/spec-driven-loop/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/spec-to-code-compliance/",
