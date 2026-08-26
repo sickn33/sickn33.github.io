@@ -2,79 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/plugins/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ab-testing/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/accint-commitments/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/accint-frames/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/accint-solve/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ad-campaign-analyzer/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/add-app-clip/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evaluation-reporting/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-harness-fault-injection/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-authoring/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-debug-fix/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-result-triage/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-self-scheduling/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agents-generator/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/alternatives-pages/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/analytics/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/anti-deception/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/anti-sleep/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/anti-ui-slop/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/antigravity-maintainer-batch-release/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/anywrite/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-analyzer/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-and-interface-design/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-designer/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-integration/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-onboarding/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-sdk-generator/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/appium-skill/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-rate-limit-handler/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/api-security/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/apk-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/apple-container/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/applicationinsights-web-ts/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ask-copilot/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/atlas-cloud-media/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/attack-chain/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/audit-agent-run-evidence/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/auto-research/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/automated-triage/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-agentic-ai/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-cdk-development/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-cost-operations/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-mcp-setup/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-serverless-eda/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/aws-sst-development/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/azure-ai-language-conversations-py/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/azure-servicebus-rust/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/azure-storage-queue-rust/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/baseline-ui/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/before-you-build/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/binary-diff/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/boost-asio-pro/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brain-to-docs/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brendangregg-use-tsa/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-audit/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-debt/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-harness/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-review/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-sweep/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/brooks-test/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/browser-act/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/browser-extension-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/browser-harness/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/bug-hunt-swarm/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/building-native-ui/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/changelog-updates/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ci-cd-and-automation/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/claimable-postgres/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/case-review/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/clean-code-guard/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cloud-k8s/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-security-audit/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cmux/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/co-marketing/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-audit/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-polish/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-review-and-quality/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-showcase-core-components/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-showcase-react-ui-patterns/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-showcase-systematic-debugging/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-showcase-testing-patterns/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/code-simplification/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/codex-profiles/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/codex-subagent/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cohesivity/</loc></url>
@@ -84,14 +47,22 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cowork-to-code-bridge/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/cyber-audit/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/database-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/deepapi/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/delegating-to-agents/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/diagnose-android-overheating/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/diagram-generator/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/digital-forensics/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/distribute-skill-to-all-agents/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ditto/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/docs-generator/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/docs-guard/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/dotnet-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/dsh-deepread/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/dsl-vm-reverse/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/edr-bypass-re/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/effective-agent-skills/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/email-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/engine-selection/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/fable-safe-prompt/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/fact-check-x-complete/</loc></url>
@@ -99,20 +70,31 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/feature-tracking/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/fedora-hyprland-installer/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/find-complementary-founders/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/firmware-pentest/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/folder-specific-claude-and-agents-md/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/gemini-deep-research/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/generate-nanobanana/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/gh-attach/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ghidra-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/go-in-depth/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/go-rust-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/goal-loop/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/grok-build/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hardware-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hf-cloud-aws-context-discovery/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ida-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/idea-autopsy/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/identity-federation/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/instructree/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/interview-style-doc-building/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/js-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/linkedin-post-writer/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/liuguang-banlan-ui/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/llm-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/lore/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/macos-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/maintain-codex-wiki/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/malware-analysis/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markdown-rendering/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-angular/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-custom-components/</loc></url>
@@ -125,7 +107,9 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2-cli/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2-vite/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-vue2/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/mobile-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/modellix/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/muapi-media/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/multi-source-search/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-agents/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-binary-and-data/</loc></url>
@@ -136,7 +120,10 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ontoly-software-graph/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/optim-agent/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/orchestrate/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ot-ics/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/outreachagent/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/patch-diff-exploit/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/pentest-tools/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/people-data/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/pi-custom-model/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/pi-web-search/</loc></url>
@@ -147,10 +134,16 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/pre-ship-gate/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/product-decision-agent/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/project-state-governor/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/protocol-reverse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/push-skill-to-github/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/pwn-chain/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/quit-sponsor/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/radare2/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/radio-sdr/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/read-all-adrs/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/research-prompt/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-browser-automation/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-engineering/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/review-multi-agent-orchestration/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/routerbase-model-gateway/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/run-deep-swe/</loc></url>
@@ -159,11 +152,16 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-review-triage/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/short/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/spec-driven-loop/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/src-hunter/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/sshepherd/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/supply-chain-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/taisly-social-media-posting/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/talivia-agent-kit/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/telegram-bot-messaging/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/test-guard/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/thick-client/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/threat-hunting/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/threat-intelligence/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/time-ledger/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/trading-ledger/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/travel-planner/</loc></url>
@@ -177,6 +175,8 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/vps-server-management/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/warehouse/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/wgm/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/wifi-wireless/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/windows-ad/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/woo-guard/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/workorai/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/wp-guard/</loc></url>
