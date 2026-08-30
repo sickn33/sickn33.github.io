@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "1a6fc607ec131274c353787cb9a99805e4788efb9b356151a9a10bfa16ef7067",
-  "source_skills_index_sha256": "36ab083a88bdcf16942779124f060b5cf007a27993874a3c9400d4fc47be791d",
+  "source_sitemap_sha256": "c61a80ebd41f149c33c75705d14403040d71882f312f906f288a917114c5e64b",
+  "source_skills_index_sha256": "52e0b08eee624f1c983012b1ec21ad19fbd5769dc9505272f2562d91dc2618d0",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2098,
-  "route_count": 2105,
+  "current_skill_route_count": 2097,
+  "route_count": 2104,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -9699,11 +9699,6 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-skills/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ui-skills/",
       "output_file": "antigravity-awesome-skills/skill/ui-skills/index.html"
-    },
-    {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-slop-score/",
-      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ui-slop-score/",
-      "output_file": "antigravity-awesome-skills/skill/ui-slop-score/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-tokens/",
