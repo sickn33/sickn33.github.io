@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "7a78ee8c9080162893f35c91506d7a781947e494041c00f71c0b2d8cc98efb1b",
-  "source_skills_index_sha256": "15c7abe6cb6f776ace87249e57123e62b04cfae866b21740694c53f6cf77ce5a",
+  "source_sitemap_sha256": "26b9f43adf695b7b4e57c961acc9bca959ebf73a440cbcb0ad7e66b1279f8396",
+  "source_skills_index_sha256": "e1fe6b33161849f5535423ae7f7e39307fe585ffaa35d5416457cd7bb2334b80",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2097,
-  "route_count": 2104,
+  "current_skill_route_count": 2107,
+  "route_count": 2114,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2186,6 +2186,11 @@
       "output_file": "antigravity-awesome-skills/skill/chat-widget/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/check-identity-pack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/check-identity-pack/",
+      "output_file": "antigravity-awesome-skills/skill/check-identity-pack/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/chrome-extension-developer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/chrome-extension-developer/",
       "output_file": "antigravity-awesome-skills/skill/chrome-extension-developer/index.html"
@@ -3351,6 +3356,11 @@
       "output_file": "antigravity-awesome-skills/skill/design-ux/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/detect-ai-text/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/detect-ai-text/",
+      "output_file": "antigravity-awesome-skills/skill/detect-ai-text/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deterministic-design/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/deterministic-design/",
       "output_file": "antigravity-awesome-skills/skill/deterministic-design/index.html"
@@ -3956,6 +3966,11 @@
       "output_file": "antigravity-awesome-skills/skill/expo-ui/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/extract-document-data/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/extract-document-data/",
+      "output_file": "antigravity-awesome-skills/skill/extract-document-data/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fable-safe-prompt/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fable-safe-prompt/",
       "output_file": "antigravity-awesome-skills/skill/fable-safe-prompt/index.html"
@@ -4114,6 +4129,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/find-complementary-founders/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/find-complementary-founders/",
       "output_file": "antigravity-awesome-skills/skill/find-complementary-founders/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/find-matching-tenders/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/find-matching-tenders/",
+      "output_file": "antigravity-awesome-skills/skill/find-matching-tenders/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/finishing-a-development-branch/",
@@ -8201,6 +8221,11 @@
       "output_file": "antigravity-awesome-skills/skill/scikit-learn/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/screen-adverse-media/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/screen-adverse-media/",
+      "output_file": "antigravity-awesome-skills/skill/screen-adverse-media/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/screen-reader-testing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/screen-reader-testing/",
       "output_file": "antigravity-awesome-skills/skill/screen-reader-testing/index.html"
@@ -8769,6 +8794,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sleep-analyzer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sleep-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/sleep-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/slideops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/slideops/",
+      "output_file": "antigravity-awesome-skills/skill/slideops/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/slo-implementation/",
@@ -9816,6 +9846,16 @@
       "output_file": "antigravity-awesome-skills/skill/upstash-qstash/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/upstash-ratelimit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/upstash-ratelimit/",
+      "output_file": "antigravity-awesome-skills/skill/upstash-ratelimit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/upstash-redis/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/upstash-redis/",
+      "output_file": "antigravity-awesome-skills/skill/upstash-redis/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/us-property-data/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/us-property-data/",
       "output_file": "antigravity-awesome-skills/skill/us-property-data/index.html"
@@ -9959,6 +9999,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/verification-before-completion/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/verification-before-completion/",
       "output_file": "antigravity-awesome-skills/skill/verification-before-completion/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/verify-citations/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/verify-citations/",
+      "output_file": "antigravity-awesome-skills/skill/verify-citations/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/verify-document/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/verify-document/",
+      "output_file": "antigravity-awesome-skills/skill/verify-document/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vexor-cli/",
