@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "26b9f43adf695b7b4e57c961acc9bca959ebf73a440cbcb0ad7e66b1279f8396",
-  "source_skills_index_sha256": "e1fe6b33161849f5535423ae7f7e39307fe585ffaa35d5416457cd7bb2334b80",
+  "source_sitemap_sha256": "bb5736824286f5e3e2f4e24b598bb2009d57840ba0bcb1c36faac2c28597f34b",
+  "source_skills_index_sha256": "6ab731340dddd8889a2b7cde059bf02080c441fd7e2f4986ba037680898a3bb2",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2107,
-  "route_count": 2114,
+  "current_skill_route_count": 2108,
+  "route_count": 2115,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3744,6 +3744,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/elon-musk/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/elon-musk/",
       "output_file": "antigravity-awesome-skills/skill/elon-musk/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/email-issue-fixer/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/email-issue-fixer/",
+      "output_file": "antigravity-awesome-skills/skill/email-issue-fixer/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/email-security/",
