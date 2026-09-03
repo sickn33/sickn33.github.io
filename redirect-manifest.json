@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "bb5736824286f5e3e2f4e24b598bb2009d57840ba0bcb1c36faac2c28597f34b",
-  "source_skills_index_sha256": "6ab731340dddd8889a2b7cde059bf02080c441fd7e2f4986ba037680898a3bb2",
+  "source_sitemap_sha256": "a6a82e4533ab48e9c8c9a804cf09658f024f0b84eb5058c1dfb027b4b2276dad",
+  "source_skills_index_sha256": "f482c4611e1a6ef733039951a9769a69dba29cb665097a26f67ab8e1b7009638",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2108,
-  "route_count": 2115,
+  "current_skill_route_count": 2109,
+  "route_count": 2116,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -5574,6 +5574,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/langgraph/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/langgraph/",
       "output_file": "antigravity-awesome-skills/skill/langgraph/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/laravel-development-workflow/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/laravel-development-workflow/",
+      "output_file": "antigravity-awesome-skills/skill/laravel-development-workflow/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/laravel-expert/",
