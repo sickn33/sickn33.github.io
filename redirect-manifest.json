@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a6a82e4533ab48e9c8c9a804cf09658f024f0b84eb5058c1dfb027b4b2276dad",
-  "source_skills_index_sha256": "f482c4611e1a6ef733039951a9769a69dba29cb665097a26f67ab8e1b7009638",
+  "source_sitemap_sha256": "8b54f42b64f0e2e1ad6210eb60be173910a01e2d3fd94543a76d4dcba148aca0",
+  "source_skills_index_sha256": "1d213f6774f9963bb6779d239bdbdf8acc5b6dfa098ecfbf86b6f93ab633744d",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2109,
-  "route_count": 2116,
+  "current_skill_route_count": 2111,
+  "route_count": 2118,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3811,6 +3811,11 @@
       "output_file": "antigravity-awesome-skills/skill/enhance-prompt/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/entropy-box/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/entropy-box/",
+      "output_file": "antigravity-awesome-skills/skill/entropy-box/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/environment-setup-guide/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/environment-setup-guide/",
       "output_file": "antigravity-awesome-skills/skill/environment-setup-guide/index.html"
@@ -7034,6 +7039,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/oral-health-analyzer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/oral-health-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/oral-health-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/orca-replay/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/orca-replay/",
+      "output_file": "antigravity-awesome-skills/skill/orca-replay/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/orchestrate-batch-refactor/",
