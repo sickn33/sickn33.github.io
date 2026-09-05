@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "bd04893d3de644c7a47b530ddf9ce68244d1264411946cff67c1d624507bfa42",
-  "source_skills_index_sha256": "638ed434869ff01385c83018373cd4dcc02af150d9174df2b6286bd59b3e8d1f",
+  "source_sitemap_sha256": "96b7e2eb9f3303022b55e4eaad0531e46a551d0cfc0ff466c104d9e14c03a13f",
+  "source_skills_index_sha256": "63571229f9af5e10ec13bd4ef8969a1bec05c52791c9791c47e84eefe026af09",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2111,
-  "route_count": 2118,
+  "current_skill_route_count": 2113,
+  "route_count": 2120,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7126,6 +7126,11 @@
       "output_file": "antigravity-awesome-skills/skill/parallel-agents/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/parallel-search-mcp/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/parallel-search-mcp/",
+      "output_file": "antigravity-awesome-skills/skill/parallel-search-mcp/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/patch-diff-exploit/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/patch-diff-exploit/",
       "output_file": "antigravity-awesome-skills/skill/patch-diff-exploit/index.html"
@@ -8764,6 +8769,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-scanner/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/skill-scanner/",
       "output_file": "antigravity-awesome-skills/skill/skill-scanner/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-security-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/skill-security-audit/",
+      "output_file": "antigravity-awesome-skills/skill/skill-security-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-seekers/",
