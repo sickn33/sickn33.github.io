@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "4670d8cb016547f557dc0d0c7fd7655191a1f795a1c09cb0639966088ef5f55b",
-  "source_skills_index_sha256": "ce727d79c398cca92a59a8220e9272d91cfa43512deb4460d4475f9fd338221b",
+  "source_sitemap_sha256": "ca5906259971b65b7181c2d7d8a72920964a4b9c41f0130bb41a63700eb2bcd3",
+  "source_skills_index_sha256": "b9612e5349f784bf6526c26f35767d04d46b5cd5631a9ad4f8a839ef20162785",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2113,
-  "route_count": 2120,
+  "current_skill_route_count": 2115,
+  "route_count": 2122,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1889,6 +1889,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brave-man/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/brave-man/",
       "output_file": "antigravity-awesome-skills/skill/brave-man/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/break-ai-fix-loops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/break-ai-fix-loops/",
+      "output_file": "antigravity-awesome-skills/skill/break-ai-fix-loops/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/brendangregg-use-tsa/",
@@ -8754,6 +8759,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-optimizer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/skill-optimizer/",
       "output_file": "antigravity-awesome-skills/skill/skill-optimizer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-porter/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/skill-porter/",
+      "output_file": "antigravity-awesome-skills/skill/skill-porter/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skill-rails-upgrade/",
