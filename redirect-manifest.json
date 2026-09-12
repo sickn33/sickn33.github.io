@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c1a7b2e3121b31c93592c2fc481d7c33d3d3a57ceddec34780b7fbcc804ef170",
-  "source_skills_index_sha256": "4e7ac95313a9593d56c6e3655ecdb0228338c624305a1e40559a1ac9d1649c71",
+  "source_sitemap_sha256": "0b1bdeb96830f16235414e7bd25de9c357318f33822d9235ae5e7d0f0f98d27b",
+  "source_skills_index_sha256": "833c1bffe3d9fb01c656afb2b7cb00f7a268c63cae40c7ad3962839c73b1cca1",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2118,
-  "route_count": 2125,
+  "current_skill_route_count": 2121,
+  "route_count": 2128,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4676,6 +4676,11 @@
       "output_file": "antigravity-awesome-skills/skill/gitops-workflow/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/glasser/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/glasser/",
+      "output_file": "antigravity-awesome-skills/skill/glasser/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/glassmorphism/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/glassmorphism/",
       "output_file": "antigravity-awesome-skills/skill/glassmorphism/index.html"
@@ -6131,6 +6136,11 @@
       "output_file": "antigravity-awesome-skills/skill/marketing-psychology/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/marketplace-rbac-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/marketplace-rbac-audit/",
+      "output_file": "antigravity-awesome-skills/skill/marketplace-rbac-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/markstream-angular/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/markstream-angular/",
       "output_file": "antigravity-awesome-skills/skill/markstream-angular/index.html"
@@ -7559,6 +7569,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/production-code-audit/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/production-code-audit/",
       "output_file": "antigravity-awesome-skills/skill/production-code-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/production-runtime-certification/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/production-runtime-certification/",
+      "output_file": "antigravity-awesome-skills/skill/production-runtime-certification/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/production-scheduling/",
