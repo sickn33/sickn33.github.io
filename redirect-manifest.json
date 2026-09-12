@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "95dceff87dcc635f9398564aab5bbcd861893c010946623a16d65a426e0ebc2d",
-  "source_skills_index_sha256": "b9612e5349f784bf6526c26f35767d04d46b5cd5631a9ad4f8a839ef20162785",
+  "source_sitemap_sha256": "c1a7b2e3121b31c93592c2fc481d7c33d3d3a57ceddec34780b7fbcc804ef170",
+  "source_skills_index_sha256": "4e7ac95313a9593d56c6e3655ecdb0228338c624305a1e40559a1ac9d1649c71",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2115,
-  "route_count": 2122,
+  "current_skill_route_count": 2118,
+  "route_count": 2125,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -319,6 +319,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agenttrace-session-audit/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agenttrace-session-audit/",
       "output_file": "antigravity-awesome-skills/skill/agenttrace-session-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agy-auto/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agy-auto/",
+      "output_file": "antigravity-awesome-skills/skill/agy-auto/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agy-delegate/",
@@ -2334,6 +2339,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/clickup-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/clickup-automation/",
       "output_file": "antigravity-awesome-skills/skill/clickup-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/client-secret-exposure-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/client-secret-exposure-audit/",
+      "output_file": "antigravity-awesome-skills/skill/client-secret-exposure-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cline-delegate/",
@@ -6229,6 +6239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-tool-developer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mcp-tool-developer/",
       "output_file": "antigravity-awesome-skills/skill/mcp-tool-developer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/md2video-audio/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/md2video-audio/",
+      "output_file": "antigravity-awesome-skills/skill/md2video-audio/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mdpr-skill/",
