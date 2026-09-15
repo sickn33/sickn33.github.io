@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a147badca8a01f068b3c514756429e35d1b97b867b4e6093be7217defec6b591",
-  "source_skills_index_sha256": "833c1bffe3d9fb01c656afb2b7cb00f7a268c63cae40c7ad3962839c73b1cca1",
+  "source_sitemap_sha256": "88b034a1a5629737bf295789a43fe97390a89eab86fd7b106346b9754d75d814",
+  "source_skills_index_sha256": "18f99beb42922b7b612e60275cc38713095f83d0d86af42171106f0db2aba71c",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2121,
-  "route_count": 2128,
+  "current_skill_route_count": 2122,
+  "route_count": 2129,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3199,6 +3199,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ddd-tactical-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ddd-tactical-patterns/",
       "output_file": "antigravity-awesome-skills/skill/ddd-tactical-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/de-ai-writer/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/de-ai-writer/",
+      "output_file": "antigravity-awesome-skills/skill/de-ai-writer/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/debate-review/",
