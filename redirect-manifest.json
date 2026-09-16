@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "88b034a1a5629737bf295789a43fe97390a89eab86fd7b106346b9754d75d814",
-  "source_skills_index_sha256": "18f99beb42922b7b612e60275cc38713095f83d0d86af42171106f0db2aba71c",
+  "source_sitemap_sha256": "39b019cec0838e4da5e090cc0e9e259f40eff6340f20272990b820570073045b",
+  "source_skills_index_sha256": "2d801cd110403ed5a618d9c1ea65cf1889b901ac8721a7f219ef136ab1eccfdf",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2122,
-  "route_count": 2129,
+  "current_skill_route_count": 2123,
+  "route_count": 2130,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -10594,6 +10594,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/youtube-summarizer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/youtube-summarizer/",
       "output_file": "antigravity-awesome-skills/skill/youtube-summarizer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/youtube-transcript-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/youtube-transcript-skills/",
+      "output_file": "antigravity-awesome-skills/skill/youtube-transcript-skills/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/youtube-transcript/",
