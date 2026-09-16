@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "39b019cec0838e4da5e090cc0e9e259f40eff6340f20272990b820570073045b",
-  "source_skills_index_sha256": "2d801cd110403ed5a618d9c1ea65cf1889b901ac8721a7f219ef136ab1eccfdf",
+  "source_sitemap_sha256": "d184eec941e69a43b8f501671cc3140524214d67fbd2a689793ca34d7552fcb8",
+  "source_skills_index_sha256": "e7d20ffb80f421f5ff4199397c17fe70eaa23c72f401b617aa9249aa9764442b",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2123,
-  "route_count": 2130,
+  "current_skill_route_count": 2124,
+  "route_count": 2131,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8484,6 +8484,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-aeo-meta-description-generator/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/seo-aeo-meta-description-generator/",
       "output_file": "antigravity-awesome-skills/skill/seo-aeo-meta-description-generator/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-aeo-orchestrator/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/seo-aeo-orchestrator/",
+      "output_file": "antigravity-awesome-skills/skill/seo-aeo-orchestrator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/seo-aeo-schema-generator/",
