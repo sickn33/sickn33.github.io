@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "d184eec941e69a43b8f501671cc3140524214d67fbd2a689793ca34d7552fcb8",
-  "source_skills_index_sha256": "e7d20ffb80f421f5ff4199397c17fe70eaa23c72f401b617aa9249aa9764442b",
+  "source_sitemap_sha256": "46520d182d8f58e4921186a0cb32b80fbd61c2301edf740902587950b1b9c966",
+  "source_skills_index_sha256": "064b9c74482587ac8bbefc5acaaf447256a089c44f617879ed113b20d4397c38",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2124,
-  "route_count": 2131,
+  "current_skill_route_count": 2126,
+  "route_count": 2133,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1769,6 +1769,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bdistill-knowledge-extraction/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bdistill-knowledge-extraction/",
       "output_file": "antigravity-awesome-skills/skill/bdistill-knowledge-extraction/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/beatra-ai-video-studio/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/beatra-ai-video-studio/",
+      "output_file": "antigravity-awesome-skills/skill/beatra-ai-video-studio/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/beautiful-prose/",
@@ -6304,6 +6309,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/metasploit-framework/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/metasploit-framework/",
       "output_file": "antigravity-awesome-skills/skill/metasploit-framework/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/meteora-dlmm-pool-screening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/meteora-dlmm-pool-screening/",
+      "output_file": "antigravity-awesome-skills/skill/meteora-dlmm-pool-screening/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/micro-saas-launcher/",
