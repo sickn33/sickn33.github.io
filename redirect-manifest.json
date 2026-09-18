@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "cb4e28d1283d2c8646219f834a217b1cada5453eedeb67878724fdd94eed4450",
-  "source_skills_index_sha256": "e693f556b94308155bf8f7c09801592b1245ddcc6f8216e70fbb95ab895e8a44",
+  "source_sitemap_sha256": "c48a57b4e9e73e8ad99d8a702c5900fdc0fa807f0867d402b80e316ad2104fd9",
+  "source_skills_index_sha256": "b405d92e87665e07a1789aab3dfb5ecacc674f035773007b5738962ef7b15894",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2127,
-  "route_count": 2134,
+  "current_skill_route_count": 2130,
+  "route_count": 2137,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -5204,6 +5204,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-darwin/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-darwin/",
       "output_file": "antigravity-awesome-skills/skill/idea-darwin/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-evaluator-con/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-evaluator-con/",
+      "output_file": "antigravity-awesome-skills/skill/idea-evaluator-con/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-evaluator-pro/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-evaluator-pro/",
+      "output_file": "antigravity-awesome-skills/skill/idea-evaluator-pro/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-evaluator/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-evaluator/",
+      "output_file": "antigravity-awesome-skills/skill/idea-evaluator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-os/",
