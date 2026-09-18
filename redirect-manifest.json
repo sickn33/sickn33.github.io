@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "605beebc065ea8d0952e25cd4f0e905e88f370c3dea413fc35b2cdde5703723e",
-  "source_skills_index_sha256": "064b9c74482587ac8bbefc5acaaf447256a089c44f617879ed113b20d4397c38",
+  "source_sitemap_sha256": "cb4e28d1283d2c8646219f834a217b1cada5453eedeb67878724fdd94eed4450",
+  "source_skills_index_sha256": "e693f556b94308155bf8f7c09801592b1245ddcc6f8216e70fbb95ab895e8a44",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2126,
-  "route_count": 2133,
+  "current_skill_route_count": 2127,
+  "route_count": 2134,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -10239,6 +10239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wcag-audit-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/wcag-audit-patterns/",
       "output_file": "antigravity-awesome-skills/skill/wcag-audit-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-data-fetching/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/weather-model-data-fetching/",
+      "output_file": "antigravity-awesome-skills/skill/weather-model-data-fetching/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weaviate-cookbooks/",
