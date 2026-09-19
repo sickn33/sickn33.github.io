@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c48a57b4e9e73e8ad99d8a702c5900fdc0fa807f0867d402b80e316ad2104fd9",
-  "source_skills_index_sha256": "b405d92e87665e07a1789aab3dfb5ecacc674f035773007b5738962ef7b15894",
+  "source_sitemap_sha256": "6132798bee0ca3d425dfa6d098cb6a462ef4dc13a65e59d572e3cb4a7e8e1ec1",
+  "source_skills_index_sha256": "85f1558a4565bf391bdf98dadd38a72eca57ee9e92486e1c5fbe8bd4f87769fd",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2130,
-  "route_count": 2137,
+  "current_skill_route_count": 2134,
+  "route_count": 2141,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -554,6 +554,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-sleep/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anti-sleep/",
       "output_file": "antigravity-awesome-skills/skill/anti-sleep/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-slop-design/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/anti-slop-design/",
+      "output_file": "antigravity-awesome-skills/skill/anti-slop-design/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/anti-sycophancy/",
@@ -4781,6 +4786,11 @@
       "output_file": "antigravity-awesome-skills/skill/google-drive-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/google-no-code/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/google-no-code/",
+      "output_file": "antigravity-awesome-skills/skill/google-no-code/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/google-sheets-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/google-sheets-automation/",
       "output_file": "antigravity-awesome-skills/skill/google-sheets-automation/index.html"
@@ -8041,6 +8051,11 @@
       "output_file": "antigravity-awesome-skills/skill/resolving-merge-conflicts/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/resumable-implementation-contracts/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/resumable-implementation-contracts/",
+      "output_file": "antigravity-awesome-skills/skill/resumable-implementation-contracts/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/retro-design/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/retro-design/",
       "output_file": "antigravity-awesome-skills/skill/retro-design/index.html"
@@ -10259,6 +10274,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-data-fetching/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/weather-model-data-fetching/",
       "output_file": "antigravity-awesome-skills/skill/weather-model-data-fetching/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-observation-fetching/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/weather-observation-fetching/",
+      "output_file": "antigravity-awesome-skills/skill/weather-observation-fetching/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weaviate-cookbooks/",
