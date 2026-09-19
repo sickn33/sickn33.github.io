@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "6132798bee0ca3d425dfa6d098cb6a462ef4dc13a65e59d572e3cb4a7e8e1ec1",
-  "source_skills_index_sha256": "85f1558a4565bf391bdf98dadd38a72eca57ee9e92486e1c5fbe8bd4f87769fd",
+  "source_sitemap_sha256": "ba7c4516b61e11858422d74bcd2ba18ed8a231eb096d73a6125e780a265696f5",
+  "source_skills_index_sha256": "fac3ae34e9041333545f3c43b735df896338fea639d115fccecb10f88c0002ec",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2134,
-  "route_count": 2141,
+  "current_skill_route_count": 2141,
+  "route_count": 2148,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -844,6 +844,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/article-illustrations/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/article-illustrations/",
       "output_file": "antigravity-awesome-skills/skill/article-illustrations/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/artifact-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/artifact-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/artifact-yylo/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/asana-automation/",
@@ -5681,6 +5686,11 @@
       "output_file": "antigravity-awesome-skills/skill/learn/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ledger-tasks-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ledger-tasks-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/ledger-tasks-yylo/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/legacy-modernizer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/legacy-modernizer/",
       "output_file": "antigravity-awesome-skills/skill/legacy-modernizer/index.html"
@@ -7366,6 +7376,11 @@
       "output_file": "antigravity-awesome-skills/skill/plaid-fintech/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/plan-ledger-tasks-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/plan-ledger-tasks-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/plan-ledger-tasks-yylo/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/plan-writing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/plan-writing/",
       "output_file": "antigravity-awesome-skills/skill/plan-writing/index.html"
@@ -7864,6 +7879,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/rag-implementation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/rag-implementation/",
       "output_file": "antigravity-awesome-skills/skill/rag-implementation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ralph-loop-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ralph-loop-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/ralph-loop-yylo/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/rayden-code/",
@@ -9881,6 +9901,11 @@
       "output_file": "antigravity-awesome-skills/skill/uncle-bob-craft/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/understand-project-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/understand-project-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/understand-project-yylo/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unified-ai-gateway/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/unified-ai-gateway/",
       "output_file": "antigravity-awesome-skills/skill/unified-ai-gateway/index.html"
@@ -10431,6 +10456,11 @@
       "output_file": "antigravity-awesome-skills/skill/wiki-vitepress/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wiki-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/wiki-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/wiki-yylo/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/windows-ad/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/windows-ad/",
       "output_file": "antigravity-awesome-skills/skill/windows-ad/index.html"
@@ -10509,6 +10539,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/workflow-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/workflow-patterns/",
       "output_file": "antigravity-awesome-skills/skill/workflow-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/workflow-yylo/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/workflow-yylo/",
+      "output_file": "antigravity-awesome-skills/skill/workflow-yylo/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/workorai/",
