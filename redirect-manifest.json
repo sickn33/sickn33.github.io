@@ -3,14 +3,14 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "20c6f66a0a624991adb2c6e851b8ad32171454e2449859909857279582a52b8c",
+  "source_sitemap_sha256": "e283586eb7055577ffb01466fe437887e7dd82260827a66e3e964bf4c1fd8409",
   "source_skills_index_sha256": "c9ef84a42f48b0936bdbe17a6e3f726c68ffff4f44e961735989c228bf99f90f",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
-  "source_sitemap_route_count": 187,
+  "source_sitemap_route_count": 188,
   "current_skill_route_count": 2406,
-  "route_count": 2413,
-  "legacy_sitemap_route_count": 187,
+  "route_count": 2414,
+  "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
   "webmaster_verification": {
@@ -29,6 +29,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/",
       "output_file": "antigravity-awesome-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/core/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/core/",
+      "output_file": "antigravity-awesome-skills/core/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/plugins/",
