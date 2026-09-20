@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "ba7c4516b61e11858422d74bcd2ba18ed8a231eb096d73a6125e780a265696f5",
-  "source_skills_index_sha256": "fac3ae34e9041333545f3c43b735df896338fea639d115fccecb10f88c0002ec",
+  "source_sitemap_sha256": "20c6f66a0a624991adb2c6e851b8ad32171454e2449859909857279582a52b8c",
+  "source_skills_index_sha256": "c9ef84a42f48b0936bdbe17a6e3f726c68ffff4f44e961735989c228bf99f90f",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 187,
-  "current_skill_route_count": 2141,
-  "route_count": 2148,
+  "current_skill_route_count": 2406,
+  "route_count": 2413,
   "legacy_sitemap_route_count": 187,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -94,6 +94,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/acceptance-orchestrator/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/acceptance-orchestrator/",
       "output_file": "antigravity-awesome-skills/skill/acceptance-orchestrator/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/access-review/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/access-review/",
+      "output_file": "antigravity-awesome-skills/skill/access-review/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/accessibility-compliance-accessibility-audit/",
@@ -191,6 +196,11 @@
       "output_file": "antigravity-awesome-skills/skill/agent-creator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evals/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-evals/",
+      "output_file": "antigravity-awesome-skills/skill/agent-evals/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evaluation-reporting/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-evaluation-reporting/",
       "output_file": "antigravity-awesome-skills/skill/agent-evaluation-reporting/index.html"
@@ -229,6 +239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-memory/",
       "output_file": "antigravity-awesome-skills/skill/agent-memory/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-observability/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/agent-observability/",
+      "output_file": "antigravity-awesome-skills/skill/agent-observability/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-orchestration-improve-agent/",
@@ -336,6 +351,11 @@
       "output_file": "antigravity-awesome-skills/skill/ai-agent-development/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-security/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-agent-security/",
+      "output_file": "antigravity-awesome-skills/skill/ai-agent-security/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agents-architect/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-agents-architect/",
       "output_file": "antigravity-awesome-skills/skill/ai-agents-architect/index.html"
@@ -344,6 +364,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-analyzer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/ai-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-coding-agent-guardrails/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-coding-agent-guardrails/",
+      "output_file": "antigravity-awesome-skills/skill/ai-coding-agent-guardrails/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-dev-jobs-mcp/",
@@ -359,6 +384,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-engineering-toolkit/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-engineering-toolkit/",
       "output_file": "antigravity-awesome-skills/skill/ai-engineering-toolkit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-inference-service-mesh/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-inference-service-mesh/",
+      "output_file": "antigravity-awesome-skills/skill/ai-inference-service-mesh/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-loop/",
@@ -386,14 +416,34 @@
       "output_file": "antigravity-awesome-skills/skill/ai-native-ui/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-pipeline-orchestration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-pipeline-orchestration/",
+      "output_file": "antigravity-awesome-skills/skill/ai-pipeline-orchestration/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-product/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-product/",
       "output_file": "antigravity-awesome-skills/skill/ai-product/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-red-teaming/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-red-teaming/",
+      "output_file": "antigravity-awesome-skills/skill/ai-red-teaming/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-security-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-security-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/ai-security-hardening/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-seo/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-seo/",
       "output_file": "antigravity-awesome-skills/skill/ai-seo/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-sre-incident-response/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ai-sre-incident-response/",
+      "output_file": "antigravity-awesome-skills/skill/ai-sre-incident-response/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-studio-image/",
@@ -424,6 +474,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/akf-trust-metadata/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/akf-trust-metadata/",
       "output_file": "antigravity-awesome-skills/skill/akf-trust-metadata/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/alerting-oncall/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/alerting-oncall/",
+      "output_file": "antigravity-awesome-skills/skill/alerting-oncall/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/alex/",
@@ -756,6 +811,11 @@
       "output_file": "antigravity-awesome-skills/skill/apify-ultimate-scraper/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apk-redteam-pipeline/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/apk-redteam-pipeline/",
+      "output_file": "antigravity-awesome-skills/skill/apk-redteam-pipeline/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apk-reverse/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/apk-reverse/",
       "output_file": "antigravity-awesome-skills/skill/apk-reverse/index.html"
@@ -826,6 +886,11 @@
       "output_file": "antigravity-awesome-skills/skill/architecture/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/argocd-gitops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/argocd-gitops/",
+      "output_file": "antigravity-awesome-skills/skill/argocd-gitops/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aria/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aria/",
       "output_file": "antigravity-awesome-skills/skill/aria/index.html"
@@ -834,6 +899,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/arm-cortex-expert/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/arm-cortex-expert/",
       "output_file": "antigravity-awesome-skills/skill/arm-cortex-expert/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/arm-templates/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/arm-templates/",
+      "output_file": "antigravity-awesome-skills/skill/arm-templates/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/arrowspace/",
@@ -869,6 +939,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-questions-if-underspecified/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ask-questions-if-underspecified/",
       "output_file": "antigravity-awesome-skills/skill/ask-questions-if-underspecified/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/asset-inventory/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/asset-inventory/",
+      "output_file": "antigravity-awesome-skills/skill/asset-inventory/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/astro/",
@@ -924,6 +999,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audit-context-building/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/audit-context-building/",
       "output_file": "antigravity-awesome-skills/skill/audit-context-building/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audit-logging/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/audit-logging/",
+      "output_file": "antigravity-awesome-skills/skill/audit-logging/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/audit-skills/",
@@ -1001,6 +1081,11 @@
       "output_file": "antigravity-awesome-skills/skill/aws-cdk-development/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-cloudtrail/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-cloudtrail/",
+      "output_file": "antigravity-awesome-skills/skill/aws-cloudtrail/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-compliance-checker/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-compliance-checker/",
       "output_file": "antigravity-awesome-skills/skill/aws-compliance-checker/index.html"
@@ -1016,14 +1101,39 @@
       "output_file": "antigravity-awesome-skills/skill/aws-cost-operations/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-cost-optimization/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-cost-optimization/",
+      "output_file": "antigravity-awesome-skills/skill/aws-cost-optimization/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-cost-optimizer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-cost-optimizer/",
       "output_file": "antigravity-awesome-skills/skill/aws-cost-optimizer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-ec2/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-ec2/",
+      "output_file": "antigravity-awesome-skills/skill/aws-ec2/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-ecs-fargate/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-ecs-fargate/",
+      "output_file": "antigravity-awesome-skills/skill/aws-ecs-fargate/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-iam-best-practices/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-iam-best-practices/",
       "output_file": "antigravity-awesome-skills/skill/aws-iam-best-practices/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-iam/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-iam/",
+      "output_file": "antigravity-awesome-skills/skill/aws-iam/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-lambda/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-lambda/",
+      "output_file": "antigravity-awesome-skills/skill/aws-lambda/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-mcp-setup/",
@@ -1034,6 +1144,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-penetration-testing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-penetration-testing/",
       "output_file": "antigravity-awesome-skills/skill/aws-penetration-testing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-rds/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-rds/",
+      "output_file": "antigravity-awesome-skills/skill/aws-rds/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-s3/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-s3/",
+      "output_file": "antigravity-awesome-skills/skill/aws-s3/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-secrets-manager/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-secrets-manager/",
+      "output_file": "antigravity-awesome-skills/skill/aws-secrets-manager/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-secrets-rotation/",
@@ -1064,6 +1189,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-sst-development/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-sst-development/",
       "output_file": "antigravity-awesome-skills/skill/aws-sst-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aws-vpc/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/aws-vpc/",
+      "output_file": "antigravity-awesome-skills/skill/aws-vpc/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/awt-e2e-testing/",
@@ -1226,6 +1356,11 @@
       "output_file": "antigravity-awesome-skills/skill/azure-ai-voicelive-ts/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-aks/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-aks/",
+      "output_file": "antigravity-awesome-skills/skill/azure-aks/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-appconfiguration-java/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-appconfiguration-java/",
       "output_file": "antigravity-awesome-skills/skill/azure-appconfiguration-java/index.html"
@@ -1311,6 +1446,11 @@
       "output_file": "antigravity-awesome-skills/skill/azure-data-tables-py/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-devops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-devops/",
+      "output_file": "antigravity-awesome-skills/skill/azure-devops/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-eventgrid-dotnet/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-eventgrid-dotnet/",
       "output_file": "antigravity-awesome-skills/skill/azure-eventgrid-dotnet/index.html"
@@ -1349,6 +1489,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-eventhub-ts/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-eventhub-ts/",
       "output_file": "antigravity-awesome-skills/skill/azure-eventhub-ts/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-functions-devsec/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-functions-devsec/",
+      "output_file": "antigravity-awesome-skills/skill/azure-functions-devsec/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-functions/",
@@ -1409,6 +1554,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-keyvault-secrets-ts/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-keyvault-secrets-ts/",
       "output_file": "antigravity-awesome-skills/skill/azure-keyvault-secrets-ts/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-keyvault/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-keyvault/",
+      "output_file": "antigravity-awesome-skills/skill/azure-keyvault/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-maps-search-dotnet/",
@@ -1491,6 +1641,11 @@
       "output_file": "antigravity-awesome-skills/skill/azure-microsoft-playwright-testing-ts/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-monitor-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-monitor-audit/",
+      "output_file": "antigravity-awesome-skills/skill/azure-monitor-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-monitor-ingestion-java/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-monitor-ingestion-java/",
       "output_file": "antigravity-awesome-skills/skill/azure-monitor-ingestion-java/index.html"
@@ -1529,6 +1684,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-monitor-query-py/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-monitor-query-py/",
       "output_file": "antigravity-awesome-skills/skill/azure-monitor-query-py/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-networking/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-networking/",
+      "output_file": "antigravity-awesome-skills/skill/azure-networking/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-postgres-ts/",
@@ -1626,6 +1786,11 @@
       "output_file": "antigravity-awesome-skills/skill/azure-speech-to-text-rest-py/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-sql/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-sql/",
+      "output_file": "antigravity-awesome-skills/skill/azure-sql/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-storage-blob-java/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-storage-blob-java/",
       "output_file": "antigravity-awesome-skills/skill/azure-storage-blob-java/index.html"
@@ -1676,6 +1841,11 @@
       "output_file": "antigravity-awesome-skills/skill/azure-storage-queue-ts/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-vms/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-vms/",
+      "output_file": "antigravity-awesome-skills/skill/azure-vms/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/azure-web-pubsub-ts/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/azure-web-pubsub-ts/",
       "output_file": "antigravity-awesome-skills/skill/azure-web-pubsub-ts/index.html"
@@ -1709,6 +1879,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/backtesting-frameworks/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/backtesting-frameworks/",
       "output_file": "antigravity-awesome-skills/skill/backtesting-frameworks/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/backup-recovery/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/backup-recovery/",
+      "output_file": "antigravity-awesome-skills/skill/backup-recovery/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bamboohr-automation/",
@@ -1764,6 +1939,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bazel-build-optimization/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bazel-build-optimization/",
       "output_file": "antigravity-awesome-skills/skill/bazel-build-optimization/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bb-methodology/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bb-methodology/",
+      "output_file": "antigravity-awesome-skills/skill/bb-methodology/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bdi-mental-states/",
@@ -1846,6 +2026,11 @@
       "output_file": "antigravity-awesome-skills/skill/bitbucket-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/block-storage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/block-storage/",
+      "output_file": "antigravity-awesome-skills/skill/block-storage/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/blockchain-developer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/blockchain-developer/",
       "output_file": "antigravity-awesome-skills/skill/blockchain-developer/index.html"
@@ -1859,6 +2044,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/blog-writing-guide/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/blog-writing-guide/",
       "output_file": "antigravity-awesome-skills/skill/blog-writing-guide/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/blue-green-deploy/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/blue-green-deploy/",
+      "output_file": "antigravity-awesome-skills/skill/blue-green-deploy/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/blueprint/",
@@ -2006,6 +2196,11 @@
       "output_file": "antigravity-awesome-skills/skill/brutalist-typography/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bug-bounty/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bug-bounty/",
+      "output_file": "antigravity-awesome-skills/skill/bug-bounty/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bug-hunt-swarm/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bug-hunt-swarm/",
       "output_file": "antigravity-awesome-skills/skill/bug-hunt-swarm/index.html"
@@ -2014,6 +2209,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bug-hunter/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bug-hunter/",
       "output_file": "antigravity-awesome-skills/skill/bug-hunter/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bugcrowd-reporting/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/bugcrowd-reporting/",
+      "output_file": "antigravity-awesome-skills/skill/bugcrowd-reporting/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bugs-are-annoying/",
@@ -2064,6 +2264,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/business-analyst/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/business-analyst/",
       "output_file": "antigravity-awesome-skills/skill/business-analyst/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/business-continuity/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/business-continuity/",
+      "output_file": "antigravity-awesome-skills/skill/business-continuity/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/busybox-on-windows/",
@@ -2141,6 +2346,11 @@
       "output_file": "antigravity-awesome-skills/skill/card-based-design/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/career-ops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/career-ops/",
+      "output_file": "antigravity-awesome-skills/skill/career-ops/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/carrier-relationship-management/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/carrier-relationship-management/",
       "output_file": "antigravity-awesome-skills/skill/carrier-relationship-management/index.html"
@@ -2196,6 +2406,16 @@
       "output_file": "antigravity-awesome-skills/skill/cdk-patterns/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cdn-setup/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cdn-setup/",
+      "output_file": "antigravity-awesome-skills/skill/cdn-setup/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/change-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/change-management/",
+      "output_file": "antigravity-awesome-skills/skill/change-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/changelog-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/changelog-automation/",
       "output_file": "antigravity-awesome-skills/skill/changelog-automation/index.html"
@@ -2241,9 +2461,19 @@
       "output_file": "antigravity-awesome-skills/skill/circleci-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/circleci/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/circleci/",
+      "output_file": "antigravity-awesome-skills/skill/circleci/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cirq/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cirq/",
       "output_file": "antigravity-awesome-skills/skill/cirq/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cis-benchmarks/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cis-benchmarks/",
+      "output_file": "antigravity-awesome-skills/skill/cis-benchmarks/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/citation-management/",
@@ -2386,6 +2616,11 @@
       "output_file": "antigravity-awesome-skills/skill/cloud-devops/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloud-iam-deep/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloud-iam-deep/",
+      "output_file": "antigravity-awesome-skills/skill/cloud-iam-deep/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloud-k8s/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloud-k8s/",
       "output_file": "antigravity-awesome-skills/skill/cloud-k8s/index.html"
@@ -2394,6 +2629,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloud-penetration-testing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloud-penetration-testing/",
       "output_file": "antigravity-awesome-skills/skill/cloud-penetration-testing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-pages/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudflare-pages/",
+      "output_file": "antigravity-awesome-skills/skill/cloudflare-pages/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-r2/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudflare-r2/",
+      "output_file": "antigravity-awesome-skills/skill/cloudflare-r2/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-security-audit/",
@@ -2406,9 +2651,24 @@
       "output_file": "antigravity-awesome-skills/skill/cloudflare-workers-expert/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-workers/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudflare-workers/",
+      "output_file": "antigravity-awesome-skills/skill/cloudflare-workers/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudflare-zero-trust/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudflare-zero-trust/",
+      "output_file": "antigravity-awesome-skills/skill/cloudflare-zero-trust/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudformation-best-practices/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudformation-best-practices/",
       "output_file": "antigravity-awesome-skills/skill/cloudformation-best-practices/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudformation/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/cloudformation/",
+      "output_file": "antigravity-awesome-skills/skill/cloudformation/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cmux/",
@@ -2726,6 +2986,26 @@
       "output_file": "antigravity-awesome-skills/skill/constant-time-analysis/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/constraint-driven-development/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/constraint-driven-development/",
+      "output_file": "antigravity-awesome-skills/skill/constraint-driven-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/container-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/container-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/container-hardening/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/container-registries/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/container-registries/",
+      "output_file": "antigravity-awesome-skills/skill/container-registries/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/container-scanning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/container-scanning/",
+      "output_file": "antigravity-awesome-skills/skill/container-scanning/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/container-security-hardening/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/container-security-hardening/",
       "output_file": "antigravity-awesome-skills/skill/container-security-hardening/index.html"
@@ -2824,6 +3104,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/convertkit-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/convertkit-automation/",
       "output_file": "antigravity-awesome-skills/skill/convertkit-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/convex-backend/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/convex-backend/",
+      "output_file": "antigravity-awesome-skills/skill/convex-backend/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/convex/",
@@ -3086,6 +3371,11 @@
       "output_file": "antigravity-awesome-skills/skill/dashboard-design/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dast-scanning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dast-scanning/",
+      "output_file": "antigravity-awesome-skills/skill/dast-scanning/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/data-dense-design/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/data-dense-design/",
       "output_file": "antigravity-awesome-skills/skill/data-dense-design/index.html"
@@ -3136,6 +3426,11 @@
       "output_file": "antigravity-awesome-skills/skill/database-architect/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/database-backups/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/database-backups/",
+      "output_file": "antigravity-awesome-skills/skill/database-backups/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/database-cloud-optimization-cost-optimize/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/database-cloud-optimization-cost-optimize/",
       "output_file": "antigravity-awesome-skills/skill/database-cloud-optimization-cost-optimize/index.html"
@@ -3179,6 +3474,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datadog-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/datadog-automation/",
       "output_file": "antigravity-awesome-skills/skill/datadog-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datadog/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/datadog/",
+      "output_file": "antigravity-awesome-skills/skill/datadog/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dbos-golang/",
@@ -3306,6 +3606,11 @@
       "output_file": "antigravity-awesome-skills/skill/dependency-management-deps-audit/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dependency-scanning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dependency-scanning/",
+      "output_file": "antigravity-awesome-skills/skill/dependency-scanning/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dependency-upgrade/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dependency-upgrade/",
       "output_file": "antigravity-awesome-skills/skill/dependency-upgrade/index.html"
@@ -3411,6 +3716,11 @@
       "output_file": "antigravity-awesome-skills/skill/devcontainer-setup/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/devcontainers-nix/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/devcontainers-nix/",
+      "output_file": "antigravity-awesome-skills/skill/devcontainers-nix/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/developer-advocacy/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/developer-advocacy/",
       "output_file": "antigravity-awesome-skills/skill/developer-advocacy/index.html"
@@ -3506,6 +3816,11 @@
       "output_file": "antigravity-awesome-skills/skill/digital-forensics/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/disaster-recovery/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/disaster-recovery/",
+      "output_file": "antigravity-awesome-skills/skill/disaster-recovery/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/discord-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/discord-automation/",
       "output_file": "antigravity-awesome-skills/skill/discord-automation/index.html"
@@ -3561,6 +3876,11 @@
       "output_file": "antigravity-awesome-skills/skill/django-pro/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dns-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/dns-management/",
+      "output_file": "antigravity-awesome-skills/skill/dns-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/doc-coauthoring/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/doc-coauthoring/",
       "output_file": "antigravity-awesome-skills/skill/doc-coauthoring/index.html"
@@ -3571,9 +3891,19 @@
       "output_file": "antigravity-awesome-skills/skill/doc2math/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docker-compose/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/docker-compose/",
+      "output_file": "antigravity-awesome-skills/skill/docker-compose/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docker-expert/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/docker-expert/",
       "output_file": "antigravity-awesome-skills/skill/docker-expert/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docker-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/docker-management/",
+      "output_file": "antigravity-awesome-skills/skill/docker-management/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docs-architect/",
@@ -3731,6 +4061,11 @@
       "output_file": "antigravity-awesome-skills/skill/eas-update-insights/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ebpf-observability/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ebpf-observability/",
+      "output_file": "antigravity-awesome-skills/skill/ebpf-observability/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ecl-harness-engineer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ecl-harness-engineer/",
       "output_file": "antigravity-awesome-skills/skill/ecl-harness-engineer/index.html"
@@ -3774,6 +4109,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/elixir/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/elixir/",
       "output_file": "antigravity-awesome-skills/skill/elixir/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/elk-stack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/elk-stack/",
+      "output_file": "antigravity-awesome-skills/skill/elk-stack/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/elon-musk/",
@@ -3844,6 +4184,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/enhance-prompt/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/enhance-prompt/",
       "output_file": "antigravity-awesome-skills/skill/enhance-prompt/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/enterprise-vpn-attack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/enterprise-vpn-attack/",
+      "output_file": "antigravity-awesome-skills/skill/enterprise-vpn-attack/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/entropy-box/",
@@ -3924,6 +4269,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/event-store-design/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/event-store-design/",
       "output_file": "antigravity-awesome-skills/skill/event-store-design/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/evidence-hygiene/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/evidence-hygiene/",
+      "output_file": "antigravity-awesome-skills/skill/evidence-hygiene/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/evolution/",
@@ -4121,6 +4471,11 @@
       "output_file": "antigravity-awesome-skills/skill/fda-medtech-compliance-auditor/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/feature-flags/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/feature-flags/",
+      "output_file": "antigravity-awesome-skills/skill/feature-flags/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/feature-tracking/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/feature-tracking/",
       "output_file": "antigravity-awesome-skills/skill/feature-tracking/index.html"
@@ -4129,6 +4484,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fedora-hyprland-installer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fedora-hyprland-installer/",
       "output_file": "antigravity-awesome-skills/skill/fedora-hyprland-installer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fedramp-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/fedramp-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/fedramp-compliance/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ffuf-claude-skill/",
@@ -4186,6 +4546,11 @@
       "output_file": "antigravity-awesome-skills/skill/finishing-a-development-branch/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/firebase-app-platform/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/firebase-app-platform/",
+      "output_file": "antigravity-awesome-skills/skill/firebase-app-platform/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/firebase/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/firebase/",
       "output_file": "antigravity-awesome-skills/skill/firebase/index.html"
@@ -4194,6 +4559,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/firecrawl-scraper/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/firecrawl-scraper/",
       "output_file": "antigravity-awesome-skills/skill/firecrawl-scraper/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/firewall-config/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/firewall-config/",
+      "output_file": "antigravity-awesome-skills/skill/firewall-config/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/firmware-analyst/",
@@ -4511,14 +4881,54 @@
       "output_file": "antigravity-awesome-skills/skill/game-development/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-audit-logs/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-audit-logs/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-audit-logs/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-cloud-functions/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-cloud-functions/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-cloud-functions/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-cloud-run/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-cloud-run/",
       "output_file": "antigravity-awesome-skills/skill/gcp-cloud-run/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-cloud-sql/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-cloud-sql/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-cloud-sql/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-compute/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-compute/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-compute/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-gke/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-gke/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-gke/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-networking/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-networking/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-networking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gcp-secret-manager/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gcp-secret-manager/",
+      "output_file": "antigravity-awesome-skills/skill/gcp-secret-manager/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gdb-cli/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gdb-cli/",
       "output_file": "antigravity-awesome-skills/skill/gdb-cli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gdpr-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gdpr-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/gdpr-compliance/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gdpr-data-handling/",
@@ -4566,9 +4976,79 @@
       "output_file": "antigravity-awesome-skills/skill/generate-nanobanana/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-audit/",
+      "output_file": "antigravity-awesome-skills/skill/geo-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-brand-mentions/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-brand-mentions/",
+      "output_file": "antigravity-awesome-skills/skill/geo-brand-mentions/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-citability/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-citability/",
+      "output_file": "antigravity-awesome-skills/skill/geo-citability/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-compare/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-compare/",
+      "output_file": "antigravity-awesome-skills/skill/geo-compare/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-content/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-content/",
+      "output_file": "antigravity-awesome-skills/skill/geo-content/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-crawlers/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-crawlers/",
+      "output_file": "antigravity-awesome-skills/skill/geo-crawlers/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-fundamentals/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-fundamentals/",
       "output_file": "antigravity-awesome-skills/skill/geo-fundamentals/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-llmstxt/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-llmstxt/",
+      "output_file": "antigravity-awesome-skills/skill/geo-llmstxt/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-platform-optimizer/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-platform-optimizer/",
+      "output_file": "antigravity-awesome-skills/skill/geo-platform-optimizer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-proposal/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-proposal/",
+      "output_file": "antigravity-awesome-skills/skill/geo-proposal/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-prospect/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-prospect/",
+      "output_file": "antigravity-awesome-skills/skill/geo-prospect/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-report-pdf/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-report-pdf/",
+      "output_file": "antigravity-awesome-skills/skill/geo-report-pdf/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-report/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-report/",
+      "output_file": "antigravity-awesome-skills/skill/geo-report/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-schema/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-schema/",
+      "output_file": "antigravity-awesome-skills/skill/geo-schema/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geo-technical/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/geo-technical/",
+      "output_file": "antigravity-awesome-skills/skill/geo-technical/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/geoffrey-hinton/",
@@ -4641,6 +5121,11 @@
       "output_file": "antigravity-awesome-skills/skill/git-workflow-and-versioning/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/git-workflow/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/git-workflow/",
+      "output_file": "antigravity-awesome-skills/skill/git-workflow/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/github-actions-advanced/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/github-actions-advanced/",
       "output_file": "antigravity-awesome-skills/skill/github-actions-advanced/index.html"
@@ -4654,6 +5139,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/github-actions-templates/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/github-actions-templates/",
       "output_file": "antigravity-awesome-skills/skill/github-actions-templates/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/github-actions/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/github-actions/",
+      "output_file": "antigravity-awesome-skills/skill/github-actions/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/github-automation/",
@@ -4689,6 +5179,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gitlab-ci-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gitlab-ci-patterns/",
       "output_file": "antigravity-awesome-skills/skill/gitlab-ci-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gitlab-ci/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gitlab-ci/",
+      "output_file": "antigravity-awesome-skills/skill/gitlab-ci/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gitops-workflow/",
@@ -4816,6 +5311,16 @@
       "output_file": "antigravity-awesome-skills/skill/gpt-taste/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gpu-kubernetes-operations/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gpu-kubernetes-operations/",
+      "output_file": "antigravity-awesome-skills/skill/gpu-kubernetes-operations/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/gpu-server-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/gpu-server-management/",
+      "output_file": "antigravity-awesome-skills/skill/gpu-server-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/graceful-shutdown/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/graceful-shutdown/",
       "output_file": "antigravity-awesome-skills/skill/graceful-shutdown/index.html"
@@ -4901,6 +5406,11 @@
       "output_file": "antigravity-awesome-skills/skill/hasdata/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hashicorp-vault/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hashicorp-vault/",
+      "output_file": "antigravity-awesome-skills/skill/hashicorp-vault/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/haskell-pro/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/haskell-pro/",
       "output_file": "antigravity-awesome-skills/skill/haskell-pro/index.html"
@@ -4924,6 +5434,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/helm-chart-scaffolding/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/helm-chart-scaffolding/",
       "output_file": "antigravity-awesome-skills/skill/helm-chart-scaffolding/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/helm-charts/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/helm-charts/",
+      "output_file": "antigravity-awesome-skills/skill/helm-charts/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/helpdesk-automation/",
@@ -5029,6 +5544,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/high-end-visual-design/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/high-end-visual-design/",
       "output_file": "antigravity-awesome-skills/skill/high-end-visual-design/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hipaa-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hipaa-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/hipaa-compliance/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/holographic-ui/",
@@ -5176,6 +5696,296 @@
       "output_file": "antigravity-awesome-skills/skill/humanize-chinese/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-api-misconfig/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-api-misconfig/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-api-misconfig/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-aspnet/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-aspnet/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-aspnet/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ato/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-ato/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-ato/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-auth-bypass/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-auth-bypass/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-auth-bypass/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-brute-force/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-brute-force/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-brute-force/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-business-logic/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-business-logic/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-business-logic/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cache-poison/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-cache-poison/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-cache-poison/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-captcha-bypass/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-captcha-bypass/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-captcha-bypass/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cicd/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-cicd/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-cicd/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-clickjacking/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-clickjacking/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-clickjacking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cloud-misconfig/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-cloud-misconfig/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-cloud-misconfig/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cors/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-cors/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-cors/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-csrf/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-csrf/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-csrf/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-deserialization/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-deserialization/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-deserialization/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-dispatch/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-dispatch/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-dispatch/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-dom/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-dom/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-dom/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-exceptional-conditions/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-exceptional-conditions/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-exceptional-conditions/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-file-upload/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-file-upload/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-file-upload/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-fintech-graphql/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-fintech-graphql/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-fintech-graphql/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-forgot-password/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-forgot-password/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-forgot-password/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-graphql/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-graphql/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-graphql/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-grpc/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-grpc/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-grpc/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-host-header/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-host-header/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-host-header/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-html-injection/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-html-injection/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-html-injection/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-http-smuggling/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-http-smuggling/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-http-smuggling/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-idor/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-idor/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-idor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-jwt-crypto/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-jwt-crypto/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-jwt-crypto/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-k8s/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-k8s/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-k8s/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-laravel/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-laravel/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-laravel/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ldap/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-ldap/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-ldap/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-lfi/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-lfi/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-lfi/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-llm-ai/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-llm-ai/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-llm-ai/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-mfa-bypass/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-mfa-bypass/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-mfa-bypass/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-misc/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-misc/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-misc/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-nextjs/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-nextjs/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-nextjs/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-nodejs/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-nodejs/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-nodejs/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-nosqli/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-nosqli/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-nosqli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ntlm-info/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-ntlm-info/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-ntlm-info/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-oauth/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-oauth/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-oauth/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-open-redirect/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-open-redirect/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-open-redirect/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-race-condition/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-race-condition/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-race-condition/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-rag-vector/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-rag-vector/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-rag-vector/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-rce/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-rce/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-rce/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-saml/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-saml/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-saml/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-session/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-session/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-session/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-shadow-api/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-shadow-api/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-shadow-api/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-sharepoint/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-sharepoint/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-sharepoint/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-source-leak/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-source-leak/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-source-leak/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-spa-api/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-spa-api/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-spa-api/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-springboot/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-springboot/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-springboot/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-sqli/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-sqli/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-sqli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ssrf/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-ssrf/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-ssrf/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ssti/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-ssti/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-ssti/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-subdomain/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-subdomain/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-subdomain/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-tls-network/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-tls-network/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-tls-network/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-websocket/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-websocket/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-websocket/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-xss/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-xss/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-xss/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-xxe/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hunt-xxe/",
+      "output_file": "antigravity-awesome-skills/skill/hunt-xxe/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hybrid-cloud-architect/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hybrid-cloud-architect/",
       "output_file": "antigravity-awesome-skills/skill/hybrid-cloud-architect/index.html"
@@ -5194,6 +6004,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hyperexecute-skill/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/hyperexecute-skill/",
       "output_file": "antigravity-awesome-skills/skill/hyperexecute-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/i-have-adhd/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/i-have-adhd/",
+      "output_file": "antigravity-awesome-skills/skill/i-have-adhd/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/i18n-localization/",
@@ -5244,6 +6059,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-refine/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/idea-refine/",
       "output_file": "antigravity-awesome-skills/skill/idea-refine/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/identity-access-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/identity-access-management/",
+      "output_file": "antigravity-awesome-skills/skill/identity-access-management/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/identity-federation/",
@@ -5301,6 +6121,11 @@
       "output_file": "antigravity-awesome-skills/skill/improve-codebase-architecture/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/incident-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/incident-management/",
+      "output_file": "antigravity-awesome-skills/skill/incident-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/incident-responder/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/incident-responder/",
       "output_file": "antigravity-awesome-skills/skill/incident-responder/index.html"
@@ -5314,6 +6139,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/incident-response-smart-fix/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/incident-response-smart-fix/",
       "output_file": "antigravity-awesome-skills/skill/incident-response-smart-fix/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/incident-response/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/incident-response/",
+      "output_file": "antigravity-awesome-skills/skill/incident-response/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/incident-runbook-templates/",
@@ -5401,6 +6231,11 @@
       "output_file": "antigravity-awesome-skills/skill/interview-coach/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/interview-me/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/interview-me/",
+      "output_file": "antigravity-awesome-skills/skill/interview-me/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/interview-style-doc-building/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/interview-style-doc-building/",
       "output_file": "antigravity-awesome-skills/skill/interview-style-doc-building/index.html"
@@ -5424,6 +6259,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-developer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ios-developer/",
       "output_file": "antigravity-awesome-skills/skill/ios-developer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-redteam-pipeline/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ios-redteam-pipeline/",
+      "output_file": "antigravity-awesome-skills/skill/ios-redteam-pipeline/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/iso27001-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/iso27001-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/iso27001-compliance/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/isometric-design/",
@@ -5491,9 +6336,19 @@
       "output_file": "antigravity-awesome-skills/skill/javascript-typescript-typescript-scaffold/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jenkins/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/jenkins/",
+      "output_file": "antigravity-awesome-skills/skill/jenkins/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jest-skill/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/jest-skill/",
       "output_file": "antigravity-awesome-skills/skill/jest-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jev-use/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/jev-use/",
+      "output_file": "antigravity-awesome-skills/skill/jev-use/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jira-automation/",
@@ -5606,9 +6461,24 @@
       "output_file": "antigravity-awesome-skills/skill/kubernetes-deployment/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kubernetes-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/kubernetes-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/kubernetes-hardening/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kubernetes-ops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/kubernetes-ops/",
+      "output_file": "antigravity-awesome-skills/skill/kubernetes-ops/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kubestellar-console/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/kubestellar-console/",
       "output_file": "antigravity-awesome-skills/skill/kubestellar-console/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kustomize/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/kustomize/",
+      "output_file": "antigravity-awesome-skills/skill/kustomize/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lambda-lang/",
@@ -5806,6 +6676,16 @@
       "output_file": "antigravity-awesome-skills/skill/lint-and-validate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linux-administration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/linux-administration/",
+      "output_file": "antigravity-awesome-skills/skill/linux-administration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linux-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/linux-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/linux-hardening/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linux-privilege-escalation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/linux-privilege-escalation/",
       "output_file": "antigravity-awesome-skills/skill/linux-privilege-escalation/index.html"
@@ -5831,6 +6711,11 @@
       "output_file": "antigravity-awesome-skills/skill/llm-app-patterns/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-app-security/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-app-security/",
+      "output_file": "antigravity-awesome-skills/skill/llm-app-security/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-application-dev-ai-assistant/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-application-dev-ai-assistant/",
       "output_file": "antigravity-awesome-skills/skill/llm-application-dev-ai-assistant/index.html"
@@ -5846,6 +6731,16 @@
       "output_file": "antigravity-awesome-skills/skill/llm-application-dev-prompt-optimize/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-caching/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-caching/",
+      "output_file": "antigravity-awesome-skills/skill/llm-caching/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-cost-optimization/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-cost-optimization/",
+      "output_file": "antigravity-awesome-skills/skill/llm-cost-optimization/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-council/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-council/",
       "output_file": "antigravity-awesome-skills/skill/llm-council/index.html"
@@ -5854,6 +6749,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-evaluation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-evaluation/",
       "output_file": "antigravity-awesome-skills/skill/llm-evaluation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-fine-tuning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-fine-tuning/",
+      "output_file": "antigravity-awesome-skills/skill/llm-fine-tuning/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-gateway/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-gateway/",
+      "output_file": "antigravity-awesome-skills/skill/llm-gateway/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-inference-scaling/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-inference-scaling/",
+      "output_file": "antigravity-awesome-skills/skill/llm-inference-scaling/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-ops/",
@@ -5874,6 +6784,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llm-structured-output/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llm-structured-output/",
       "output_file": "antigravity-awesome-skills/skill/llm-structured-output/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/llmops-platform-engineering/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/llmops-platform-engineering/",
+      "output_file": "antigravity-awesome-skills/skill/llmops-platform-engineering/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/load-balancing/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/load-balancing/",
+      "output_file": "antigravity-awesome-skills/skill/load-balancing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/local-legal-seo-audit/",
@@ -5919,6 +6839,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/logistics-exception-management/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/logistics-exception-management/",
       "output_file": "antigravity-awesome-skills/skill/logistics-exception-management/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/loki-logging/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/loki-logging/",
+      "output_file": "antigravity-awesome-skills/skill/loki-logging/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/loki-mode/",
@@ -5999,6 +6924,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/m365-agents-ts/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/m365-agents-ts/",
       "output_file": "antigravity-awesome-skills/skill/m365-agents-ts/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/m365-entra-attack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/m365-entra-attack/",
+      "output_file": "antigravity-awesome-skills/skill/m365-entra-attack/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mac-mini-llm-lab/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mac-mini-llm-lab/",
+      "output_file": "antigravity-awesome-skills/skill/mac-mini-llm-lab/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/machine-learning-ops-ml-pipeline/",
@@ -6291,6 +7226,11 @@
       "output_file": "antigravity-awesome-skills/skill/mcp-builder/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-server-security/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mcp-server-security/",
+      "output_file": "antigravity-awesome-skills/skill/mcp-server-security/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-tool-developer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mcp-tool-developer/",
       "output_file": "antigravity-awesome-skills/skill/mcp-tool-developer/index.html"
@@ -6301,9 +7241,19 @@
       "output_file": "antigravity-awesome-skills/skill/md2video-audio/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mdm-device-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mdm-device-management/",
+      "output_file": "antigravity-awesome-skills/skill/mdm-device-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mdpr-skill/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mdpr-skill/",
       "output_file": "antigravity-awesome-skills/skill/mdpr-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/meme-coin-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/meme-coin-audit/",
+      "output_file": "antigravity-awesome-skills/skill/meme-coin-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/memory-forensics/",
@@ -6369,6 +7319,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/microsoft-teams-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/microsoft-teams-automation/",
       "output_file": "antigravity-awesome-skills/skill/microsoft-teams-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mid-engagement-ir-detection/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mid-engagement-ir-detection/",
+      "output_file": "antigravity-awesome-skills/skill/mid-engagement-ir-detection/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/minecraft-bukkit-pro/",
@@ -6456,6 +7411,21 @@
       "output_file": "antigravity-awesome-skills/skill/mock-hunter/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/model-registry-governance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/model-registry-governance/",
+      "output_file": "antigravity-awesome-skills/skill/model-registry-governance/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/model-serving-kubernetes/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/model-serving-kubernetes/",
+      "output_file": "antigravity-awesome-skills/skill/model-serving-kubernetes/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/model-supply-chain-security/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/model-supply-chain-security/",
+      "output_file": "antigravity-awesome-skills/skill/model-supply-chain-security/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modellix/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/modellix/",
       "output_file": "antigravity-awesome-skills/skill/modellix/index.html"
@@ -6479,6 +7449,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/monetization/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/monetization/",
       "output_file": "antigravity-awesome-skills/skill/monetization/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mongodb/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mongodb/",
+      "output_file": "antigravity-awesome-skills/skill/mongodb/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/monochromatic-ui/",
@@ -6611,9 +7586,19 @@
       "output_file": "antigravity-awesome-skills/skill/multi-source-search/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/multi-tenant-llm-hosting/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/multi-tenant-llm-hosting/",
+      "output_file": "antigravity-awesome-skills/skill/multi-tenant-llm-hosting/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/multiplayer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/multiplayer/",
       "output_file": "antigravity-awesome-skills/skill/multiplayer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mysql/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/mysql/",
+      "output_file": "antigravity-awesome-skills/skill/mysql/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-agents/",
@@ -6766,6 +7751,11 @@
       "output_file": "antigravity-awesome-skills/skill/new-rails-project/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/new-relic/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/new-relic/",
+      "output_file": "antigravity-awesome-skills/skill/new-relic/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/newman-cicd-integration/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/newman-cicd-integration/",
       "output_file": "antigravity-awesome-skills/skill/newman-cicd-integration/index.html"
@@ -6794,6 +7784,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nextjs-supabase-auth/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/nextjs-supabase-auth/",
       "output_file": "antigravity-awesome-skills/skill/nextjs-supabase-auth/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nfs-storage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/nfs-storage/",
+      "output_file": "antigravity-awesome-skills/skill/nfs-storage/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nft-standards/",
@@ -6854,6 +7849,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nx-workspace-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/nx-workspace-patterns/",
       "output_file": "antigravity-awesome-skills/skill/nx-workspace-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/object-storage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/object-storage/",
+      "output_file": "antigravity-awesome-skills/skill/object-storage/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/objection-preemptor/",
@@ -7031,6 +8031,11 @@
       "output_file": "antigravity-awesome-skills/skill/odw/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/offensive-osint/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/offensive-osint/",
+      "output_file": "antigravity-awesome-skills/skill/offensive-osint/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/offers/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/offers/",
       "output_file": "antigravity-awesome-skills/skill/offers/index.html"
@@ -7039,6 +8044,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/office-productivity/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/office-productivity/",
       "output_file": "antigravity-awesome-skills/skill/office-productivity/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/okta-attack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/okta-attack/",
+      "output_file": "antigravity-awesome-skills/skill/okta-attack/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ollama-stack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ollama-stack/",
+      "output_file": "antigravity-awesome-skills/skill/ollama-stack/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/omp-delegate/",
@@ -7096,14 +8111,44 @@
       "output_file": "antigravity-awesome-skills/skill/openapi-spec-generator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/openclaw-deployment-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/openclaw-deployment-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/openclaw-deployment-hardening/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/openclaw-github-repo-commander/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/openclaw-github-repo-commander/",
       "output_file": "antigravity-awesome-skills/skill/openclaw-github-repo-commander/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/openclaw-local-mac-mini/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/openclaw-local-mac-mini/",
+      "output_file": "antigravity-awesome-skills/skill/openclaw-local-mac-mini/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/openclaw-security-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/openclaw-security-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/openclaw-security-hardening/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/opencode-delegate/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/opencode-delegate/",
       "output_file": "antigravity-awesome-skills/skill/opencode-delegate/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/openshift/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/openshift/",
+      "output_file": "antigravity-awesome-skills/skill/openshift/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/opentelemetry/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/opentelemetry/",
+      "output_file": "antigravity-awesome-skills/skill/opentelemetry/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/opentofu-migration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/opentofu-migration/",
+      "output_file": "antigravity-awesome-skills/skill/opentofu-migration/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/optim-agent/",
@@ -7139,6 +8184,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/os-scripting/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/os-scripting/",
       "output_file": "antigravity-awesome-skills/skill/os-scripting/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/osint-methodology/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/osint-methodology/",
+      "output_file": "antigravity-awesome-skills/skill/osint-methodology/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/oss-hunter/",
@@ -7246,6 +8296,11 @@
       "output_file": "antigravity-awesome-skills/skill/pci-compliance/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pci-dss-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/pci-dss-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/pci-dss-compliance/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pdf-conversion-router/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/pdf-conversion-router/",
       "output_file": "antigravity-awesome-skills/skill/pdf-conversion-router/index.html"
@@ -7254,6 +8309,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pdf-official/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/pdf-official/",
       "output_file": "antigravity-awesome-skills/skill/pdf-official/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/penetration-testing/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/penetration-testing/",
+      "output_file": "antigravity-awesome-skills/skill/penetration-testing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pentest-checklist/",
@@ -7304,6 +8364,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/performance-testing-review-multi-agent-review/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/performance-testing-review-multi-agent-review/",
       "output_file": "antigravity-awesome-skills/skill/performance-testing-review-multi-agent-review/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/performance-tuning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/performance-tuning/",
+      "output_file": "antigravity-awesome-skills/skill/performance-tuning/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/permission-manager/",
@@ -7386,6 +8451,11 @@
       "output_file": "antigravity-awesome-skills/skill/plan-writing/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/planetscale/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/planetscale/",
+      "output_file": "antigravity-awesome-skills/skill/planetscale/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/planning-and-task-breakdown/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/planning-and-task-breakdown/",
       "output_file": "antigravity-awesome-skills/skill/planning-and-task-breakdown/index.html"
@@ -7394,6 +8464,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/planning-with-files/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/planning-with-files/",
       "output_file": "antigravity-awesome-skills/skill/planning-with-files/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/platform-engineering/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/platform-engineering/",
+      "output_file": "antigravity-awesome-skills/skill/platform-engineering/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/playwright-java/",
@@ -7416,6 +8491,11 @@
       "output_file": "antigravity-awesome-skills/skill/podcast-generation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/podman/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/podman/",
+      "output_file": "antigravity-awesome-skills/skill/podman/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/poka-yoke/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/poka-yoke/",
       "output_file": "antigravity-awesome-skills/skill/poka-yoke/index.html"
@@ -7424,6 +8504,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/polars/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/polars/",
       "output_file": "antigravity-awesome-skills/skill/polars/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/policy-as-code/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/policy-as-code/",
+      "output_file": "antigravity-awesome-skills/skill/policy-as-code/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/polis-protocol-a-self-optimizing-city-of-agents/",
@@ -7459,6 +8544,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/postgresql-cli/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/postgresql-cli/",
       "output_file": "antigravity-awesome-skills/skill/postgresql-cli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/postgresql-devsec/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/postgresql-devsec/",
+      "output_file": "antigravity-awesome-skills/skill/postgresql-devsec/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/postgresql-optimization/",
@@ -7681,6 +8771,11 @@
       "output_file": "antigravity-awesome-skills/skill/prometheus-configuration/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/prometheus-grafana/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/prometheus-grafana/",
+      "output_file": "antigravity-awesome-skills/skill/prometheus-grafana/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/prompt-caching/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/prompt-caching/",
       "output_file": "antigravity-awesome-skills/skill/prompt-caching/index.html"
@@ -7699,6 +8794,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/prompt-engineering/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/prompt-engineering/",
       "output_file": "antigravity-awesome-skills/skill/prompt-engineering/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/prompt-injection-defense/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/prompt-injection-defense/",
+      "output_file": "antigravity-awesome-skills/skill/prompt-injection-defense/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/prompt-library/",
@@ -7881,6 +8981,16 @@
       "output_file": "antigravity-awesome-skills/skill/rag-implementation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/rag-infrastructure/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/rag-infrastructure/",
+      "output_file": "antigravity-awesome-skills/skill/rag-infrastructure/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/rag-observability-evals/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/rag-observability-evals/",
+      "output_file": "antigravity-awesome-skills/skill/rag-observability-evals/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ralph-loop-yylo/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ralph-loop-yylo/",
       "output_file": "antigravity-awesome-skills/skill/ralph-loop-yylo/index.html"
@@ -7981,6 +9091,11 @@
       "output_file": "antigravity-awesome-skills/skill/receiving-code-review/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/recon-scope-triage/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/recon-scope-triage/",
+      "output_file": "antigravity-awesome-skills/skill/recon-scope-triage/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/recsys-pipeline-architect/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/recsys-pipeline-architect/",
       "output_file": "antigravity-awesome-skills/skill/recsys-pipeline-architect/index.html"
@@ -8014,6 +9129,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/redis-cli/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/redis-cli/",
       "output_file": "antigravity-awesome-skills/skill/redis-cli/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/redis/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/redis/",
+      "output_file": "antigravity-awesome-skills/skill/redis/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/redteam-mindset/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/redteam-mindset/",
+      "output_file": "antigravity-awesome-skills/skill/redteam-mindset/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/redteam-report-template/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/redteam-report-template/",
+      "output_file": "antigravity-awesome-skills/skill/redteam-report-template/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reference-builder/",
@@ -8054,6 +9184,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/repo-maintainer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/repo-maintainer/",
       "output_file": "antigravity-awesome-skills/skill/repo-maintainer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/report-writing/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/report-writing/",
+      "output_file": "antigravity-awesome-skills/skill/report-writing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/requesting-code-review/",
@@ -8104,6 +9239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-engineering/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/reverse-engineering/",
       "output_file": "antigravity-awesome-skills/skill/reverse-engineering/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-proxy/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/reverse-proxy/",
+      "output_file": "antigravity-awesome-skills/skill/reverse-proxy/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/review-and-simplify-changes/",
@@ -8216,6 +9356,11 @@
       "output_file": "antigravity-awesome-skills/skill/runaway-guard/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/runbook-creation/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/runbook-creation/",
+      "output_file": "antigravity-awesome-skills/skill/runbook-creation/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/rust-async-patterns/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/rust-async-patterns/",
       "output_file": "antigravity-awesome-skills/skill/rust-async-patterns/index.html"
@@ -8239,6 +9384,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/saas-mvp-launcher/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/saas-mvp-launcher/",
       "output_file": "antigravity-awesome-skills/skill/saas-mvp-launcher/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/saas-security-posture/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/saas-security-posture/",
+      "output_file": "antigravity-awesome-skills/skill/saas-security-posture/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/saga-orchestration/",
@@ -8286,9 +9436,19 @@
       "output_file": "antigravity-awesome-skills/skill/sast-configuration/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sast-scanning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sast-scanning/",
+      "output_file": "antigravity-awesome-skills/skill/sast-scanning/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/satori/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/satori/",
       "output_file": "antigravity-awesome-skills/skill/satori/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sbom-supply-chain/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sbom-supply-chain/",
+      "output_file": "antigravity-awesome-skills/skill/sbom-supply-chain/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/scala-pro/",
@@ -8396,6 +9556,11 @@
       "output_file": "antigravity-awesome-skills/skill/security-and-hardening/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/security-arsenal/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/security-arsenal/",
+      "output_file": "antigravity-awesome-skills/skill/security-arsenal/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/security-audit/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/security-audit/",
       "output_file": "antigravity-awesome-skills/skill/security-audit/index.html"
@@ -8404,6 +9569,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/security-auditor/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/security-auditor/",
       "output_file": "antigravity-awesome-skills/skill/security-auditor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/security-automation/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/security-automation/",
+      "output_file": "antigravity-awesome-skills/skill/security-automation/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/security-bluebook-builder/",
@@ -8459,6 +9629,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/selenium-skill/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/selenium-skill/",
       "output_file": "antigravity-awesome-skills/skill/selenium-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/semantic-versioning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/semantic-versioning/",
+      "output_file": "antigravity-awesome-skills/skill/semantic-versioning/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/semgrep-rule-creator/",
@@ -8716,6 +9891,11 @@
       "output_file": "antigravity-awesome-skills/skill/service-mesh-observability/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/service-mesh/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/service-mesh/",
+      "output_file": "antigravity-awesome-skills/skill/service-mesh/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/setup-help/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/setup-help/",
       "output_file": "antigravity-awesome-skills/skill/setup-help/index.html"
@@ -8966,6 +10146,11 @@
       "output_file": "antigravity-awesome-skills/skill/snowflake-development/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soc2-compliance/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/soc2-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/soc2-compliance/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/social-content/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/social-content/",
       "output_file": "antigravity-awesome-skills/skill/social-content/index.html"
@@ -9009,6 +10194,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/solidity-security/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/solidity-security/",
       "output_file": "antigravity-awesome-skills/skill/solidity-security/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sops-encryption/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sops-encryption/",
+      "output_file": "antigravity-awesome-skills/skill/sops-encryption/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/source-driven-development/",
@@ -9101,6 +10291,11 @@
       "output_file": "antigravity-awesome-skills/skill/src-hunter/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sre-dashboards/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sre-dashboards/",
+      "output_file": "antigravity-awesome-skills/skill/sre-dashboards/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sred-project-organizer/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sred-project-organizer/",
       "output_file": "antigravity-awesome-skills/skill/sred-project-organizer/index.html"
@@ -9111,6 +10306,11 @@
       "output_file": "antigravity-awesome-skills/skill/sred-work-summary/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ssh-configuration/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ssh-configuration/",
+      "output_file": "antigravity-awesome-skills/skill/ssh-configuration/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ssh-penetration-testing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ssh-penetration-testing/",
       "output_file": "antigravity-awesome-skills/skill/ssh-penetration-testing/index.html"
@@ -9119,6 +10319,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sshepherd/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/sshepherd/",
       "output_file": "antigravity-awesome-skills/skill/sshepherd/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ssl-tls-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/ssl-tls-management/",
+      "output_file": "antigravity-awesome-skills/skill/ssl-tls-management/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stability-ai/",
@@ -9149,6 +10354,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/startup-financial-modeling/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/startup-financial-modeling/",
       "output_file": "antigravity-awesome-skills/skill/startup-financial-modeling/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/startup-it-troubleshooting/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/startup-it-troubleshooting/",
+      "output_file": "antigravity-awesome-skills/skill/startup-it-troubleshooting/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/startup-metrics-framework/",
@@ -9241,6 +10451,16 @@
       "output_file": "antigravity-awesome-skills/skill/superpowers-lab/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/supply-chain-attack-recon/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/supply-chain-attack-recon/",
+      "output_file": "antigravity-awesome-skills/skill/supply-chain-attack-recon/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/supply-chain-attack-response/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/supply-chain-attack-response/",
+      "output_file": "antigravity-awesome-skills/skill/supply-chain-attack-response/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/supply-chain-risk-auditor/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/supply-chain-risk-auditor/",
       "output_file": "antigravity-awesome-skills/skill/supply-chain-risk-auditor/index.html"
@@ -9314,6 +10534,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/systematic-debugging/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/systematic-debugging/",
       "output_file": "antigravity-awesome-skills/skill/systematic-debugging/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/systemd-services/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/systemd-services/",
+      "output_file": "antigravity-awesome-skills/skill/systemd-services/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/systems-programming-rust-project/",
@@ -9486,6 +10711,21 @@
       "output_file": "antigravity-awesome-skills/skill/terraform-aws-modules/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/terraform-aws/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/terraform-aws/",
+      "output_file": "antigravity-awesome-skills/skill/terraform-aws/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/terraform-azure/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/terraform-azure/",
+      "output_file": "antigravity-awesome-skills/skill/terraform-azure/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/terraform-gcp/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/terraform-gcp/",
+      "output_file": "antigravity-awesome-skills/skill/terraform-gcp/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/terraform-infrastructure/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/terraform-infrastructure/",
       "output_file": "antigravity-awesome-skills/skill/terraform-infrastructure/index.html"
@@ -9584,6 +10824,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/threat-modeling-expert/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/threat-modeling-expert/",
       "output_file": "antigravity-awesome-skills/skill/threat-modeling-expert/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/threat-modeling/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/threat-modeling/",
+      "output_file": "antigravity-awesome-skills/skill/threat-modeling/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/threejs-animation/",
@@ -9739,6 +10984,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/trello-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/trello-automation/",
       "output_file": "antigravity-awesome-skills/skill/trello-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/triage-validation/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/triage-validation/",
+      "output_file": "antigravity-awesome-skills/skill/triage-validation/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/triage/",
@@ -10016,9 +11266,19 @@
       "output_file": "antigravity-awesome-skills/skill/use-dom/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/user-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/user-management/",
+      "output_file": "antigravity-awesome-skills/skill/user-management/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/user-thoughts/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/user-thoughts/",
       "output_file": "antigravity-awesome-skills/skill/user-thoughts/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-agent-skills/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/using-agent-skills/",
+      "output_file": "antigravity-awesome-skills/skill/using-agent-skills/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/using-git-worktrees/",
@@ -10106,9 +11366,19 @@
       "output_file": "antigravity-awesome-skills/skill/vector-database-engineer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vector-database-ops/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vector-database-ops/",
+      "output_file": "antigravity-awesome-skills/skill/vector-database-ops/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vector-index-tuning/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vector-index-tuning/",
       "output_file": "antigravity-awesome-skills/skill/vector-index-tuning/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vendor-management/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vendor-management/",
+      "output_file": "antigravity-awesome-skills/skill/vendor-management/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vercel-ai-sdk-expert/",
@@ -10129,6 +11399,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vercel-deployment/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vercel-deployment/",
       "output_file": "antigravity-awesome-skills/skill/vercel-deployment/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vercel-deployments/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vercel-deployments/",
+      "output_file": "antigravity-awesome-skills/skill/vercel-deployments/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vercel-optimize/",
@@ -10241,6 +11516,16 @@
       "output_file": "antigravity-awesome-skills/skill/vizcom/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vllm-server/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vllm-server/",
+      "output_file": "antigravity-awesome-skills/skill/vllm-server/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vmware-vcenter-attack/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vmware-vcenter-attack/",
+      "output_file": "antigravity-awesome-skills/skill/vmware-vcenter-attack/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/voice-agents/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/voice-agents/",
       "output_file": "antigravity-awesome-skills/skill/voice-agents/index.html"
@@ -10254,6 +11539,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/voice-ai-engine-development/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/voice-ai-engine-development/",
       "output_file": "antigravity-awesome-skills/skill/voice-ai-engine-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vpn-setup/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vpn-setup/",
+      "output_file": "antigravity-awesome-skills/skill/vpn-setup/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vps-server-management/",
@@ -10274,6 +11564,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vulnerability-scanner/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vulnerability-scanner/",
       "output_file": "antigravity-awesome-skills/skill/vulnerability-scanner/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vulnerability-scanning/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/vulnerability-scanning/",
+      "output_file": "antigravity-awesome-skills/skill/vulnerability-scanning/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/waf-setup/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/waf-setup/",
+      "output_file": "antigravity-awesome-skills/skill/waf-setup/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/warehouse/",
@@ -10354,6 +11654,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-security-testing/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/web-security-testing/",
       "output_file": "antigravity-awesome-skills/skill/web-security-testing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web2-recon/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/web2-recon/",
+      "output_file": "antigravity-awesome-skills/skill/web2-recon/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web3-audit/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/web3-audit/",
+      "output_file": "antigravity-awesome-skills/skill/web3-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web3-testing/",
@@ -10466,9 +11776,19 @@
       "output_file": "antigravity-awesome-skills/skill/windows-ad/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/windows-hardening/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/windows-hardening/",
+      "output_file": "antigravity-awesome-skills/skill/windows-hardening/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/windows-privilege-escalation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/windows-privilege-escalation/",
       "output_file": "antigravity-awesome-skills/skill/windows-privilege-escalation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/windows-server/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/windows-server/",
+      "output_file": "antigravity-awesome-skills/skill/windows-server/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/windows-shell-reliability/",
@@ -10709,6 +12029,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zendesk-automation/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/zendesk-automation/",
       "output_file": "antigravity-awesome-skills/skill/zendesk-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zero-trust/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/zero-trust/",
+      "output_file": "antigravity-awesome-skills/skill/zero-trust/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zeroize-audit/",
