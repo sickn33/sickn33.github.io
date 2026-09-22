@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "ac45877a8a27574ab16d466491c0e03ffb71c5d3f14ba504b5fe163460984790",
-  "source_skills_index_sha256": "d266a0b940e29f770f365f9b44db5e847b6d492470deca18a28c1f7a1253016f",
+  "source_sitemap_sha256": "0c336a0c9e9ad8279269c9b4fc0977bb42d5cafbf530125e1ffe408f466ca6f4",
+  "source_skills_index_sha256": "8299b5f2778e0a502da1a6c3ce386f545bee1b33e762c71f51cc3b6465224d87",
   "current_base": "https://sickn33.github.io/agentic-awesome-skills/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2444,
-  "route_count": 2452,
+  "current_skill_route_count": 2445,
+  "route_count": 2453,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7249,6 +7249,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/marketing-ideas/",
       "to": "https://sickn33.github.io/agentic-awesome-skills/skill/marketing-ideas/",
       "output_file": "antigravity-awesome-skills/skill/marketing-ideas/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/marketing-mindset/",
+      "to": "https://sickn33.github.io/agentic-awesome-skills/skill/marketing-mindset/",
+      "output_file": "antigravity-awesome-skills/skill/marketing-mindset/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/marketing-plan/",
