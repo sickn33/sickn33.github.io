@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "e451bfa8e7411c2215f72ac81a4f15113b69f0da46e2988b52476c0f271b7c8a",
-  "source_skills_index_sha256": "4bcc2cbd9fbe38835963d0797e1bd9cf8d2499c76f3bd88741c6ebf29f868f91",
+  "source_sitemap_sha256": "a6130cf545aeda2696b98b9964113b6c1cb1eaefd5a91a7f2a1cf96e32b66bb0",
+  "source_skills_index_sha256": "e1b2663b10f4117c62295766216e94f93fa958d93c1b7eb36ede0ec5e0ae4606",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2451,
-  "route_count": 2459,
+  "current_skill_route_count": 2457,
+  "route_count": 2465,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -229,6 +229,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-manager-skill/",
       "to": "https://aaskills.tech/skill/agent-manager-skill/",
       "output_file": "antigravity-awesome-skills/skill/agent-manager-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory-discipline/",
+      "to": "https://aaskills.tech/skill/agent-memory-discipline/",
+      "output_file": "antigravity-awesome-skills/skill/agent-memory-discipline/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory-mcp/",
@@ -7986,6 +7991,11 @@
       "output_file": "antigravity-awesome-skills/skill/nika/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/noaa-radar-satellite-fetching/",
+      "to": "https://aaskills.tech/skill/noaa-radar-satellite-fetching/",
+      "output_file": "antigravity-awesome-skills/skill/noaa-radar-satellite-fetching/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nodejs-backend-patterns/",
       "to": "https://aaskills.tech/skill/nodejs-backend-patterns/",
       "output_file": "antigravity-awesome-skills/skill/nodejs-backend-patterns/index.html"
@@ -11821,14 +11831,34 @@
       "output_file": "antigravity-awesome-skills/skill/wcag-audit-patterns/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-lifecycle-management/",
+      "to": "https://aaskills.tech/skill/weather-data-lifecycle-management/",
+      "output_file": "antigravity-awesome-skills/skill/weather-data-lifecycle-management/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-reproducibility/",
+      "to": "https://aaskills.tech/skill/weather-data-reproducibility/",
+      "output_file": "antigravity-awesome-skills/skill/weather-data-reproducibility/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-data-fetching/",
       "to": "https://aaskills.tech/skill/weather-model-data-fetching/",
       "output_file": "antigravity-awesome-skills/skill/weather-model-data-fetching/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-run-discovery/",
+      "to": "https://aaskills.tech/skill/weather-model-run-discovery/",
+      "output_file": "antigravity-awesome-skills/skill/weather-model-run-discovery/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-observation-fetching/",
       "to": "https://aaskills.tech/skill/weather-observation-fetching/",
       "output_file": "antigravity-awesome-skills/skill/weather-observation-fetching/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weather-pipeline-performance-diagnosis/",
+      "to": "https://aaskills.tech/skill/weather-pipeline-performance-diagnosis/",
+      "output_file": "antigravity-awesome-skills/skill/weather-pipeline-performance-diagnosis/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/weaviate-cookbooks/",

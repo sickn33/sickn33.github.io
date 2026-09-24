@@ -5,6 +5,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/plugins/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/access-review/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-evals/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-memory-discipline/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/agent-observability/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-security/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ai-coding-agent-guardrails/</loc></url>
@@ -155,12 +156,6 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-host-header/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-html-injection/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-http-smuggling/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-idor/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-jwt-crypto/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-k8s/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-laravel/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-ldap/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-lfi/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/jev-social/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/longbridge-derivatives/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/longbridge-quant/</loc></url>
@@ -174,6 +169,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/marlin-bed-leveling/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/meeting-distiller-pro/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/monte-carlo-context-detection/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/noaa-radar-satellite-fetching/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/oneroster-csv-validator/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/remotion-captions/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/remotion-create/</loc></url>
@@ -182,6 +178,10 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/remotion-render/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/saas-pricing-strategist/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/score-eval/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-lifecycle-management/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-reproducibility/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-run-discovery/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-pipeline-performance-diagnosis/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/writing-guidelines/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/topics/antigravity-cli-skills/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/topics/antigravity-plugins/</loc></url>
