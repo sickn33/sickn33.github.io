@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "66ae8ba62bb8463bea6d36a6fddb75e58a83cbc077720c036205e113cab207ca",
-  "source_skills_index_sha256": "99ba06d004042c2b33f9df229d1f2ebf0c38973567284fe08048af296fb6119a",
+  "source_sitemap_sha256": "c74417e524c0b76277eccc639ec5546881cfbf54ceaa684b04544b5c9ef75e1e",
+  "source_skills_index_sha256": "4c575446851f69786f20caaefcef3b876cb4ad101d850280d3daf533b3eabeac",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2459,
-  "route_count": 2467,
+  "current_skill_route_count": 2464,
+  "route_count": 2472,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7961,6 +7961,26 @@
       "output_file": "antigravity-awesome-skills/skill/news-sentiment-engine/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nexrad-mosaic-access/",
+      "to": "https://aaskills.tech/skill/nexrad-mosaic-access/",
+      "output_file": "antigravity-awesome-skills/skill/nexrad-mosaic-access/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nexrad-mosaic-construction/",
+      "to": "https://aaskills.tech/skill/nexrad-mosaic-construction/",
+      "output_file": "antigravity-awesome-skills/skill/nexrad-mosaic-construction/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nexrad-product-access/",
+      "to": "https://aaskills.tech/skill/nexrad-product-access/",
+      "output_file": "antigravity-awesome-skills/skill/nexrad-product-access/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nexrad-radar-visualization/",
+      "to": "https://aaskills.tech/skill/nexrad-radar-visualization/",
+      "output_file": "antigravity-awesome-skills/skill/nexrad-radar-visualization/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nextjs-app-router-patterns/",
       "to": "https://aaskills.tech/skill/nextjs-app-router-patterns/",
       "output_file": "antigravity-awesome-skills/skill/nextjs-app-router-patterns/index.html"
@@ -9159,6 +9179,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/quit-sponsor/",
       "to": "https://aaskills.tech/skill/quit-sponsor/",
       "output_file": "antigravity-awesome-skills/skill/quit-sponsor/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/radar-satellite-analysis/",
+      "to": "https://aaskills.tech/skill/radar-satellite-analysis/",
+      "output_file": "antigravity-awesome-skills/skill/radar-satellite-analysis/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/radare2/",
