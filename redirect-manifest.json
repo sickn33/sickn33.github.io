@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a6130cf545aeda2696b98b9964113b6c1cb1eaefd5a91a7f2a1cf96e32b66bb0",
-  "source_skills_index_sha256": "e1b2663b10f4117c62295766216e94f93fa958d93c1b7eb36ede0ec5e0ae4606",
+  "source_sitemap_sha256": "66ae8ba62bb8463bea6d36a6fddb75e58a83cbc077720c036205e113cab207ca",
+  "source_skills_index_sha256": "99ba06d004042c2b33f9df229d1f2ebf0c38973567284fe08048af296fb6119a",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2457,
-  "route_count": 2465,
+  "current_skill_route_count": 2459,
+  "route_count": 2467,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4634,6 +4634,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/filesystem-context/",
       "to": "https://aaskills.tech/skill/filesystem-context/",
       "output_file": "antigravity-awesome-skills/skill/filesystem-context/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/film-crew/",
+      "to": "https://aaskills.tech/skill/film-crew/",
+      "output_file": "antigravity-awesome-skills/skill/film-crew/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/find-bugs/",
@@ -11004,6 +11009,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/test-guard/",
       "to": "https://aaskills.tech/skill/test-guard/",
       "output_file": "antigravity-awesome-skills/skill/test-guard/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/testdriver-e2e-testing/",
+      "to": "https://aaskills.tech/skill/testdriver-e2e-testing/",
+      "output_file": "antigravity-awesome-skills/skill/testdriver-e2e-testing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/testing-patterns/",
