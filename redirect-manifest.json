@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c74417e524c0b76277eccc639ec5546881cfbf54ceaa684b04544b5c9ef75e1e",
-  "source_skills_index_sha256": "4c575446851f69786f20caaefcef3b876cb4ad101d850280d3daf533b3eabeac",
+  "source_sitemap_sha256": "a818f2023a9ea1d9c7bb1025215b845b3db99d20026bb476a8a170711dd29432",
+  "source_skills_index_sha256": "537620af3e0e26325243c7842ed51b637b24ebafbfd320e352afc06e1c9f79a4",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2464,
-  "route_count": 2472,
+  "current_skill_route_count": 2465,
+  "route_count": 2473,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7409,6 +7409,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-builder/",
       "to": "https://aaskills.tech/skill/mcp-builder/",
       "output_file": "antigravity-awesome-skills/skill/mcp-builder/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-dependency-drift-audit/",
+      "to": "https://aaskills.tech/skill/mcp-dependency-drift-audit/",
+      "output_file": "antigravity-awesome-skills/skill/mcp-dependency-drift-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-server-security/",
