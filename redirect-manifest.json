@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a818f2023a9ea1d9c7bb1025215b845b3db99d20026bb476a8a170711dd29432",
-  "source_skills_index_sha256": "537620af3e0e26325243c7842ed51b637b24ebafbfd320e352afc06e1c9f79a4",
+  "source_sitemap_sha256": "05bd008e0c8b9cc4fe2a878f3f7455ba2eb005f32417db5bfed7a21bca2848df",
+  "source_skills_index_sha256": "7d8803557166bb2211786eed2951420c5ed622e18605a3f686cbb3521031696f",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2465,
-  "route_count": 2473,
+  "current_skill_route_count": 2472,
+  "route_count": 2480,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4189,6 +4189,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/electron-development/",
       "to": "https://aaskills.tech/skill/electron-development/",
       "output_file": "antigravity-awesome-skills/skill/electron-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/electron-drive-skill/",
+      "to": "https://aaskills.tech/skill/electron-drive-skill/",
+      "output_file": "antigravity-awesome-skills/skill/electron-drive-skill/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/elixir-pro/",
@@ -11224,6 +11229,36 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/track-management/",
       "to": "https://aaskills.tech/skill/track-management/",
       "output_file": "antigravity-awesome-skills/skill/track-management/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-market-briefing/",
+      "to": "https://aaskills.tech/skill/traderspy-market-briefing/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-market-briefing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-market-screener/",
+      "to": "https://aaskills.tech/skill/traderspy-market-screener/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-market-screener/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-position-check/",
+      "to": "https://aaskills.tech/skill/traderspy-position-check/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-position-check/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-smart-money/",
+      "to": "https://aaskills.tech/skill/traderspy-smart-money/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-smart-money/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-technical-analysis/",
+      "to": "https://aaskills.tech/skill/traderspy-technical-analysis/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-technical-analysis/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-trading-signals/",
+      "to": "https://aaskills.tech/skill/traderspy-trading-signals/",
+      "output_file": "antigravity-awesome-skills/skill/traderspy-trading-signals/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/trading-ledger/",

@@ -87,6 +87,7 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/eas-simulator/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/eas-workflows/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/ebpf-observability/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/electron-drive-skill/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/elk-stack/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/enterprise-vpn-attack/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/eol-resistor-calculator/</loc></url>
@@ -142,13 +143,6 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-captcha-bypass/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cicd/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-clickjacking/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cloud-misconfig/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-cors/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-csrf/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-deserialization/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-dispatch/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-dom/</loc></url>
-  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/hunt-exceptional-conditions/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/jev-social/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/longbridge-derivatives/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/longbridge-quant/</loc></url>
@@ -178,6 +172,12 @@
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/saas-pricing-strategist/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/score-eval/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/testdriver-e2e-testing/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-market-briefing/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-market-screener/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-position-check/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-smart-money/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-technical-analysis/</loc></url>
+  <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/traderspy-trading-signals/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-lifecycle-management/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-data-reproducibility/</loc></url>
   <url><loc>https://sickn33.github.io/antigravity-awesome-skills/skill/weather-model-run-discovery/</loc></url>
