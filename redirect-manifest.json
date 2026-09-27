@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "8a1f9329d4921b65da235d1ba600fec6e05e3cbee20b8148eeff67668b310cd1",
-  "source_skills_index_sha256": "7d8803557166bb2211786eed2951420c5ed622e18605a3f686cbb3521031696f",
+  "source_sitemap_sha256": "43d813a4c7630a578ba003304bc97d945d8c09591aee0e46808c18cf76bb0958",
+  "source_skills_index_sha256": "769e9005dae12f156297858c30d0ed6ed68a3871d004d87b67abd3f9c4882e87",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2472,
-  "route_count": 2480,
+  "current_skill_route_count": 2474,
+  "route_count": 2482,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6816,6 +6816,11 @@
       "output_file": "antigravity-awesome-skills/skill/lint-and-validate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lintlang-audit/",
+      "to": "https://aaskills.tech/skill/lintlang-audit/",
+      "output_file": "antigravity-awesome-skills/skill/lintlang-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linux-administration/",
       "to": "https://aaskills.tech/skill/linux-administration/",
       "output_file": "antigravity-awesome-skills/skill/linux-administration/index.html"
@@ -10804,6 +10809,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/synthwave/",
       "to": "https://aaskills.tech/skill/synthwave/",
       "output_file": "antigravity-awesome-skills/skill/synthwave/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/system-prompt-lookup/",
+      "to": "https://aaskills.tech/skill/system-prompt-lookup/",
+      "output_file": "antigravity-awesome-skills/skill/system-prompt-lookup/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/systematic-debugging/",
