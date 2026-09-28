@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "43d813a4c7630a578ba003304bc97d945d8c09591aee0e46808c18cf76bb0958",
-  "source_skills_index_sha256": "769e9005dae12f156297858c30d0ed6ed68a3871d004d87b67abd3f9c4882e87",
+  "source_sitemap_sha256": "1e9b39d2f6295f5da2c390cad764006b8262573287172a4b8d96687eaac52246",
+  "source_skills_index_sha256": "6567bc5560941b2070e2758456e8c4280609eaf0ce6ff1b2f8ab9bcad0748618",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2474,
-  "route_count": 2482,
+  "current_skill_route_count": 2476,
+  "route_count": 2484,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8076,6 +8076,11 @@
       "output_file": "antigravity-awesome-skills/skill/notion-template-business/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nsfw-ai-spicyapi/",
+      "to": "https://aaskills.tech/skill/nsfw-ai-spicyapi/",
+      "output_file": "antigravity-awesome-skills/skill/nsfw-ai-spicyapi/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nutrition-analyzer/",
       "to": "https://aaskills.tech/skill/nutrition-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/nutrition-analyzer/index.html"
@@ -10154,6 +10159,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sequence-psychologist/",
       "to": "https://aaskills.tech/skill/sequence-psychologist/",
       "output_file": "antigravity-awesome-skills/skill/sequence-psychologist/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/serply-search-mcp/",
+      "to": "https://aaskills.tech/skill/serply-search-mcp/",
+      "output_file": "antigravity-awesome-skills/skill/serply-search-mcp/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/server-management/",
