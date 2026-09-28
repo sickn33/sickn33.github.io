@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "1e9b39d2f6295f5da2c390cad764006b8262573287172a4b8d96687eaac52246",
-  "source_skills_index_sha256": "6567bc5560941b2070e2758456e8c4280609eaf0ce6ff1b2f8ab9bcad0748618",
+  "source_sitemap_sha256": "a350b67e3a0313885a6af31eabcb4ee35398acde0257fef2dd696768042fe460",
+  "source_skills_index_sha256": "425bd3834b1f79197b4a7b6fcae6a6162da228b5ab8cf2ac646b9087c4c068b9",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2476,
-  "route_count": 2484,
+  "current_skill_route_count": 2478,
+  "route_count": 2486,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8296,6 +8296,11 @@
       "output_file": "antigravity-awesome-skills/skill/ollama-stack/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/omentir-linkedin-outreach/",
+      "to": "https://aaskills.tech/skill/omentir-linkedin-outreach/",
+      "output_file": "antigravity-awesome-skills/skill/omentir-linkedin-outreach/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/omp-delegate/",
       "to": "https://aaskills.tech/skill/omp-delegate/",
       "output_file": "antigravity-awesome-skills/skill/omp-delegate/index.html"
@@ -10274,6 +10279,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/simplify-code/",
       "to": "https://aaskills.tech/skill/simplify-code/",
       "output_file": "antigravity-awesome-skills/skill/simplify-code/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/since-cutoff/",
+      "to": "https://aaskills.tech/skill/since-cutoff/",
+      "output_file": "antigravity-awesome-skills/skill/since-cutoff/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/site-architecture/",
