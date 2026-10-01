@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "838de9452218d3183c063cc9f174338e3f4cfb8a6535507ccc60b30cc685962f",
-  "source_skills_index_sha256": "da602888f40498c6fd39e67ec69e15163e9cd74dcad19b06d3900b7e68163f6d",
+  "source_sitemap_sha256": "efd1597f57f8b2e7c0bcdd5998f695acbd70744dd5ba19d26aed34f9410ddb47",
+  "source_skills_index_sha256": "4e04658242d6b9f146a971af5be129dfcd209e580c30c2f7e3e3ffc99e7df235",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2602,
-  "route_count": 2610,
+  "current_skill_route_count": 2605,
+  "route_count": 2613,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6471,6 +6471,11 @@
       "output_file": "antigravity-awesome-skills/skill/idea-refine/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/idea-to-blueprint/",
+      "to": "https://aaskills.tech/skill/idea-to-blueprint/",
+      "output_file": "antigravity-awesome-skills/skill/idea-to-blueprint/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/identity-access-management/",
       "to": "https://aaskills.tech/skill/identity-access-management/",
       "output_file": "antigravity-awesome-skills/skill/identity-access-management/index.html"
@@ -9971,9 +9976,19 @@
       "output_file": "antigravity-awesome-skills/skill/render-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/repo-foundation/",
+      "to": "https://aaskills.tech/skill/repo-foundation/",
+      "output_file": "antigravity-awesome-skills/skill/repo-foundation/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/repo-maintainer/",
       "to": "https://aaskills.tech/skill/repo-maintainer/",
       "output_file": "antigravity-awesome-skills/skill/repo-maintainer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/repo-native-refactor/",
+      "to": "https://aaskills.tech/skill/repo-native-refactor/",
+      "output_file": "antigravity-awesome-skills/skill/repo-native-refactor/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/report-writing/",
