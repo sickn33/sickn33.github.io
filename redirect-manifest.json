@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "efd1597f57f8b2e7c0bcdd5998f695acbd70744dd5ba19d26aed34f9410ddb47",
-  "source_skills_index_sha256": "4e04658242d6b9f146a971af5be129dfcd209e580c30c2f7e3e3ffc99e7df235",
+  "source_sitemap_sha256": "028151279bc45d21d643789375a9e9b6a816c3bcfe333d0bbb64bfd872d5d4ae",
+  "source_skills_index_sha256": "9abd205c818c5161f7d9b7285d25ff4ca1c12a2a924dda50ea96a4475ce077bd",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2605,
-  "route_count": 2613,
+  "current_skill_route_count": 2610,
+  "route_count": 2618,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3826,6 +3826,11 @@
       "output_file": "antigravity-awesome-skills/skill/decision-navigator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deep-research-framework/",
+      "to": "https://aaskills.tech/skill/deep-research-framework/",
+      "output_file": "antigravity-awesome-skills/skill/deep-research-framework/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deep-research/",
       "to": "https://aaskills.tech/skill/deep-research/",
       "output_file": "antigravity-awesome-skills/skill/deep-research/index.html"
@@ -4956,6 +4961,11 @@
       "output_file": "antigravity-awesome-skills/skill/fitness-analyzer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/five-axis-code-review/",
+      "to": "https://aaskills.tech/skill/five-axis-code-review/",
+      "output_file": "antigravity-awesome-skills/skill/five-axis-code-review/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fix-review/",
       "to": "https://aaskills.tech/skill/fix-review/",
       "output_file": "antigravity-awesome-skills/skill/fix-review/index.html"
@@ -5474,6 +5484,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/git-advanced-workflows/",
       "to": "https://aaskills.tech/skill/git-advanced-workflows/",
       "output_file": "antigravity-awesome-skills/skill/git-advanced-workflows/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/git-commit-message/",
+      "to": "https://aaskills.tech/skill/git-commit-message/",
+      "output_file": "antigravity-awesome-skills/skill/git-commit-message/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/git-hooks-automation/",
@@ -7799,6 +7814,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/meeting-distiller-pro/",
       "to": "https://aaskills.tech/skill/meeting-distiller-pro/",
       "output_file": "antigravity-awesome-skills/skill/meeting-distiller-pro/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/meeting-notes/",
+      "to": "https://aaskills.tech/skill/meeting-notes/",
+      "output_file": "antigravity-awesome-skills/skill/meeting-notes/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/meme-coin-audit/",
@@ -11559,6 +11579,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tech-matrix/",
       "to": "https://aaskills.tech/skill/tech-matrix/",
       "output_file": "antigravity-awesome-skills/skill/tech-matrix/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tech-writing-proofread/",
+      "to": "https://aaskills.tech/skill/tech-writing-proofread/",
+      "output_file": "antigravity-awesome-skills/skill/tech-writing-proofread/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/technical-change-tracker/",
