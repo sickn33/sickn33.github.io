@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "1041635c65dccde41847ac61b6f9debd7ee1f610d9ad6f23ea5b0952c57da5b6",
-  "source_skills_index_sha256": "567f440e1f2cc6a61682cd98c1bc45a99bdd36020ae8982644885508cdd80acc",
+  "source_sitemap_sha256": "cde4373eaed21e916839c9be238cc4f371d53a857e32b25a0f72cd205444c07f",
+  "source_skills_index_sha256": "4f3a66913448973a9262b91c3043ff7a70360c769e8fa2781b2fdfb62a3b644c",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2632,
-  "route_count": 2640,
+  "current_skill_route_count": 2635,
+  "route_count": 2643,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -89,6 +89,21 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/3d-web-experience/",
       "to": "https://aaskills.tech/skill/3d-web-experience/",
       "output_file": "antigravity-awesome-skills/skill/3d-web-experience/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aas-compose-stack/",
+      "to": "https://aaskills.tech/skill/aas-compose-stack/",
+      "output_file": "antigravity-awesome-skills/skill/aas-compose-stack/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aas-discover/",
+      "to": "https://aaskills.tech/skill/aas-discover/",
+      "output_file": "antigravity-awesome-skills/skill/aas-discover/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aas-review-stack/",
+      "to": "https://aaskills.tech/skill/aas-review-stack/",
+      "output_file": "antigravity-awesome-skills/skill/aas-review-stack/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ab-test-setup/",
