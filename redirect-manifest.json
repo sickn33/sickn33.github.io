@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "028151279bc45d21d643789375a9e9b6a816c3bcfe333d0bbb64bfd872d5d4ae",
-  "source_skills_index_sha256": "9abd205c818c5161f7d9b7285d25ff4ca1c12a2a924dda50ea96a4475ce077bd",
+  "source_sitemap_sha256": "1041635c65dccde41847ac61b6f9debd7ee1f610d9ad6f23ea5b0952c57da5b6",
+  "source_skills_index_sha256": "567f440e1f2cc6a61682cd98c1bc45a99bdd36020ae8982644885508cdd80acc",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2610,
-  "route_count": 2618,
+  "current_skill_route_count": 2632,
+  "route_count": 2640,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -391,9 +391,19 @@
       "output_file": "antigravity-awesome-skills/skill/ai-agent-development/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-evaluation-benchmarking/",
+      "to": "https://aaskills.tech/skill/ai-agent-evaluation-benchmarking/",
+      "output_file": "antigravity-awesome-skills/skill/ai-agent-evaluation-benchmarking/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-security/",
       "to": "https://aaskills.tech/skill/ai-agent-security/",
       "output_file": "antigravity-awesome-skills/skill/ai-agent-security/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-tool-routing/",
+      "to": "https://aaskills.tech/skill/ai-agent-tool-routing/",
+      "output_file": "antigravity-awesome-skills/skill/ai-agent-tool-routing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agents-architect/",
@@ -404,6 +414,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-analyzer/",
       "to": "https://aaskills.tech/skill/ai-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/ai-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-code-generation-guardrails/",
+      "to": "https://aaskills.tech/skill/ai-code-generation-guardrails/",
+      "output_file": "antigravity-awesome-skills/skill/ai-code-generation-guardrails/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-coding-agent-guardrails/",
@@ -489,6 +504,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-product/",
       "to": "https://aaskills.tech/skill/ai-product/",
       "output_file": "antigravity-awesome-skills/skill/ai-product/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-prompt-regression-testing/",
+      "to": "https://aaskills.tech/skill/ai-prompt-regression-testing/",
+      "output_file": "antigravity-awesome-skills/skill/ai-prompt-regression-testing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-red-teaming/",
@@ -2781,6 +2801,11 @@
       "output_file": "antigravity-awesome-skills/skill/cline-delegate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cline-pilot/",
+      "to": "https://aaskills.tech/skill/cline-pilot/",
+      "output_file": "antigravity-awesome-skills/skill/cline-pilot/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/close-automation/",
       "to": "https://aaskills.tech/skill/close-automation/",
       "output_file": "antigravity-awesome-skills/skill/close-automation/index.html"
@@ -3436,6 +3461,11 @@
       "output_file": "antigravity-awesome-skills/skill/cron-doctor/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cross-chain-relayer-audit/",
+      "to": "https://aaskills.tech/skill/cross-chain-relayer-audit/",
+      "output_file": "antigravity-awesome-skills/skill/cross-chain-relayer-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/",
       "to": "https://aaskills.tech/skill/cross-platform-contract-propagation-audit/",
       "output_file": "antigravity-awesome-skills/skill/cross-platform-contract-propagation-audit/index.html"
@@ -3844,6 +3874,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/defi-protocol-templates/",
       "to": "https://aaskills.tech/skill/defi-protocol-templates/",
       "output_file": "antigravity-awesome-skills/skill/defi-protocol-templates/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/defi-yield-strategy-allocator/",
+      "to": "https://aaskills.tech/skill/defi-yield-strategy-allocator/",
+      "output_file": "antigravity-awesome-skills/skill/defi-yield-strategy-allocator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/defuddle/",
@@ -4309,6 +4344,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dropbox-automation/",
       "to": "https://aaskills.tech/skill/dropbox-automation/",
       "output_file": "antigravity-awesome-skills/skill/dropbox-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dropthehassle-publish/",
+      "to": "https://aaskills.tech/skill/dropthehassle-publish/",
+      "output_file": "antigravity-awesome-skills/skill/dropthehassle-publish/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dsh-deepread/",
@@ -11001,6 +11041,16 @@
       "output_file": "antigravity-awesome-skills/skill/slo-implementation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/smart-contract-formal-verification/",
+      "to": "https://aaskills.tech/skill/smart-contract-formal-verification/",
+      "output_file": "antigravity-awesome-skills/skill/smart-contract-formal-verification/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/smart-contract-upgrade-governance/",
+      "to": "https://aaskills.tech/skill/smart-contract-upgrade-governance/",
+      "output_file": "antigravity-awesome-skills/skill/smart-contract-upgrade-governance/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/smart-git-automation/",
       "to": "https://aaskills.tech/skill/smart-git-automation/",
       "output_file": "antigravity-awesome-skills/skill/smart-git-automation/index.html"
@@ -11084,6 +11134,31 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sops-encryption/",
       "to": "https://aaskills.tech/skill/sops-encryption/",
       "output_file": "antigravity-awesome-skills/skill/sops-encryption/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soroban-contract-audit/",
+      "to": "https://aaskills.tech/skill/soroban-contract-audit/",
+      "output_file": "antigravity-awesome-skills/skill/soroban-contract-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soroban-liquidity-pool/",
+      "to": "https://aaskills.tech/skill/soroban-liquidity-pool/",
+      "output_file": "antigravity-awesome-skills/skill/soroban-liquidity-pool/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soroban-oracle-data-feed-audit/",
+      "to": "https://aaskills.tech/skill/soroban-oracle-data-feed-audit/",
+      "output_file": "antigravity-awesome-skills/skill/soroban-oracle-data-feed-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soroban-storage-ttl-lifecycle/",
+      "to": "https://aaskills.tech/skill/soroban-storage-ttl-lifecycle/",
+      "output_file": "antigravity-awesome-skills/skill/soroban-storage-ttl-lifecycle/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/soroban-token-minter/",
+      "to": "https://aaskills.tech/skill/soroban-token-minter/",
+      "output_file": "antigravity-awesome-skills/skill/soroban-token-minter/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/source-document-filing/",
@@ -11269,6 +11344,26 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/statsmodels/",
       "to": "https://aaskills.tech/skill/statsmodels/",
       "output_file": "antigravity-awesome-skills/skill/statsmodels/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stellar-anchor-integration/",
+      "to": "https://aaskills.tech/skill/stellar-anchor-integration/",
+      "output_file": "antigravity-awesome-skills/skill/stellar-anchor-integration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stellar-asset-clawback-compliance/",
+      "to": "https://aaskills.tech/skill/stellar-asset-clawback-compliance/",
+      "output_file": "antigravity-awesome-skills/skill/stellar-asset-clawback-compliance/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stellar-escrow-timelock/",
+      "to": "https://aaskills.tech/skill/stellar-escrow-timelock/",
+      "output_file": "antigravity-awesome-skills/skill/stellar-escrow-timelock/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stellar-multisig-threshold-coordinator/",
+      "to": "https://aaskills.tech/skill/stellar-multisig-threshold-coordinator/",
+      "output_file": "antigravity-awesome-skills/skill/stellar-multisig-threshold-coordinator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/steve-jobs/",
@@ -12686,9 +12781,19 @@
       "output_file": "antigravity-awesome-skills/skill/web3-audit/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web3-rate-limiting-circuit-breaker/",
+      "to": "https://aaskills.tech/skill/web3-rate-limiting-circuit-breaker/",
+      "output_file": "antigravity-awesome-skills/skill/web3-rate-limiting-circuit-breaker/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web3-testing/",
       "to": "https://aaskills.tech/skill/web3-testing/",
       "output_file": "antigravity-awesome-skills/skill/web3-testing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web3-transaction-relayer-pool/",
+      "to": "https://aaskills.tech/skill/web3-transaction-relayer-pool/",
+      "output_file": "antigravity-awesome-skills/skill/web3-transaction-relayer-pool/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/webapp-testing/",
@@ -13069,6 +13174,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zipai-optimizer/",
       "to": "https://aaskills.tech/skill/zipai-optimizer/",
       "output_file": "antigravity-awesome-skills/skill/zipai-optimizer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zk-proof-verification-pipeline/",
+      "to": "https://aaskills.tech/skill/zk-proof-verification-pipeline/",
+      "output_file": "antigravity-awesome-skills/skill/zk-proof-verification-pipeline/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zod-validation-expert/",
