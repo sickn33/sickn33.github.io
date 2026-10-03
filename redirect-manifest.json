@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "cde4373eaed21e916839c9be238cc4f371d53a857e32b25a0f72cd205444c07f",
-  "source_skills_index_sha256": "4f3a66913448973a9262b91c3043ff7a70360c769e8fa2781b2fdfb62a3b644c",
+  "source_sitemap_sha256": "41240642d17e24440199f447475ecee70bcfc63e9bc2de0f68945a70c3cda3a9",
+  "source_skills_index_sha256": "623c98e62f1c8994c96ca2580d06a45f731a1e0ba84c1ae54e698031644da08d",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2635,
-  "route_count": 2643,
+  "current_skill_route_count": 2638,
+  "route_count": 2646,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -4651,6 +4651,16 @@
       "output_file": "antigravity-awesome-skills/skill/ethical-hacking-methodology/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/etsy-search-listings/",
+      "to": "https://aaskills.tech/skill/etsy-search-listings/",
+      "output_file": "antigravity-awesome-skills/skill/etsy-search-listings/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/etsy-shop-sales-history/",
+      "to": "https://aaskills.tech/skill/etsy-shop-sales-history/",
+      "output_file": "antigravity-awesome-skills/skill/etsy-shop-sales-history/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/evaluation/",
       "to": "https://aaskills.tech/skill/evaluation/",
       "output_file": "antigravity-awesome-skills/skill/evaluation/index.html"
@@ -9199,6 +9209,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pitch-psychologist/",
       "to": "https://aaskills.tech/skill/pitch-psychologist/",
       "output_file": "antigravity-awesome-skills/skill/pitch-psychologist/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/placecall/",
+      "to": "https://aaskills.tech/skill/placecall/",
+      "output_file": "antigravity-awesome-skills/skill/placecall/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/plaid-fintech/",
