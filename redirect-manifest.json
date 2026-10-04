@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "41240642d17e24440199f447475ecee70bcfc63e9bc2de0f68945a70c3cda3a9",
-  "source_skills_index_sha256": "623c98e62f1c8994c96ca2580d06a45f731a1e0ba84c1ae54e698031644da08d",
+  "source_sitemap_sha256": "6936fdd5a9dc7124ef2e8bfea63b27e8f76009f70462df8346b40c4e5a578d2d",
+  "source_skills_index_sha256": "164ebf7081224b3f8e59cdc17e5369ed52746dc7883239b4236797f33c5ef2b0",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2638,
-  "route_count": 2646,
+  "current_skill_route_count": 2640,
+  "route_count": 2648,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2341,6 +2341,11 @@
       "output_file": "antigravity-awesome-skills/skill/browser-extension-builder/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-extension-launch/",
+      "to": "https://aaskills.tech/skill/browser-extension-launch/",
+      "output_file": "antigravity-awesome-skills/skill/browser-extension-launch/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-extension-reverse/",
       "to": "https://aaskills.tech/skill/browser-extension-reverse/",
       "output_file": "antigravity-awesome-skills/skill/browser-extension-reverse/index.html"
@@ -2894,6 +2899,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudformation/",
       "to": "https://aaskills.tech/skill/cloudformation/",
       "output_file": "antigravity-awesome-skills/skill/cloudformation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cloudish/",
+      "to": "https://aaskills.tech/skill/cloudish/",
+      "output_file": "antigravity-awesome-skills/skill/cloudish/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cmux/",
