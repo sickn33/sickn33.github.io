@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "a17d0ce67f4fb80fdad36662232a79f41b4a998b448b955b17db647a85feaac2",
-  "source_skills_index_sha256": "1b902ecf98cce9828b35ed1010965aeb70d3aa93aedcce4951fe2a91b2e2e719",
+  "source_sitemap_sha256": "f9b9d3263f46e3dec9dd272925d6a40132337d929b9954153fa6334be8ae1587",
+  "source_skills_index_sha256": "0d06428d0a6aa084c31a76bdd8b3b81901f88df1a8ce80f01da3b73ee579ada7",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2652,
-  "route_count": 2660,
+  "current_skill_route_count": 2658,
+  "route_count": 2666,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3436,6 +3436,11 @@
       "output_file": "antigravity-awesome-skills/skill/course-upskilling-requests/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/court/",
+      "to": "https://aaskills.tech/skill/court/",
+      "output_file": "antigravity-awesome-skills/skill/court/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cowork-to-code-bridge/",
       "to": "https://aaskills.tech/skill/cowork-to-code-bridge/",
       "output_file": "antigravity-awesome-skills/skill/cowork-to-code-bridge/index.html"
@@ -3669,6 +3674,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dark-mode/",
       "to": "https://aaskills.tech/skill/dark-mode/",
       "output_file": "antigravity-awesome-skills/skill/dark-mode/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/darkmoon-pentest/",
+      "to": "https://aaskills.tech/skill/darkmoon-pentest/",
+      "output_file": "antigravity-awesome-skills/skill/darkmoon-pentest/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dart/",
@@ -7446,6 +7456,11 @@
       "output_file": "antigravity-awesome-skills/skill/logistics-exception-management/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lognorm/",
+      "to": "https://aaskills.tech/skill/lognorm/",
+      "output_file": "antigravity-awesome-skills/skill/lognorm/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/logo-image-design/",
       "to": "https://aaskills.tech/skill/logo-image-design/",
       "output_file": "antigravity-awesome-skills/skill/logo-image-design/index.html"
@@ -10451,6 +10466,11 @@
       "output_file": "antigravity-awesome-skills/skill/scarcity-urgency-psychologist/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/scarf-single-cell/",
+      "to": "https://aaskills.tech/skill/scarf-single-cell/",
+      "output_file": "antigravity-awesome-skills/skill/scarf-single-cell/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/schema-markup-generator/",
       "to": "https://aaskills.tech/skill/schema-markup-generator/",
       "output_file": "antigravity-awesome-skills/skill/schema-markup-generator/index.html"
@@ -10881,6 +10901,11 @@
       "output_file": "antigravity-awesome-skills/skill/service-mesh/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/session-handoff/",
+      "to": "https://aaskills.tech/skill/session-handoff/",
+      "output_file": "antigravity-awesome-skills/skill/session-handoff/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/setup-help/",
       "to": "https://aaskills.tech/skill/setup-help/",
       "output_file": "antigravity-awesome-skills/skill/setup-help/index.html"
@@ -10904,6 +10929,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shader-programming-glsl/",
       "to": "https://aaskills.tech/skill/shader-programming-glsl/",
       "output_file": "antigravity-awesome-skills/skill/shader-programming-glsl/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shark/",
+      "to": "https://aaskills.tech/skill/shark/",
+      "output_file": "antigravity-awesome-skills/skill/shark/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sharp-coder/",
