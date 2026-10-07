@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "f9b9d3263f46e3dec9dd272925d6a40132337d929b9954153fa6334be8ae1587",
-  "source_skills_index_sha256": "0d06428d0a6aa084c31a76bdd8b3b81901f88df1a8ce80f01da3b73ee579ada7",
+  "source_sitemap_sha256": "2719c5dd151ea5bdfb4a0809064e3b10d73667eaf3a9c8764f8fcd652bf93d73",
+  "source_skills_index_sha256": "118e914ad47e7b5e251fc7db500cd247416cfe6237a11a8882d3e4b911143ba3",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2658,
-  "route_count": 2666,
+  "current_skill_route_count": 2662,
+  "route_count": 2670,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -329,6 +329,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-qa-result-triage/",
       "to": "https://aaskills.tech/skill/agent-qa-result-triage/",
       "output_file": "antigravity-awesome-skills/skill/agent-qa-result-triage/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-reels/",
+      "to": "https://aaskills.tech/skill/agent-reels/",
+      "output_file": "antigravity-awesome-skills/skill/agent-reels/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agent-self-scheduling/",
@@ -4551,6 +4556,11 @@
       "output_file": "antigravity-awesome-skills/skill/email-issue-fixer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/email-marketing-bible/",
+      "to": "https://aaskills.tech/skill/email-marketing-bible/",
+      "output_file": "antigravity-awesome-skills/skill/email-marketing-bible/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/email-security/",
       "to": "https://aaskills.tech/skill/email-security/",
       "output_file": "antigravity-awesome-skills/skill/email-security/index.html"
@@ -7244,6 +7254,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linear-claude-skill/",
       "to": "https://aaskills.tech/skill/linear-claude-skill/",
       "output_file": "antigravity-awesome-skills/skill/linear-claude-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linkdigest-social-link-reader/",
+      "to": "https://aaskills.tech/skill/linkdigest-social-link-reader/",
+      "output_file": "antigravity-awesome-skills/skill/linkdigest-social-link-reader/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/linkedin-automation/",
@@ -10954,6 +10969,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shipping-and-launch/",
       "to": "https://aaskills.tech/skill/shipping-and-launch/",
       "output_file": "antigravity-awesome-skills/skill/shipping-and-launch/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shipvela-publish/",
+      "to": "https://aaskills.tech/skill/shipvela-publish/",
+      "output_file": "antigravity-awesome-skills/skill/shipvela-publish/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shodan-reconnaissance/",
