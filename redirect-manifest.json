@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "2719c5dd151ea5bdfb4a0809064e3b10d73667eaf3a9c8764f8fcd652bf93d73",
-  "source_skills_index_sha256": "118e914ad47e7b5e251fc7db500cd247416cfe6237a11a8882d3e4b911143ba3",
+  "source_sitemap_sha256": "4d24ae935cb8ea7a7ee7f5aeec6a6d8caadd9e80aabd2105d3f9e0f56c9d5ef9",
+  "source_skills_index_sha256": "fb092dc8755c684aed230e7af72476e6ac780634d554c6719de54c6b97f7b120",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2662,
-  "route_count": 2670,
+  "current_skill_route_count": 2665,
+  "route_count": 2673,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1074,6 +1074,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-questions-if-underspecified/",
       "to": "https://aaskills.tech/skill/ask-questions-if-underspecified/",
       "output_file": "antigravity-awesome-skills/skill/ask-questions-if-underspecified/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/assay/",
+      "to": "https://aaskills.tech/skill/assay/",
+      "output_file": "antigravity-awesome-skills/skill/assay/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/asset-inventory/",
@@ -7536,6 +7541,11 @@
       "output_file": "antigravity-awesome-skills/skill/lookdev/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/looot/",
+      "to": "https://aaskills.tech/skill/looot/",
+      "output_file": "antigravity-awesome-skills/skill/looot/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/loop-library/",
       "to": "https://aaskills.tech/skill/loop-library/",
       "output_file": "antigravity-awesome-skills/skill/loop-library/index.html"
@@ -11839,6 +11849,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/telegram-bot-messaging/",
       "to": "https://aaskills.tech/skill/telegram-bot-messaging/",
       "output_file": "antigravity-awesome-skills/skill/telegram-bot-messaging/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/telegram-channel-ads/",
+      "to": "https://aaskills.tech/skill/telegram-channel-ads/",
+      "output_file": "antigravity-awesome-skills/skill/telegram-channel-ads/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/telegram-mini-app/",
