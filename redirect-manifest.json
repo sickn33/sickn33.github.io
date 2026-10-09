@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "b19da8c4f242d1978e22abe30172dbe2aa04c0545c32e026a577d38f2827c53e",
-  "source_skills_index_sha256": "fb092dc8755c684aed230e7af72476e6ac780634d554c6719de54c6b97f7b120",
+  "source_sitemap_sha256": "0932635a2a8168cf23e9346665f3e13a5e7cae0f4de880afd9b2e9d083608659",
+  "source_skills_index_sha256": "431b24ede109190e0d1089b6efd8e80fa5f1f048ac606acab3d7fde717ae15b3",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2665,
-  "route_count": 2673,
+  "current_skill_route_count": 2671,
+  "route_count": 2679,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -1064,6 +1064,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-copilot/",
       "to": "https://aaskills.tech/skill/ask-copilot/",
       "output_file": "antigravity-awesome-skills/skill/ask-copilot/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-human-expert/",
+      "to": "https://aaskills.tech/skill/ask-human-expert/",
+      "output_file": "antigravity-awesome-skills/skill/ask-human-expert/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ask-matt/",
@@ -4651,6 +4656,11 @@
       "output_file": "antigravity-awesome-skills/skill/eol-resistor-calculator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/equibles/",
+      "to": "https://aaskills.tech/skill/equibles/",
+      "output_file": "antigravity-awesome-skills/skill/equibles/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/error-debugging-error-analysis/",
       "to": "https://aaskills.tech/skill/error-debugging-error-analysis/",
       "output_file": "antigravity-awesome-skills/skill/error-debugging-error-analysis/index.html"
@@ -6929,6 +6939,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jest-skill/",
       "to": "https://aaskills.tech/skill/jest-skill/",
       "output_file": "antigravity-awesome-skills/skill/jest-skill/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jet-browser/",
+      "to": "https://aaskills.tech/skill/jet-browser/",
+      "output_file": "antigravity-awesome-skills/skill/jet-browser/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/jev-social/",
@@ -11731,6 +11746,11 @@
       "output_file": "antigravity-awesome-skills/skill/task-intelligence/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tastegate/",
+      "to": "https://aaskills.tech/skill/tastegate/",
+      "output_file": "antigravity-awesome-skills/skill/tastegate/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tavily-web/",
       "to": "https://aaskills.tech/skill/tavily-web/",
       "output_file": "antigravity-awesome-skills/skill/tavily-web/index.html"
@@ -12481,6 +12501,11 @@
       "output_file": "antigravity-awesome-skills/skill/upstash-redis/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/url-to-markdown/",
+      "to": "https://aaskills.tech/skill/url-to-markdown/",
+      "output_file": "antigravity-awesome-skills/skill/url-to-markdown/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/us-property-data/",
       "to": "https://aaskills.tech/skill/us-property-data/",
       "output_file": "antigravity-awesome-skills/skill/us-property-data/index.html"
@@ -12984,6 +13009,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wgm/",
       "to": "https://aaskills.tech/skill/wgm/",
       "output_file": "antigravity-awesome-skills/skill/wgm/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/what-could-break/",
+      "to": "https://aaskills.tech/skill/what-could-break/",
+      "output_file": "antigravity-awesome-skills/skill/what-could-break/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/whatsapp-automation/",
