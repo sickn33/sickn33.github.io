@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "0932635a2a8168cf23e9346665f3e13a5e7cae0f4de880afd9b2e9d083608659",
-  "source_skills_index_sha256": "431b24ede109190e0d1089b6efd8e80fa5f1f048ac606acab3d7fde717ae15b3",
+  "source_sitemap_sha256": "35753f8481749c6778c2c4f4328b422ab3b5bbee4dd43b1654d87b91c8cc5884",
+  "source_skills_index_sha256": "20017976341456d427cccc61d84503838727708941167e2644e6c3be0c37ba2a",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2671,
-  "route_count": 2679,
+  "current_skill_route_count": 2675,
+  "route_count": 2683,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3814,6 +3814,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/database/",
       "to": "https://aaskills.tech/skill/database/",
       "output_file": "antigravity-awesome-skills/skill/database/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datacircle/",
+      "to": "https://aaskills.tech/skill/datacircle/",
+      "output_file": "antigravity-awesome-skills/skill/datacircle/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datadog-automation/",
@@ -9866,6 +9871,11 @@
       "output_file": "antigravity-awesome-skills/skill/qoder-delegate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/qrx/",
+      "to": "https://aaskills.tech/skill/qrx/",
+      "output_file": "antigravity-awesome-skills/skill/qrx/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/quality-nonconformance/",
       "to": "https://aaskills.tech/skill/quality-nonconformance/",
       "output_file": "antigravity-awesome-skills/skill/quality-nonconformance/index.html"
@@ -10229,6 +10239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-browser-automation/",
       "to": "https://aaskills.tech/skill/reverse-browser-automation/",
       "output_file": "antigravity-awesome-skills/skill/reverse-browser-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-engineer-anything/",
+      "to": "https://aaskills.tech/skill/reverse-engineer-anything/",
+      "output_file": "antigravity-awesome-skills/skill/reverse-engineer-anything/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/reverse-engineer/",
@@ -12589,6 +12604,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ux-persuasion-engineer/",
       "to": "https://aaskills.tech/skill/ux-persuasion-engineer/",
       "output_file": "antigravity-awesome-skills/skill/ux-persuasion-engineer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uxkin-research/",
+      "to": "https://aaskills.tech/skill/uxkin-research/",
+      "output_file": "antigravity-awesome-skills/skill/uxkin-research/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uxui-principles/",
