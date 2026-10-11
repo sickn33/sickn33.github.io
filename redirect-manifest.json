@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "35753f8481749c6778c2c4f4328b422ab3b5bbee4dd43b1654d87b91c8cc5884",
-  "source_skills_index_sha256": "20017976341456d427cccc61d84503838727708941167e2644e6c3be0c37ba2a",
+  "source_sitemap_sha256": "ddd98abf5ec25798c1d45cfafa0a5d031a660fb5b27058bc337a6f0fc27d8403",
+  "source_skills_index_sha256": "dc612a22f4a10c2ff36b85a786a31a797b84ae6130ccebfc2c24b69827efbe3e",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2675,
-  "route_count": 2683,
+  "current_skill_route_count": 2677,
+  "route_count": 2685,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7031,6 +7031,11 @@
       "output_file": "antigravity-awesome-skills/skill/kaizen/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kernel-prompt/",
+      "to": "https://aaskills.tech/skill/kernel-prompt/",
+      "output_file": "antigravity-awesome-skills/skill/kernel-prompt/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/keyword-extractor/",
       "to": "https://aaskills.tech/skill/keyword-extractor/",
       "output_file": "antigravity-awesome-skills/skill/keyword-extractor/index.html"
@@ -11069,6 +11074,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/site-architecture/",
       "to": "https://aaskills.tech/skill/site-architecture/",
       "output_file": "antigravity-awesome-skills/skill/site-architecture/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skeleton-first/",
+      "to": "https://aaskills.tech/skill/skeleton-first/",
+      "output_file": "antigravity-awesome-skills/skill/skeleton-first/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/skeuomorphism/",
