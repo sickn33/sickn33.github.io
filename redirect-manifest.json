@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "770f19cb90452ce04a3eb4c2c86f2195d717e0642d45460958a7f2664a7da286",
-  "source_skills_index_sha256": "dc612a22f4a10c2ff36b85a786a31a797b84ae6130ccebfc2c24b69827efbe3e",
+  "source_sitemap_sha256": "6aebbb4871866d923ed3ed8ac73925da5abc78248f40ca97fd4f744ab61a8d4e",
+  "source_skills_index_sha256": "71413c4ee4794c08f63f53b1d6da3e81afd2995cac6b2839f7965bea8c9bc41c",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2677,
-  "route_count": 2685,
+  "current_skill_route_count": 2687,
+  "route_count": 2695,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -459,6 +459,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-engineering-toolkit/",
       "to": "https://aaskills.tech/skill/ai-engineering-toolkit/",
       "output_file": "antigravity-awesome-skills/skill/ai-engineering-toolkit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-headshot-studio/",
+      "to": "https://aaskills.tech/skill/ai-headshot-studio/",
+      "output_file": "antigravity-awesome-skills/skill/ai-headshot-studio/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-image-generation-studio/",
@@ -1019,6 +1024,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/architecture/",
       "to": "https://aaskills.tech/skill/architecture/",
       "output_file": "antigravity-awesome-skills/skill/architecture/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/arcmira-find-quotes/",
+      "to": "https://aaskills.tech/skill/arcmira-find-quotes/",
+      "output_file": "antigravity-awesome-skills/skill/arcmira-find-quotes/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/argocd-gitops/",
@@ -2426,6 +2436,11 @@
       "output_file": "antigravity-awesome-skills/skill/bugs-are-annoying/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/build-ui/",
+      "to": "https://aaskills.tech/skill/build-ui/",
+      "output_file": "antigravity-awesome-skills/skill/build-ui/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/build/",
       "to": "https://aaskills.tech/skill/build/",
       "output_file": "antigravity-awesome-skills/skill/build/index.html"
@@ -2939,6 +2954,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/co-marketing/",
       "to": "https://aaskills.tech/skill/co-marketing/",
       "output_file": "antigravity-awesome-skills/skill/co-marketing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cockney/",
+      "to": "https://aaskills.tech/skill/cockney/",
+      "output_file": "antigravity-awesome-skills/skill/cockney/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/coda-automation/",
@@ -6846,6 +6866,11 @@
       "output_file": "antigravity-awesome-skills/skill/invoices-billing/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/invokely-statistics/",
+      "to": "https://aaskills.tech/skill/invokely-statistics/",
+      "output_file": "antigravity-awesome-skills/skill/invokely-statistics/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-debugger-agent/",
       "to": "https://aaskills.tech/skill/ios-debugger-agent/",
       "output_file": "antigravity-awesome-skills/skill/ios-debugger-agent/index.html"
@@ -6859,6 +6884,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-redteam-pipeline/",
       "to": "https://aaskills.tech/skill/ios-redteam-pipeline/",
       "output_file": "antigravity-awesome-skills/skill/ios-redteam-pipeline/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-screens/",
+      "to": "https://aaskills.tech/skill/ios-screens/",
+      "output_file": "antigravity-awesome-skills/skill/ios-screens/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/iso27001-compliance/",
@@ -12161,6 +12191,11 @@
       "output_file": "antigravity-awesome-skills/skill/todoist-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tokenleak/",
+      "to": "https://aaskills.tech/skill/tokenleak/",
+      "output_file": "antigravity-awesome-skills/skill/tokenleak/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tokenwise/",
       "to": "https://aaskills.tech/skill/tokenwise/",
       "output_file": "antigravity-awesome-skills/skill/tokenwise/index.html"
@@ -12351,6 +12386,11 @@
       "output_file": "antigravity-awesome-skills/skill/ui-component/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-from-screenshot/",
+      "to": "https://aaskills.tech/skill/ui-from-screenshot/",
+      "output_file": "antigravity-awesome-skills/skill/ui-from-screenshot/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-lint/",
       "to": "https://aaskills.tech/skill/ui-lint/",
       "output_file": "antigravity-awesome-skills/skill/ui-lint/index.html"
@@ -12394,6 +12434,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-skills/",
       "to": "https://aaskills.tech/skill/ui-skills/",
       "output_file": "antigravity-awesome-skills/skill/ui-skills/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-states/",
+      "to": "https://aaskills.tech/skill/ui-states/",
+      "output_file": "antigravity-awesome-skills/skill/ui-states/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ui-tokens/",
@@ -13229,6 +13274,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wrike-automation/",
       "to": "https://aaskills.tech/skill/wrike-automation/",
       "output_file": "antigravity-awesome-skills/skill/wrike-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/write-design-md/",
+      "to": "https://aaskills.tech/skill/write-design-md/",
+      "output_file": "antigravity-awesome-skills/skill/write-design-md/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/write-in-my-voice/",
