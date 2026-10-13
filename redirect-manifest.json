@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "2f163ddc92ce897d8660934f0f660a067f093a30814e28c5320608167a895b95",
-  "source_skills_index_sha256": "a0fdbf3a3a5c6b6d9558493fa13a5260e917a95835843ae033eb7b910aea0b7c",
+  "source_sitemap_sha256": "c7cf46bd88fd85859bf8c0dcaf109985e0ca749a0c42bfb79b6f87b186f8f593",
+  "source_skills_index_sha256": "540af33e5e879038144a7e0fa8a38b2642353739ef5b94b3d1c144e690843e86",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2687,
-  "route_count": 2695,
+  "current_skill_route_count": 2689,
+  "route_count": 2697,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -789,6 +789,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/api-and-interface-design/",
       "to": "https://aaskills.tech/skill/api-and-interface-design/",
       "output_file": "antigravity-awesome-skills/skill/api-and-interface-design/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/api-contract-testing/",
+      "to": "https://aaskills.tech/skill/api-contract-testing/",
+      "output_file": "antigravity-awesome-skills/skill/api-contract-testing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/api-design-principles/",
@@ -7969,6 +7974,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/maximalism/",
       "to": "https://aaskills.tech/skill/maximalism/",
       "output_file": "antigravity-awesome-skills/skill/maximalism/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcd-secret-menu-lab/",
+      "to": "https://aaskills.tech/skill/mcd-secret-menu-lab/",
+      "output_file": "antigravity-awesome-skills/skill/mcd-secret-menu-lab/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mcp-builder-ms/",
