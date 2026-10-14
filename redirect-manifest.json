@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "8f1f77dbb1e9dd5030b6ad86fb6f0d03f0b1f2fb5dcf57902c2823150121e94f",
-  "source_skills_index_sha256": "cafa1fc876e3f51368fdd8b3779bdf725eef819848ce2b21ebce5ae63a68f0e0",
+  "source_sitemap_sha256": "7e4c32b4cf9fdfe9c72500ff7b7b167c6d05eef43a35906909a5aeb3fb7d8861",
+  "source_skills_index_sha256": "7d1416b084775e65457c7662b0714e0c28613ae8417e3971245e92a798a872f6",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2689,
-  "route_count": 2697,
+  "current_skill_route_count": 2690,
+  "route_count": 2698,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2369,6 +2369,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-automation/",
       "to": "https://aaskills.tech/skill/browser-automation/",
       "output_file": "antigravity-awesome-skills/skill/browser-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-bridge/",
+      "to": "https://aaskills.tech/skill/browser-bridge/",
+      "output_file": "antigravity-awesome-skills/skill/browser-bridge/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/browser-extension-builder/",
