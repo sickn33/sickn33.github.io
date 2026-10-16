@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "cf1fa6392bb45318ff095fcb02aaea3f0527b343e7972e348e7a8da0bf23d526",
-  "source_skills_index_sha256": "8632aa3f0723fdb2ca8bdff00c84763f56364093e010e0028226df5145156034",
+  "source_sitemap_sha256": "03f701d95c2a5cf5a991b5df02709ddd66b23f3a9ea2d0ceb2d83ee96bb16fa8",
+  "source_skills_index_sha256": "e78b450bfac8ed4f7d552b88f6e37f691699dc17bbfbcfb578aee9d10a2b5436",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2704,
-  "route_count": 2712,
+  "current_skill_route_count": 2705,
+  "route_count": 2713,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -624,6 +624,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/alternatives-pages/",
       "to": "https://aaskills.tech/skill/alternatives-pages/",
       "output_file": "antigravity-awesome-skills/skill/alternatives-pages/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/altorank/",
+      "to": "https://aaskills.tech/skill/altorank/",
+      "output_file": "antigravity-awesome-skills/skill/altorank/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/alumni-re-hire-tracker/",
