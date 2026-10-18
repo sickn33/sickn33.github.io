@@ -24,6 +24,10 @@ concurrency:
   group: legacy-bridge-verify-${{ github.ref }}
   cancel-in-progress: false
 
+env:
+  # Read-only provenance queries against the canonical published catalog.
+  GH_TOKEN: ${{ github.token }}
+
 jobs:
   legacy-bridge-verify:
     runs-on: ubuntu-latest
