@@ -25,6 +25,10 @@ concurrency:
   group: legacy-redirect-sync
   cancel-in-progress: false
 
+env:
+  # Read-only provenance queries against the canonical published catalog.
+  GH_TOKEN: ${{ github.token }}
+
 jobs:
   sync:
     runs-on: ubuntu-latest
