@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "03f701d95c2a5cf5a991b5df02709ddd66b23f3a9ea2d0ceb2d83ee96bb16fa8",
-  "source_skills_index_sha256": "e78b450bfac8ed4f7d552b88f6e37f691699dc17bbfbcfb578aee9d10a2b5436",
+  "source_sitemap_sha256": "839490faaeda9bf4c0de578272cbdfaf4a7c48f19ba8234675b096cffc79b770",
+  "source_skills_index_sha256": "cedb5ff4da1c9ac06c8a3de3554b0e989d0467a3395c33c1ebac145661fe2b8a",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2705,
-  "route_count": 2713,
+  "current_skill_route_count": 2712,
+  "route_count": 2720,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -574,6 +574,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-wrapper-product/",
       "to": "https://aaskills.tech/skill/ai-wrapper-product/",
       "output_file": "antigravity-awesome-skills/skill/ai-wrapper-product/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aident-loadout/",
+      "to": "https://aaskills.tech/skill/aident-loadout/",
+      "output_file": "antigravity-awesome-skills/skill/aident-loadout/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aider-delegate/",
@@ -3669,6 +3674,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/culture-retention/",
       "to": "https://aaskills.tech/skill/culture-retention/",
       "output_file": "antigravity-awesome-skills/skill/culture-retention/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/curlshot/",
+      "to": "https://aaskills.tech/skill/curlshot/",
+      "output_file": "antigravity-awesome-skills/skill/curlshot/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cursor-delegate/",
@@ -7151,6 +7161,11 @@
       "output_file": "antigravity-awesome-skills/skill/kpi-tracker/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/krexa/",
+      "to": "https://aaskills.tech/skill/krexa/",
+      "output_file": "antigravity-awesome-skills/skill/krexa/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kubernetes-architect/",
       "to": "https://aaskills.tech/skill/kubernetes-architect/",
       "output_file": "antigravity-awesome-skills/skill/kubernetes-architect/index.html"
@@ -9171,6 +9186,11 @@
       "output_file": "antigravity-awesome-skills/skill/outreachagent/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/outreachgenie-list-audit/",
+      "to": "https://aaskills.tech/skill/outreachgenie-list-audit/",
+      "output_file": "antigravity-awesome-skills/skill/outreachgenie-list-audit/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/page-cro/",
       "to": "https://aaskills.tech/skill/page-cro/",
       "output_file": "antigravity-awesome-skills/skill/page-cro/index.html"
@@ -9194,6 +9214,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pakistan-payments-stack/",
       "to": "https://aaskills.tech/skill/pakistan-payments-stack/",
       "output_file": "antigravity-awesome-skills/skill/pakistan-payments-stack/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pangolinfo-amazon-data-research/",
+      "to": "https://aaskills.tech/skill/pangolinfo-amazon-data-research/",
+      "output_file": "antigravity-awesome-skills/skill/pangolinfo-amazon-data-research/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/papers-skill/",
@@ -9784,6 +9809,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/project-development/",
       "to": "https://aaskills.tech/skill/project-development/",
       "output_file": "antigravity-awesome-skills/skill/project-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/project-memory-log/",
+      "to": "https://aaskills.tech/skill/project-memory-log/",
+      "output_file": "antigravity-awesome-skills/skill/project-memory-log/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/project-skill-audit/",
@@ -11414,6 +11444,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/solidity-security/",
       "to": "https://aaskills.tech/skill/solidity-security/",
       "output_file": "antigravity-awesome-skills/skill/solidity-security/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/solidping/",
+      "to": "https://aaskills.tech/skill/solidping/",
+      "output_file": "antigravity-awesome-skills/skill/solidping/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sop-company-wiki/",
