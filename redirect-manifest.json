@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "839490faaeda9bf4c0de578272cbdfaf4a7c48f19ba8234675b096cffc79b770",
-  "source_skills_index_sha256": "ca896b8ee5b125b9c4ad76ee12740bc296ffba81232e610bd9d1cd80c43e879a",
+  "source_sitemap_sha256": "b722e80931ff6934ab2a572f7f5d459c36c1815ffe5fa1f7bfc131828a333564",
+  "source_skills_index_sha256": "03ede39ef27fcb649e9ef3c519020ed55b7075f52294d90ca2823df8449daa15",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2712,
-  "route_count": 2720,
+  "current_skill_route_count": 2715,
+  "route_count": 2723,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -7111,6 +7111,11 @@
       "output_file": "antigravity-awesome-skills/skill/kaizen/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/keenable-search-mcp/",
+      "to": "https://aaskills.tech/skill/keenable-search-mcp/",
+      "output_file": "antigravity-awesome-skills/skill/keenable-search-mcp/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kernel-prompt/",
       "to": "https://aaskills.tech/skill/kernel-prompt/",
       "output_file": "antigravity-awesome-skills/skill/kernel-prompt/index.html"
@@ -9636,6 +9641,11 @@
       "output_file": "antigravity-awesome-skills/skill/powershell-windows/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ppl-personal-crm/",
+      "to": "https://aaskills.tech/skill/ppl-personal-crm/",
+      "output_file": "antigravity-awesome-skills/skill/ppl-personal-crm/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pptx-deck-creation/",
       "to": "https://aaskills.tech/skill/pptx-deck-creation/",
       "output_file": "antigravity-awesome-skills/skill/pptx-deck-creation/index.html"
@@ -11709,6 +11719,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stitch-ui-design/",
       "to": "https://aaskills.tech/skill/stitch-ui-design/",
       "output_file": "antigravity-awesome-skills/skill/stitch-ui-design/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/story-bible-continuity/",
+      "to": "https://aaskills.tech/skill/story-bible-continuity/",
+      "output_file": "antigravity-awesome-skills/skill/story-bible-continuity/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/stride-analysis-patterns/",
