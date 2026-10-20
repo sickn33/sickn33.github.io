@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "b722e80931ff6934ab2a572f7f5d459c36c1815ffe5fa1f7bfc131828a333564",
-  "source_skills_index_sha256": "03ede39ef27fcb649e9ef3c519020ed55b7075f52294d90ca2823df8449daa15",
+  "source_sitemap_sha256": "2644eef26f3358e0161c665f1add17205a174db51756f51ed9270fcb03fb4e6a",
+  "source_skills_index_sha256": "6aeb1aac182582bc9707f580080101cdb65eb67fbf2fc1693afe95daafc109e1",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2715,
-  "route_count": 2723,
+  "current_skill_route_count": 2724,
+  "route_count": 2732,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -936,6 +936,11 @@
       "output_file": "antigravity-awesome-skills/skill/apify-ecommerce/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-facebook-ads-library-scraper/",
+      "to": "https://aaskills.tech/skill/apify-facebook-ads-library-scraper/",
+      "output_file": "antigravity-awesome-skills/skill/apify-facebook-ads-library-scraper/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-generate-output-schema/",
       "to": "https://aaskills.tech/skill/apify-generate-output-schema/",
       "output_file": "antigravity-awesome-skills/skill/apify-generate-output-schema/index.html"
@@ -956,6 +961,11 @@
       "output_file": "antigravity-awesome-skills/skill/apify-lead-generation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-linkedin-jobs-scraper/",
+      "to": "https://aaskills.tech/skill/apify-linkedin-jobs-scraper/",
+      "output_file": "antigravity-awesome-skills/skill/apify-linkedin-jobs-scraper/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-market-research/",
       "to": "https://aaskills.tech/skill/apify-market-research/",
       "output_file": "antigravity-awesome-skills/skill/apify-market-research/index.html"
@@ -964,6 +974,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-reddit-scraper/",
       "to": "https://aaskills.tech/skill/apify-reddit-scraper/",
       "output_file": "antigravity-awesome-skills/skill/apify-reddit-scraper/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-tiktok-scraper/",
+      "to": "https://aaskills.tech/skill/apify-tiktok-scraper/",
+      "output_file": "antigravity-awesome-skills/skill/apify-tiktok-scraper/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-trend-analysis/",
@@ -3986,6 +4001,11 @@
       "output_file": "antigravity-awesome-skills/skill/decision-navigator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deed-page/",
+      "to": "https://aaskills.tech/skill/deed-page/",
+      "output_file": "antigravity-awesome-skills/skill/deed-page/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/deep-research-framework/",
       "to": "https://aaskills.tech/skill/deep-research-framework/",
       "output_file": "antigravity-awesome-skills/skill/deep-research-framework/index.html"
@@ -4139,6 +4159,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/design-thinking/",
       "to": "https://aaskills.tech/skill/design-thinking/",
       "output_file": "antigravity-awesome-skills/skill/design-thinking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/design-token-contrast/",
+      "to": "https://aaskills.tech/skill/design-token-contrast/",
+      "output_file": "antigravity-awesome-skills/skill/design-token-contrast/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/design-ux/",
@@ -5859,6 +5884,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/goal-analyzer/",
       "to": "https://aaskills.tech/skill/goal-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/goal-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/goal-instruction-writer/",
+      "to": "https://aaskills.tech/skill/goal-instruction-writer/",
+      "output_file": "antigravity-awesome-skills/skill/goal-instruction-writer/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/goal-loop/",
@@ -11896,6 +11926,11 @@
       "output_file": "antigravity-awesome-skills/skill/systems-programming-rust-project/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/taasky/",
+      "to": "https://aaskills.tech/skill/taasky/",
+      "output_file": "antigravity-awesome-skills/skill/taasky/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tailwind-design-system/",
       "to": "https://aaskills.tech/skill/tailwind-design-system/",
       "output_file": "antigravity-awesome-skills/skill/tailwind-design-system/index.html"
@@ -12606,6 +12641,11 @@
       "output_file": "antigravity-awesome-skills/skill/ui-visual-validator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uiverify-triage-visual-changes/",
+      "to": "https://aaskills.tech/skill/uiverify-triage-visual-changes/",
+      "output_file": "antigravity-awesome-skills/skill/uiverify-triage-visual-changes/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uncle-bob-craft/",
       "to": "https://aaskills.tech/skill/uncle-bob-craft/",
       "output_file": "antigravity-awesome-skills/skill/uncle-bob-craft/index.html"
@@ -12644,6 +12684,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unity-ecs-patterns/",
       "to": "https://aaskills.tech/skill/unity-ecs-patterns/",
       "output_file": "antigravity-awesome-skills/skill/unity-ecs-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unpaid-intern/",
+      "to": "https://aaskills.tech/skill/unpaid-intern/",
+      "output_file": "antigravity-awesome-skills/skill/unpaid-intern/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unreal-engine-cpp-pro/",
