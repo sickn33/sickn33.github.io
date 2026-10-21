@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "66cf56b5f42e8a6620d374df87b5e9bad5b33e2444a8b498b98f5c9194e2b1b1",
-  "source_skills_index_sha256": "6aeb1aac182582bc9707f580080101cdb65eb67fbf2fc1693afe95daafc109e1",
+  "source_sitemap_sha256": "323e9c2b324ee2b5d1dde0b717268995ce47b1d2c71e89c470e2693e122db1ff",
+  "source_skills_index_sha256": "41a7407cf426b0a28f959a6d869a1258eb11c60770a0de4cae79ef44c066c386",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2724,
-  "route_count": 2732,
+  "current_skill_route_count": 2737,
+  "route_count": 2745,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -416,6 +416,11 @@
       "output_file": "antigravity-awesome-skills/skill/agy-delegate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/agy-powerline/",
+      "to": "https://aaskills.tech/skill/agy-powerline/",
+      "output_file": "antigravity-awesome-skills/skill/agy-powerline/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-agent-development/",
       "to": "https://aaskills.tech/skill/ai-agent-development/",
       "output_file": "antigravity-awesome-skills/skill/ai-agent-development/index.html"
@@ -444,6 +449,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-analyzer/",
       "to": "https://aaskills.tech/skill/ai-analyzer/",
       "output_file": "antigravity-awesome-skills/skill/ai-analyzer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-audiobook-narration/",
+      "to": "https://aaskills.tech/skill/ai-audiobook-narration/",
+      "output_file": "antigravity-awesome-skills/skill/ai-audiobook-narration/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-code-generation-guardrails/",
@@ -479,6 +489,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-image-generation-studio/",
       "to": "https://aaskills.tech/skill/ai-image-generation-studio/",
       "output_file": "antigravity-awesome-skills/skill/ai-image-generation-studio/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-image-realism/",
+      "to": "https://aaskills.tech/skill/ai-image-realism/",
+      "output_file": "antigravity-awesome-skills/skill/ai-image-realism/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-inference-service-mesh/",
@@ -564,6 +579,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-sre-incident-response/",
       "to": "https://aaskills.tech/skill/ai-sre-incident-response/",
       "output_file": "antigravity-awesome-skills/skill/ai-sre-incident-response/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-storyboard-generator/",
+      "to": "https://aaskills.tech/skill/ai-storyboard-generator/",
+      "output_file": "antigravity-awesome-skills/skill/ai-storyboard-generator/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-studio-image/",
@@ -989,6 +1009,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-ultimate-scraper/",
       "to": "https://aaskills.tech/skill/apify-ultimate-scraper/",
       "output_file": "antigravity-awesome-skills/skill/apify-ultimate-scraper/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apify-youtube-transcript-scraper/",
+      "to": "https://aaskills.tech/skill/apify-youtube-transcript-scraper/",
+      "output_file": "antigravity-awesome-skills/skill/apify-youtube-transcript-scraper/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/apk-redteam-pipeline/",
@@ -2619,6 +2644,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/calendly-automation/",
       "to": "https://aaskills.tech/skill/calendly-automation/",
       "output_file": "antigravity-awesome-skills/skill/calendly-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/calibrate-first/",
+      "to": "https://aaskills.tech/skill/calibrate-first/",
+      "output_file": "antigravity-awesome-skills/skill/calibrate-first/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/candidate-talent-pool/",
@@ -7261,6 +7291,11 @@
       "output_file": "antigravity-awesome-skills/skill/langgraph/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lanshu-create-ai-presenter-video/",
+      "to": "https://aaskills.tech/skill/lanshu-create-ai-presenter-video/",
+      "output_file": "antigravity-awesome-skills/skill/lanshu-create-ai-presenter-video/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/laravel-development-workflow/",
       "to": "https://aaskills.tech/skill/laravel-development-workflow/",
       "output_file": "antigravity-awesome-skills/skill/laravel-development-workflow/index.html"
@@ -8651,6 +8686,11 @@
       "output_file": "antigravity-awesome-skills/skill/neumorphism/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/neverapply/",
+      "to": "https://aaskills.tech/skill/neverapply/",
+      "output_file": "antigravity-awesome-skills/skill/neverapply/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/new-rails-project/",
       "to": "https://aaskills.tech/skill/new-rails-project/",
       "output_file": "antigravity-awesome-skills/skill/new-rails-project/index.html"
@@ -9281,6 +9321,11 @@
       "output_file": "antigravity-awesome-skills/skill/party-ledger-reconciliation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/party-planning/",
+      "to": "https://aaskills.tech/skill/party-planning/",
+      "output_file": "antigravity-awesome-skills/skill/party-planning/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/patch-diff-exploit/",
       "to": "https://aaskills.tech/skill/patch-diff-exploit/",
       "output_file": "antigravity-awesome-skills/skill/patch-diff-exploit/index.html"
@@ -9484,6 +9529,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pitch-psychologist/",
       "to": "https://aaskills.tech/skill/pitch-psychologist/",
       "output_file": "antigravity-awesome-skills/skill/pitch-psychologist/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pixeltable/",
+      "to": "https://aaskills.tech/skill/pixeltable/",
+      "output_file": "antigravity-awesome-skills/skill/pixeltable/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/placecall/",
@@ -13251,6 +13301,11 @@
       "output_file": "antigravity-awesome-skills/skill/webflow-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wechat-cover-maker/",
+      "to": "https://aaskills.tech/skill/wechat-cover-maker/",
+      "output_file": "antigravity-awesome-skills/skill/wechat-cover-maker/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wechat-official-account-strategist/",
       "to": "https://aaskills.tech/skill/wechat-official-account-strategist/",
       "output_file": "antigravity-awesome-skills/skill/wechat-official-account-strategist/index.html"
@@ -13629,6 +13684,16 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zeroize-audit/",
       "to": "https://aaskills.tech/skill/zeroize-audit/",
       "output_file": "antigravity-awesome-skills/skill/zeroize-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zhongcao-cover-maker/",
+      "to": "https://aaskills.tech/skill/zhongcao-cover-maker/",
+      "output_file": "antigravity-awesome-skills/skill/zhongcao-cover-maker/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zhongcao-note-copywriter/",
+      "to": "https://aaskills.tech/skill/zhongcao-note-copywriter/",
+      "output_file": "antigravity-awesome-skills/skill/zhongcao-note-copywriter/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zipai-optimizer/",
