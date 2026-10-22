@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "82dcc46ab8e3f01ab33a2d266ae3b678abc4f1db743facc5a846a7a7f6886f35",
-  "source_skills_index_sha256": "e4d74fd38e86782ded5aa54dc6df278792ebfbd1433ea127a64f15ba0701ebba",
+  "source_sitemap_sha256": "d8cfafafd41929bd090dfac808e4f754861394724126980f477d3e228f410d2c",
+  "source_skills_index_sha256": "a12407826d4f4c92ec7ac33d64bc45067f98f261b829990dd93c65b94cdcae5b",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2738,
-  "route_count": 2746,
+  "current_skill_route_count": 2743,
+  "route_count": 2751,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -744,6 +744,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/angular/",
       "to": "https://aaskills.tech/skill/angular/",
       "output_file": "antigravity-awesome-skills/skill/angular/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/animated-github-profile/",
+      "to": "https://aaskills.tech/skill/animated-github-profile/",
+      "output_file": "antigravity-awesome-skills/skill/animated-github-profile/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/animejs-animation/",
@@ -7321,6 +7326,11 @@
       "output_file": "antigravity-awesome-skills/skill/latex-paper-conversion/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/launch-check/",
+      "to": "https://aaskills.tech/skill/launch-check/",
+      "output_file": "antigravity-awesome-skills/skill/launch-check/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/launch-strategy/",
       "to": "https://aaskills.tech/skill/launch-strategy/",
       "output_file": "antigravity-awesome-skills/skill/launch-strategy/index.html"
@@ -10831,6 +10841,11 @@
       "output_file": "antigravity-awesome-skills/skill/search-specialist/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/second-deposit-igaming/",
+      "to": "https://aaskills.tech/skill/second-deposit-igaming/",
+      "output_file": "antigravity-awesome-skills/skill/second-deposit-igaming/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/secrets-management/",
       "to": "https://aaskills.tech/skill/secrets-management/",
       "output_file": "antigravity-awesome-skills/skill/secrets-management/index.html"
@@ -12826,6 +12841,11 @@
       "output_file": "antigravity-awesome-skills/skill/usage-based-pricing/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/usage-engineer/",
+      "to": "https://aaskills.tech/skill/usage-engineer/",
+      "output_file": "antigravity-awesome-skills/skill/usage-engineer/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/use-dom/",
       "to": "https://aaskills.tech/skill/use-dom/",
       "output_file": "antigravity-awesome-skills/skill/use-dom/index.html"
@@ -13179,6 +13199,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/warren-buffett/",
       "to": "https://aaskills.tech/skill/warren-buffett/",
       "output_file": "antigravity-awesome-skills/skill/warren-buffett/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/watch-igaming/",
+      "to": "https://aaskills.tech/skill/watch-igaming/",
+      "output_file": "antigravity-awesome-skills/skill/watch-igaming/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wcag-audit-patterns/",
