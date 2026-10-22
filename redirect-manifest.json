@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "323e9c2b324ee2b5d1dde0b717268995ce47b1d2c71e89c470e2693e122db1ff",
-  "source_skills_index_sha256": "41a7407cf426b0a28f959a6d869a1258eb11c60770a0de4cae79ef44c066c386",
+  "source_sitemap_sha256": "82dcc46ab8e3f01ab33a2d266ae3b678abc4f1db743facc5a846a7a7f6886f35",
+  "source_skills_index_sha256": "e4d74fd38e86782ded5aa54dc6df278792ebfbd1433ea127a64f15ba0701ebba",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2737,
-  "route_count": 2745,
+  "current_skill_route_count": 2738,
+  "route_count": 2746,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -12814,6 +12814,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/us-property-data/",
       "to": "https://aaskills.tech/skill/us-property-data/",
       "output_file": "antigravity-awesome-skills/skill/us-property-data/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/us-watchlist-alerts/",
+      "to": "https://aaskills.tech/skill/us-watchlist-alerts/",
+      "output_file": "antigravity-awesome-skills/skill/us-watchlist-alerts/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/usage-based-pricing/",
