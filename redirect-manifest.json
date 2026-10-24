@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "d8cfafafd41929bd090dfac808e4f754861394724126980f477d3e228f410d2c",
-  "source_skills_index_sha256": "a12407826d4f4c92ec7ac33d64bc45067f98f261b829990dd93c65b94cdcae5b",
+  "source_sitemap_sha256": "ee79ba3e3e1513024ad429b3b56d84d6ff68e7d98af5aa1d3c49cb61d822dfd2",
+  "source_skills_index_sha256": "edec575c055bee2744e43eb37caa037521368c7027f002b70bb0878c342a3b3e",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2743,
-  "route_count": 2751,
+  "current_skill_route_count": 2750,
+  "route_count": 2758,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -89,6 +89,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/3d-web-experience/",
       "to": "https://aaskills.tech/skill/3d-web-experience/",
       "output_file": "antigravity-awesome-skills/skill/3d-web-experience/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/a4a/",
+      "to": "https://aaskills.tech/skill/a4a/",
+      "output_file": "antigravity-awesome-skills/skill/a4a/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/aas-compose-stack/",
@@ -3521,6 +3526,11 @@
       "output_file": "antigravity-awesome-skills/skill/convex/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cooper-email/",
+      "to": "https://aaskills.tech/skill/cooper-email/",
+      "output_file": "antigravity-awesome-skills/skill/cooper-email/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/copilot-delegate/",
       "to": "https://aaskills.tech/skill/copilot-delegate/",
       "output_file": "antigravity-awesome-skills/skill/copilot-delegate/index.html"
@@ -3944,6 +3954,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datadog/",
       "to": "https://aaskills.tech/skill/datadog/",
       "output_file": "antigravity-awesome-skills/skill/datadog/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/datawebot/",
+      "to": "https://aaskills.tech/skill/datawebot/",
+      "output_file": "antigravity-awesome-skills/skill/datawebot/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/day-book/",
@@ -4476,11 +4491,6 @@
       "output_file": "antigravity-awesome-skills/skill/docusign-automation/index.html"
     },
     {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/docx-official/",
-      "to": "https://aaskills.tech/skill/docx-official/",
-      "output_file": "antigravity-awesome-skills/skill/docx-official/index.html"
-    },
-    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/domain-driven-design/",
       "to": "https://aaskills.tech/skill/domain-driven-design/",
       "output_file": "antigravity-awesome-skills/skill/domain-driven-design/index.html"
@@ -4489,6 +4499,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/domain-modeling/",
       "to": "https://aaskills.tech/skill/domain-modeling/",
       "output_file": "antigravity-awesome-skills/skill/domain-modeling/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/doomsday-escrow/",
+      "to": "https://aaskills.tech/skill/doomsday-escrow/",
+      "output_file": "antigravity-awesome-skills/skill/doomsday-escrow/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/dos-verify-done-claims/",
@@ -4996,6 +5011,11 @@
       "output_file": "antigravity-awesome-skills/skill/extract-document-data/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/faber-language/",
+      "to": "https://aaskills.tech/skill/faber-language/",
+      "output_file": "antigravity-awesome-skills/skill/faber-language/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/fable-safe-prompt/",
       "to": "https://aaskills.tech/skill/fable-safe-prompt/",
       "output_file": "antigravity-awesome-skills/skill/fable-safe-prompt/index.html"
@@ -5279,6 +5299,26 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/food-database-query/",
       "to": "https://aaskills.tech/skill/food-database-query/",
       "output_file": "antigravity-awesome-skills/skill/food-database-query/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/footval-follow-matches-and-tables/",
+      "to": "https://aaskills.tech/skill/footval-follow-matches-and-tables/",
+      "output_file": "antigravity-awesome-skills/skill/footval-follow-matches-and-tables/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/footval-scout-and-rank-players/",
+      "to": "https://aaskills.tech/skill/footval-scout-and-rank-players/",
+      "output_file": "antigravity-awesome-skills/skill/footval-scout-and-rank-players/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/footval-stats-and-transfer-news/",
+      "to": "https://aaskills.tech/skill/footval-stats-and-transfer-news/",
+      "output_file": "antigravity-awesome-skills/skill/footval-stats-and-transfer-news/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/footval-value-and-compare-players/",
+      "to": "https://aaskills.tech/skill/footval-value-and-compare-players/",
+      "output_file": "antigravity-awesome-skills/skill/footval-value-and-compare-players/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/form-cro/",
@@ -9396,11 +9436,6 @@
       "output_file": "antigravity-awesome-skills/skill/pdf-conversion-router/index.html"
     },
     {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pdf-official/",
-      "to": "https://aaskills.tech/skill/pdf-official/",
-      "output_file": "antigravity-awesome-skills/skill/pdf-official/index.html"
-    },
-    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/penetration-testing/",
       "to": "https://aaskills.tech/skill/penetration-testing/",
       "output_file": "antigravity-awesome-skills/skill/penetration-testing/index.html"
@@ -9741,11 +9776,6 @@
       "output_file": "antigravity-awesome-skills/skill/pptx-deck-creation/index.html"
     },
     {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pptx-official/",
-      "to": "https://aaskills.tech/skill/pptx-official/",
-      "output_file": "antigravity-awesome-skills/skill/pptx-official/index.html"
-    },
-    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/pr-merge-champion/",
       "to": "https://aaskills.tech/skill/pr-merge-champion/",
       "output_file": "antigravity-awesome-skills/skill/pr-merge-champion/index.html"
@@ -9824,6 +9854,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/product-decision-agent/",
       "to": "https://aaskills.tech/skill/product-decision-agent/",
       "output_file": "antigravity-awesome-skills/skill/product-decision-agent/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/product-design-harness/",
+      "to": "https://aaskills.tech/skill/product-design-harness/",
+      "output_file": "antigravity-awesome-skills/skill/product-design-harness/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/product-design/",
@@ -11284,6 +11319,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-development/",
       "to": "https://aaskills.tech/skill/shopify-development/",
       "output_file": "antigravity-awesome-skills/skill/shopify-development/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-firebase-app/",
+      "to": "https://aaskills.tech/skill/shopify-firebase-app/",
+      "output_file": "antigravity-awesome-skills/skill/shopify-firebase-app/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/shopify-review-triage/",
@@ -13599,11 +13639,6 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/xiaohongshu-content-strategist/",
       "to": "https://aaskills.tech/skill/xiaohongshu-content-strategist/",
       "output_file": "antigravity-awesome-skills/skill/xiaohongshu-content-strategist/index.html"
-    },
-    {
-      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/xlsx-official/",
-      "to": "https://aaskills.tech/skill/xlsx-official/",
-      "output_file": "antigravity-awesome-skills/skill/xlsx-official/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/xss-html-injection/",
