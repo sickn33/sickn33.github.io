@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "0d3f0dffb3cda344f5e0703ed18a5e6a18f84f5de1d9f40828a2e66de6d662fb",
-  "source_skills_index_sha256": "cce49f398d93f943583843ea635a471edaa86f13c798ddf2f4565c4ea724d44a",
+  "source_sitemap_sha256": "c05483b25279357f074ed31352cad96ebf597d33caced98080e6998bce137cac",
+  "source_skills_index_sha256": "24648a2e8a7ae2737ddcaba126b4eaf6adb56381219fb8b8301c2c0e9e63122e",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2872,
-  "route_count": 2880,
+  "current_skill_route_count": 2877,
+  "route_count": 2885,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2326,6 +2326,11 @@
       "output_file": "antigravity-awesome-skills/skill/bevy-ecs-expert/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bifrost-gateway/",
+      "to": "https://aaskills.tech/skill/bifrost-gateway/",
+      "output_file": "antigravity-awesome-skills/skill/bifrost-gateway/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bilig-workpaper/",
       "to": "https://aaskills.tech/skill/bilig-workpaper/",
       "output_file": "antigravity-awesome-skills/skill/bilig-workpaper/index.html"
@@ -3349,6 +3354,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/commandcode-delegate/",
       "to": "https://aaskills.tech/skill/commandcode-delegate/",
       "output_file": "antigravity-awesome-skills/skill/commandcode-delegate/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/comment-to-dm-cta/",
+      "to": "https://aaskills.tech/skill/comment-to-dm-cta/",
+      "output_file": "antigravity-awesome-skills/skill/comment-to-dm-cta/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/commit/",
@@ -7604,6 +7614,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/landing-page-generator/",
       "to": "https://aaskills.tech/skill/landing-page-generator/",
       "output_file": "antigravity-awesome-skills/skill/landing-page-generator/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/landing-page/",
+      "to": "https://aaskills.tech/skill/landing-page/",
+      "output_file": "antigravity-awesome-skills/skill/landing-page/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/langchain-architecture/",
@@ -13896,6 +13911,11 @@
       "output_file": "antigravity-awesome-skills/skill/web-design-guidelines/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-design-system/",
+      "to": "https://aaskills.tech/skill/web-design-system/",
+      "output_file": "antigravity-awesome-skills/skill/web-design-system/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-games/",
       "to": "https://aaskills.tech/skill/web-games/",
       "output_file": "antigravity-awesome-skills/skill/web-games/index.html"
@@ -13914,6 +13934,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-project-brainstorming/",
       "to": "https://aaskills.tech/skill/web-project-brainstorming/",
       "output_file": "antigravity-awesome-skills/skill/web-project-brainstorming/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-review/",
+      "to": "https://aaskills.tech/skill/web-review/",
+      "output_file": "antigravity-awesome-skills/skill/web-review/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/web-scraper/",
