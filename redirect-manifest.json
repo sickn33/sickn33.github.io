@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "c05483b25279357f074ed31352cad96ebf597d33caced98080e6998bce137cac",
-  "source_skills_index_sha256": "24648a2e8a7ae2737ddcaba126b4eaf6adb56381219fb8b8301c2c0e9e63122e",
+  "source_sitemap_sha256": "8aa6645ab3fcff48ff97ef5e0134ce84c6eb73280024018f737c85aa1be8222a",
+  "source_skills_index_sha256": "0aa454dbf68c5cf1835cb3822488a0d0258a36e2cf71287914e72ba46eb0bee6",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2877,
-  "route_count": 2885,
+  "current_skill_route_count": 2884,
+  "route_count": 2892,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -6316,6 +6316,11 @@
       "output_file": "antigravity-awesome-skills/skill/hardware-security/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/harvey-specter/",
+      "to": "https://aaskills.tech/skill/harvey-specter/",
+      "output_file": "antigravity-awesome-skills/skill/harvey-specter/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/hasdata-cli/",
       "to": "https://aaskills.tech/skill/hasdata-cli/",
       "output_file": "antigravity-awesome-skills/skill/hasdata-cli/index.html"
@@ -7276,9 +7281,19 @@
       "output_file": "antigravity-awesome-skills/skill/ios-developer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-flows/",
+      "to": "https://aaskills.tech/skill/ios-flows/",
+      "output_file": "antigravity-awesome-skills/skill/ios-flows/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-redteam-pipeline/",
       "to": "https://aaskills.tech/skill/ios-redteam-pipeline/",
       "output_file": "antigravity-awesome-skills/skill/ios-redteam-pipeline/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-review/",
+      "to": "https://aaskills.tech/skill/ios-review/",
+      "output_file": "antigravity-awesome-skills/skill/ios-review/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ios-screens/",
@@ -7459,6 +7474,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/keenable-search-mcp/",
       "to": "https://aaskills.tech/skill/keenable-search-mcp/",
       "output_file": "antigravity-awesome-skills/skill/keenable-search-mcp/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/keepmacawake/",
+      "to": "https://aaskills.tech/skill/keepmacawake/",
+      "output_file": "antigravity-awesome-skills/skill/keepmacawake/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/kernel-prompt/",
@@ -10976,6 +10996,11 @@
       "output_file": "antigravity-awesome-skills/skill/requesting-code-review/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/requirements-writing/",
+      "to": "https://aaskills.tech/skill/requirements-writing/",
+      "output_file": "antigravity-awesome-skills/skill/requirements-writing/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/research-prompt/",
       "to": "https://aaskills.tech/skill/research-prompt/",
       "output_file": "antigravity-awesome-skills/skill/research-prompt/index.html"
@@ -13221,6 +13246,11 @@
       "output_file": "antigravity-awesome-skills/skill/tutorial-engineer/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/tweetapi/",
+      "to": "https://aaskills.tech/skill/tweetapi/",
+      "output_file": "antigravity-awesome-skills/skill/tweetapi/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/twilio-communications/",
       "to": "https://aaskills.tech/skill/twilio-communications/",
       "output_file": "antigravity-awesome-skills/skill/twilio-communications/index.html"
@@ -14359,6 +14389,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/youtube-transcript/",
       "to": "https://aaskills.tech/skill/youtube-transcript/",
       "output_file": "antigravity-awesome-skills/skill/youtube-transcript/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zambo/",
+      "to": "https://aaskills.tech/skill/zambo/",
+      "output_file": "antigravity-awesome-skills/skill/zambo/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/zapier-make-patterns/",
