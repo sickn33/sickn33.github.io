@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "bcbab0e66c6a47352f76a01046e9957de79f61727a42944d998ae4d87a26b4d8",
-  "source_skills_index_sha256": "75ae5d73d2d62cf2e24c653635aed8af1ee85805ef1956a3792f3bdc896ae4c9",
+  "source_sitemap_sha256": "58e96ff61e928f950c878a99ac7615627e497610657b9af127e199b5c1184c0c",
+  "source_skills_index_sha256": "c6c8a9491baef9b2c66425427853c7b1928b56ac3331248298cfde624f15f7f3",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2917,
-  "route_count": 2925,
+  "current_skill_route_count": 2923,
+  "route_count": 2931,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2456,6 +2456,11 @@
       "output_file": "antigravity-awesome-skills/skill/bounce-rate-estimator/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bowmark/",
+      "to": "https://aaskills.tech/skill/bowmark/",
+      "output_file": "antigravity-awesome-skills/skill/bowmark/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/box-automation/",
       "to": "https://aaskills.tech/skill/box-automation/",
       "output_file": "antigravity-awesome-skills/skill/box-automation/index.html"
@@ -3749,6 +3754,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cost-optimization/",
       "to": "https://aaskills.tech/skill/cost-optimization/",
       "output_file": "antigravity-awesome-skills/skill/cost-optimization/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/coupler-marketing-analytics/",
+      "to": "https://aaskills.tech/skill/coupler-marketing-analytics/",
+      "output_file": "antigravity-awesome-skills/skill/coupler-marketing-analytics/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/course-upskilling-requests/",
@@ -5394,6 +5404,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/figma-automation/",
       "to": "https://aaskills.tech/skill/figma-automation/",
       "output_file": "antigravity-awesome-skills/skill/figma-automation/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/figma-designer/",
+      "to": "https://aaskills.tech/skill/figma-designer/",
+      "output_file": "antigravity-awesome-skills/skill/figma-designer/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/figma/",
@@ -7711,6 +7726,11 @@
       "output_file": "antigravity-awesome-skills/skill/lambdatest-agent-skills/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/landing-page-design/",
+      "to": "https://aaskills.tech/skill/landing-page-design/",
+      "output_file": "antigravity-awesome-skills/skill/landing-page-design/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/landing-page-generator/",
       "to": "https://aaskills.tech/skill/landing-page-generator/",
       "output_file": "antigravity-awesome-skills/skill/landing-page-generator/index.html"
@@ -9159,6 +9179,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/n8n-workflow-patterns/",
       "to": "https://aaskills.tech/skill/n8n-workflow-patterns/",
       "output_file": "antigravity-awesome-skills/skill/n8n-workflow-patterns/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nano-settlement-verify/",
+      "to": "https://aaskills.tech/skill/nano-settlement-verify/",
+      "output_file": "antigravity-awesome-skills/skill/nano-settlement-verify/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nanobanana-ppt-skills/",
@@ -11914,6 +11939,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sequence-psychologist/",
       "to": "https://aaskills.tech/skill/sequence-psychologist/",
       "output_file": "antigravity-awesome-skills/skill/sequence-psychologist/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/sequenzy-email-marketing/",
+      "to": "https://aaskills.tech/skill/sequenzy-email-marketing/",
+      "output_file": "antigravity-awesome-skills/skill/sequenzy-email-marketing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/serply-search-mcp/",
