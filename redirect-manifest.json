@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "58e96ff61e928f950c878a99ac7615627e497610657b9af127e199b5c1184c0c",
-  "source_skills_index_sha256": "c6c8a9491baef9b2c66425427853c7b1928b56ac3331248298cfde624f15f7f3",
+  "source_sitemap_sha256": "9e8e4856759619cf2a1d0222b003aabbe75074fcaaf6018454d6eba8fad424f6",
+  "source_skills_index_sha256": "0ffe96f1ab19f6f722a1905c2458cce1bb72eadbaba269070a245ec7df00b185",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2923,
-  "route_count": 2931,
+  "current_skill_route_count": 2926,
+  "route_count": 2934,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8286,6 +8286,11 @@
       "output_file": "antigravity-awesome-skills/skill/luna/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lurkapi-ad-research/",
+      "to": "https://aaskills.tech/skill/lurkapi-ad-research/",
+      "output_file": "antigravity-awesome-skills/skill/lurkapi-ad-research/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/m365-agents-dotnet/",
       "to": "https://aaskills.tech/skill/m365-agents-dotnet/",
       "output_file": "antigravity-awesome-skills/skill/m365-agents-dotnet/index.html"
@@ -8799,6 +8804,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/minecraft-bukkit-pro/",
       "to": "https://aaskills.tech/skill/minecraft-bukkit-pro/",
       "output_file": "antigravity-awesome-skills/skill/minecraft-bukkit-pro/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/minicut-film-studio/",
+      "to": "https://aaskills.tech/skill/minicut-film-studio/",
+      "output_file": "antigravity-awesome-skills/skill/minicut-film-studio/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/minimalism/",
@@ -13229,6 +13239,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/time-ledger/",
       "to": "https://aaskills.tech/skill/time-ledger/",
       "output_file": "antigravity-awesome-skills/skill/time-ledger/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/time-machine-recovery/",
+      "to": "https://aaskills.tech/skill/time-machine-recovery/",
+      "output_file": "antigravity-awesome-skills/skill/time-machine-recovery/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/time-tracking/",
