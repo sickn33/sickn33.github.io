@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "b41f9332a652e1b007eb9a88560ebfb1f3d161a9a2945fd95f9db036caef9608",
-  "source_skills_index_sha256": "31070202251bacf49ef1878aaf4f0d56b33922d7f6093e0798abc921abbbc57d",
+  "source_sitemap_sha256": "250b13e41b7f2fde89ab856722be34b6f01b6ad7cf34351194f2ddff5fc815ec",
+  "source_skills_index_sha256": "9271d2c5a8eb804a26fe3d490c7c656c6ff91544e5012468c7bf60562ea3dbb6",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2955,
-  "route_count": 2963,
+  "current_skill_route_count": 2957,
+  "route_count": 2965,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -8366,6 +8366,11 @@
       "output_file": "antigravity-awesome-skills/skill/lovable-cleanup/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/lumify-odds/",
+      "to": "https://aaskills.tech/skill/lumify-odds/",
+      "output_file": "antigravity-awesome-skills/skill/lumify-odds/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/luna/",
       "to": "https://aaskills.tech/skill/luna/",
       "output_file": "antigravity-awesome-skills/skill/luna/index.html"
@@ -11649,6 +11654,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/score-eval/",
       "to": "https://aaskills.tech/skill/score-eval/",
       "output_file": "antigravity-awesome-skills/skill/score-eval/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/scrapely-scrape/",
+      "to": "https://aaskills.tech/skill/scrapely-scrape/",
+      "output_file": "antigravity-awesome-skills/skill/scrapely-scrape/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/scrapingbee-cli/",
