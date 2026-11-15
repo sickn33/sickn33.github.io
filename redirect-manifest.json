@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "250b13e41b7f2fde89ab856722be34b6f01b6ad7cf34351194f2ddff5fc815ec",
-  "source_skills_index_sha256": "9271d2c5a8eb804a26fe3d490c7c656c6ff91544e5012468c7bf60562ea3dbb6",
+  "source_sitemap_sha256": "abf427111f52e805bf633014dbe0b5421f39c4127cd64c22132c608bdde27f97",
+  "source_skills_index_sha256": "91243deb0c8b283a1d6e1a8c0e3f66e7714355418671974267785dbd43a584bf",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2957,
-  "route_count": 2965,
+  "current_skill_route_count": 2960,
+  "route_count": 2968,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -469,6 +469,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-code-generation-guardrails/",
       "to": "https://aaskills.tech/skill/ai-code-generation-guardrails/",
       "output_file": "antigravity-awesome-skills/skill/ai-code-generation-guardrails/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-code-review-triage/",
+      "to": "https://aaskills.tech/skill/ai-code-review-triage/",
+      "output_file": "antigravity-awesome-skills/skill/ai-code-review-triage/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ai-coding-agent-guardrails/",
@@ -3859,6 +3864,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/create-pr/",
       "to": "https://aaskills.tech/skill/create-pr/",
       "output_file": "antigravity-awesome-skills/skill/create-pr/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/creative-psychology-hooks/",
+      "to": "https://aaskills.tech/skill/creative-psychology-hooks/",
+      "output_file": "antigravity-awesome-skills/skill/creative-psychology-hooks/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/cred-omega/",
@@ -9464,6 +9474,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nika/",
       "to": "https://aaskills.tech/skill/nika/",
       "output_file": "antigravity-awesome-skills/skill/nika/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/no-free-work/",
+      "to": "https://aaskills.tech/skill/no-free-work/",
+      "output_file": "antigravity-awesome-skills/skill/no-free-work/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/noaa-radar-satellite-fetching/",
