@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "f148b6cbe3c7ed0ab19531613429786a09744a5bc5c06b35e5942fc50ce93bd2",
-  "source_skills_index_sha256": "9aefe63ce463b0e856779bd640764148019d0ea9518281d8685b3149877a7441",
+  "source_sitemap_sha256": "3ba1790d6b5561820b235c7251ddc360bf45a7d0028b504be4fd7fdf30f98872",
+  "source_skills_index_sha256": "5c1fa9be7b81fe48d91271d52594a55ab51870ecaaf46ba3eeb5a83143d87083",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 2981,
-  "route_count": 2989,
+  "current_skill_route_count": 3017,
+  "route_count": 3025,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -2506,6 +2506,166 @@
       "output_file": "antigravity-awesome-skills/skill/boost-asio-pro/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-ads-incrementality-check/",
+      "to": "https://aaskills.tech/skill/boring-marketing-ads-incrementality-check/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-ads-incrementality-check/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-ai-search/",
+      "to": "https://aaskills.tech/skill/boring-marketing-ai-search/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-ai-search/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-audience-research/",
+      "to": "https://aaskills.tech/skill/boring-marketing-audience-research/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-audience-research/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-brand-voice/",
+      "to": "https://aaskills.tech/skill/boring-marketing-brand-voice/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-brand-voice/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-competitive-intel/",
+      "to": "https://aaskills.tech/skill/boring-marketing-competitive-intel/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-competitive-intel/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-content-atomizer/",
+      "to": "https://aaskills.tech/skill/boring-marketing-content-atomizer/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-content-atomizer/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-creative/",
+      "to": "https://aaskills.tech/skill/boring-marketing-creative/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-creative/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-direct-response-copy/",
+      "to": "https://aaskills.tech/skill/boring-marketing-direct-response-copy/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-direct-response-copy/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-email-sequences/",
+      "to": "https://aaskills.tech/skill/boring-marketing-email-sequences/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-email-sequences/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-find-local-clients/",
+      "to": "https://aaskills.tech/skill/boring-marketing-find-local-clients/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-find-local-clients/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-first-screen-check/",
+      "to": "https://aaskills.tech/skill/boring-marketing-first-screen-check/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-first-screen-check/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-google-ads-tracking/",
+      "to": "https://aaskills.tech/skill/boring-marketing-google-ads-tracking/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-google-ads-tracking/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-google-business-profile/",
+      "to": "https://aaskills.tech/skill/boring-marketing-google-business-profile/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-google-business-profile/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-keyword-research/",
+      "to": "https://aaskills.tech/skill/boring-marketing-keyword-research/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-keyword-research/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-landing-page/",
+      "to": "https://aaskills.tech/skill/boring-marketing-landing-page/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-landing-page/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-lead-magnet/",
+      "to": "https://aaskills.tech/skill/boring-marketing-lead-magnet/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-lead-magnet/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-local-seo-plan/",
+      "to": "https://aaskills.tech/skill/boring-marketing-local-seo-plan/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-local-seo-plan/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-long-form-article/",
+      "to": "https://aaskills.tech/skill/boring-marketing-long-form-article/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-long-form-article/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-meta-ads/",
+      "to": "https://aaskills.tech/skill/boring-marketing-meta-ads/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-meta-ads/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-newsletter/",
+      "to": "https://aaskills.tech/skill/boring-marketing-newsletter/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-newsletter/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-paid-ads/",
+      "to": "https://aaskills.tech/skill/boring-marketing-paid-ads/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-paid-ads/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-performance-review/",
+      "to": "https://aaskills.tech/skill/boring-marketing-performance-review/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-performance-review/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-pitch-the-fix/",
+      "to": "https://aaskills.tech/skill/boring-marketing-pitch-the-fix/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-pitch-the-fix/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-positioning-angles/",
+      "to": "https://aaskills.tech/skill/boring-marketing-positioning-angles/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-positioning-angles/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-programmatic-seo/",
+      "to": "https://aaskills.tech/skill/boring-marketing-programmatic-seo/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-programmatic-seo/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-reviews/",
+      "to": "https://aaskills.tech/skill/boring-marketing-reviews/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-reviews/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-seo-content/",
+      "to": "https://aaskills.tech/skill/boring-marketing-seo-content/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-seo-content/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-service-area-pages/",
+      "to": "https://aaskills.tech/skill/boring-marketing-service-area-pages/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-service-area-pages/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-site-audit/",
+      "to": "https://aaskills.tech/skill/boring-marketing-site-audit/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-site-audit/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-social-content/",
+      "to": "https://aaskills.tech/skill/boring-marketing-social-content/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-social-content/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-speed-to-lead/",
+      "to": "https://aaskills.tech/skill/boring-marketing-speed-to-lead/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-speed-to-lead/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/boring-marketing-start-here/",
+      "to": "https://aaskills.tech/skill/boring-marketing-start-here/",
+      "output_file": "antigravity-awesome-skills/skill/boring-marketing-start-here/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/bounce-rate-estimator/",
       "to": "https://aaskills.tech/skill/bounce-rate-estimator/",
       "output_file": "antigravity-awesome-skills/skill/bounce-rate-estimator/index.html"
@@ -4929,6 +5089,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/e2e-testing/",
       "to": "https://aaskills.tech/skill/e2e-testing/",
       "output_file": "antigravity-awesome-skills/skill/e2e-testing/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/e2e/",
+      "to": "https://aaskills.tech/skill/e2e/",
+      "output_file": "antigravity-awesome-skills/skill/e2e/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/earllm-build/",
@@ -9099,6 +9264,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modellix/",
       "to": "https://aaskills.tech/skill/modellix/",
       "output_file": "antigravity-awesome-skills/skill/modellix/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modern-java-guidance/",
+      "to": "https://aaskills.tech/skill/modern-java-guidance/",
+      "output_file": "antigravity-awesome-skills/skill/modern-java-guidance/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/modern-javascript-patterns/",
@@ -14201,6 +14371,11 @@
       "output_file": "antigravity-awesome-skills/skill/vibe-delegate/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vibe-shield/",
+      "to": "https://aaskills.tech/skill/vibe-shield/",
+      "output_file": "antigravity-awesome-skills/skill/vibe-shield/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/vibecode-production-qa-validator/",
       "to": "https://aaskills.tech/skill/vibecode-production-qa-validator/",
       "output_file": "antigravity-awesome-skills/skill/vibecode-production-qa-validator/index.html"
@@ -14709,6 +14884,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/workorai/",
       "to": "https://aaskills.tech/skill/workorai/",
       "output_file": "antigravity-awesome-skills/skill/workorai/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/worktable-mcp/",
+      "to": "https://aaskills.tech/skill/worktable-mcp/",
+      "output_file": "antigravity-awesome-skills/skill/worktable-mcp/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/wp-guard/",
