@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "3ba1790d6b5561820b235c7251ddc360bf45a7d0028b504be4fd7fdf30f98872",
-  "source_skills_index_sha256": "5c1fa9be7b81fe48d91271d52594a55ab51870ecaaf46ba3eeb5a83143d87083",
+  "source_sitemap_sha256": "e17394651fcd605b8f047636a3ac5e0688bd2b9559b04b11e0bd8d98bcecce3b",
+  "source_skills_index_sha256": "3738759ec46bad64545d2c7ddfadac72049c2089d940a4890f4576216dc89286",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 3017,
-  "route_count": 3025,
+  "current_skill_route_count": 3022,
+  "route_count": 3030,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -3064,6 +3064,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/capturekit-mcp/",
       "to": "https://aaskills.tech/skill/capturekit-mcp/",
       "output_file": "antigravity-awesome-skills/skill/capturekit-mcp/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/carbonmark-carbon-retirement/",
+      "to": "https://aaskills.tech/skill/carbonmark-carbon-retirement/",
+      "output_file": "antigravity-awesome-skills/skill/carbonmark-carbon-retirement/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/card-based-design/",
@@ -6339,6 +6344,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ghidra-reverse/",
       "to": "https://aaskills.tech/skill/ghidra-reverse/",
       "output_file": "antigravity-awesome-skills/skill/ghidra-reverse/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ghost-qa/",
+      "to": "https://aaskills.tech/skill/ghost-qa/",
+      "output_file": "antigravity-awesome-skills/skill/ghost-qa/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/git-advanced-workflows/",
@@ -11176,6 +11186,11 @@
       "output_file": "antigravity-awesome-skills/skill/quit-sponsor/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/qurl-private-review/",
+      "to": "https://aaskills.tech/skill/qurl-private-review/",
+      "output_file": "antigravity-awesome-skills/skill/qurl-private-review/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/radar-satellite-analysis/",
       "to": "https://aaskills.tech/skill/radar-satellite-analysis/",
       "output_file": "antigravity-awesome-skills/skill/radar-satellite-analysis/index.html"
@@ -13096,6 +13111,11 @@
       "output_file": "antigravity-awesome-skills/skill/supabase-automation/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/supabase-edge-function-caller-auth/",
+      "to": "https://aaskills.tech/skill/supabase-edge-function-caller-auth/",
+      "output_file": "antigravity-awesome-skills/skill/supabase-edge-function-caller-auth/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/supabase-postgres-best-practices/",
       "to": "https://aaskills.tech/skill/supabase-postgres-best-practices/",
       "output_file": "antigravity-awesome-skills/skill/supabase-postgres-best-practices/index.html"
@@ -14069,6 +14089,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unslop-review/",
       "to": "https://aaskills.tech/skill/unslop-review/",
       "output_file": "antigravity-awesome-skills/skill/unslop-review/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unslop-ui-audit/",
+      "to": "https://aaskills.tech/skill/unslop-ui-audit/",
+      "output_file": "antigravity-awesome-skills/skill/unslop-ui-audit/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/unslop-ui/",
