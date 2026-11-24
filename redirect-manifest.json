@@ -3,13 +3,13 @@
   "source_repository": "https://github.com/sickn33/agentic-awesome-skills",
   "deployment_scope": "separate GitHub Pages user-site subdirectory",
   "not_for_current_project_pages": true,
-  "source_sitemap_sha256": "3d5fb86906ec7da91e3ca27a81254285afb07255f9dcf06eb2bb4dc8b20e0f32",
-  "source_skills_index_sha256": "7040718b2f694cd6500b254a4ea17bb0a0d003d7c9ac3b7d18eca2218082fcb6",
+  "source_sitemap_sha256": "71dc28a808a1d50b2d1543b198a184d2fb7c15afdc5ae32279a32346a1abdfc1",
+  "source_skills_index_sha256": "de2640e65e5bf94b3db47e5eda3e82d5557f80b7e6b8a7f855db3b40d1b26121",
   "current_base": "https://aaskills.tech/",
   "legacy_base": "https://sickn33.github.io/antigravity-awesome-skills/",
   "source_sitemap_route_count": 188,
-  "current_skill_route_count": 3131,
-  "route_count": 3139,
+  "current_skill_route_count": 3137,
+  "route_count": 3145,
   "legacy_sitemap_route_count": 188,
   "legacy_sitemap_policy": "curated current sitemap routes only",
   "legacy_sitemap": "antigravity-awesome-skills/sitemap.xml",
@@ -9596,6 +9596,11 @@
       "output_file": "antigravity-awesome-skills/skill/mobile-security-coder/index.html"
     },
     {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mobilebox-cloud-phones/",
+      "to": "https://aaskills.tech/skill/mobilebox-cloud-phones/",
+      "output_file": "antigravity-awesome-skills/skill/mobilebox-cloud-phones/index.html"
+    },
+    {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/mock-hunter/",
       "to": "https://aaskills.tech/skill/mock-hunter/",
       "output_file": "antigravity-awesome-skills/skill/mock-hunter/index.html"
@@ -10064,6 +10069,26 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nika/",
       "to": "https://aaskills.tech/skill/nika/",
       "output_file": "antigravity-awesome-skills/skill/nika/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nitrosend-email-platform-migration/",
+      "to": "https://aaskills.tech/skill/nitrosend-email-platform-migration/",
+      "output_file": "antigravity-awesome-skills/skill/nitrosend-email-platform-migration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nitrosend-klaviyo-migration/",
+      "to": "https://aaskills.tech/skill/nitrosend-klaviyo-migration/",
+      "output_file": "antigravity-awesome-skills/skill/nitrosend-klaviyo-migration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nitrosend-mailchimp-migration/",
+      "to": "https://aaskills.tech/skill/nitrosend-mailchimp-migration/",
+      "output_file": "antigravity-awesome-skills/skill/nitrosend-mailchimp-migration/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/nitrosend-shopify-email-marketing/",
+      "to": "https://aaskills.tech/skill/nitrosend-shopify-email-marketing/",
+      "output_file": "antigravity-awesome-skills/skill/nitrosend-shopify-email-marketing/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/no-free-work/",
@@ -14509,6 +14534,11 @@
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uiverify-triage-visual-changes/",
       "to": "https://aaskills.tech/skill/uiverify-triage-visual-changes/",
       "output_file": "antigravity-awesome-skills/skill/uiverify-triage-visual-changes/index.html"
+    },
+    {
+      "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/ultrafast/",
+      "to": "https://aaskills.tech/skill/ultrafast/",
+      "output_file": "antigravity-awesome-skills/skill/ultrafast/index.html"
     },
     {
       "from": "https://sickn33.github.io/antigravity-awesome-skills/skill/uncle-bob-craft/",
